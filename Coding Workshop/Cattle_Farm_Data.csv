@@ -1,267 +1,267 @@
 Farm ID,Herd ID,Cow ID,Age (Months),Sex,Breed,Body Condition Score,Milk Production (L/day),Test Date,Test Type,Test Result,Diagnosis,Strain ID,Gene Target Tested,aac(2/)-Ic Present,aac(2/)-Ic Expression,Follow-up Needed,Notes
-FARM_001,H01,C001,22,Female,Holstein,2.2,26.8,2024-12-22,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H01,C002,67,Male,Jersey,1.8,,2024-12-26,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H01,C003,26,Female,Guernsey,4.1,15.5,2024-11-20,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H01,C004,21,Male,Brown Swiss,3.5,,2024-12-27,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H01,C005,34,Male,Angus,2.5,,2024-11-21,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H01,C006,115,Female,Jersey,1.9,12.9,2024-12-25,PPD Skin Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
-FARM_001,H01,C007,30,Male,Brown Swiss,2.5,,2024-12-08,Gamma Interferon Test,Suspicious,Carrier / Monitored,bTB-R1,aac(2/)-Ic,True,27.95,True,Retest Scheduled
-FARM_001,H01,C008,74,Male,Guernsey,4.9,,2024-11-13,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H01,C009,107,Male,Brown Swiss,3.7,,2024-12-26,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H01,C010,64,Female,Jersey,4.3,17.4,2024-12-01,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H02,C001,42,Male,Holstein,3.4,,2024-11-30,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H02,C002,114,Female,Jersey,3.0,27.6,2024-12-29,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H02,C003,111,Male,Jersey,3.8,,2024-11-03,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H02,C004,68,Female,Angus,4.9,26.5,2024-12-31,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H02,C005,92,Female,Angus,4.0,19.8,2024-12-14,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H02,C006,115,Female,Holstein,1.5,28.8,2024-11-08,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H02,C007,89,Male,Brown Swiss,1.6,,2024-12-14,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H02,C008,108,Male,Holstein,2.4,,2024-11-19,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H02,C009,54,Female,Jersey,4.7,12.4,2024-12-21,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H02,C010,71,Female,Brown Swiss,2.7,13.7,2024-12-17,Gamma Interferon Test,Positive,Drug-resistant bTB,bTB-R1,aac(2/)-Ic,True,539.76,True,Isolated
-FARM_001,H03,C001,94,Male,Guernsey,4.1,,2024-11-13,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H03,C002,54,Female,Guernsey,2.5,13.0,2024-12-25,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H03,C003,71,Male,Holstein,3.3,,2024-12-15,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H03,C004,81,Male,Guernsey,2.9,,2024-12-13,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H03,C005,14,Male,Guernsey,4.3,,2024-12-07,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H03,C006,109,Female,Holstein,3.1,24.6,2024-11-14,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H03,C007,120,Male,Jersey,4.4,,2025-01-01,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H03,C008,21,Male,Jersey,3.3,,2024-12-27,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H03,C009,10,Male,Holstein,3.0,,2024-11-28,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H03,C010,90,Male,Jersey,2.2,,2024-11-20,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H04,C001,68,Female,Brown Swiss,4.6,34.9,2024-11-18,PPD Skin Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
-FARM_001,H04,C002,36,Male,Jersey,1.6,,2024-12-24,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H04,C003,51,Female,Jersey,3.9,20.6,2024-12-16,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H04,C004,57,Female,Holstein,4.8,26.9,2024-11-28,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H04,C005,40,Male,Angus,3.3,,2024-12-06,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H04,C006,106,Female,Guernsey,1.1,25.1,2024-12-15,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H04,C007,76,Female,Holstein,2.3,12.2,2024-11-13,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H04,C008,34,Female,Holstein,1.4,34.5,2024-12-08,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H04,C009,21,Male,Brown Swiss,3.9,,2024-11-25,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H04,C010,73,Female,Brown Swiss,4.5,23.8,2024-11-05,PPD Skin Test,Positive,Drug-resistant bTB,bTB-R1,aac(2/)-Ic,True,776.69,True,Isolated
-FARM_001,H05,C001,29,Female,Brown Swiss,3.2,32.1,2024-12-02,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H05,C002,93,Male,Jersey,1.6,,2024-12-29,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H05,C003,53,Male,Brown Swiss,2.7,,2024-12-21,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H05,C004,65,Female,Angus,4.8,23.0,2024-12-13,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H05,C005,45,Female,Angus,4.4,25.9,2024-11-16,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H05,C006,79,Male,Holstein,4.0,,2024-11-11,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H05,C007,60,Male,Guernsey,3.0,,2024-12-07,PPD Skin Test,Positive,Drug-resistant bTB,bTB-R1,aac(2/)-Ic,True,848.26,True,Isolated
-FARM_001,H05,C008,6,Female,Brown Swiss,4.0,16.1,2024-11-24,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H05,C009,118,Male,Jersey,1.3,,2024-11-30,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H05,C010,69,Female,Jersey,2.5,12.8,2024-11-09,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H06,C001,21,Female,Angus,2.9,16.6,2024-11-15,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H06,C002,45,Male,Guernsey,4.6,,2024-12-29,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H06,C003,48,Female,Angus,1.4,18.7,2024-12-07,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H06,C004,68,Male,Holstein,3.1,,2024-12-06,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H06,C005,25,Female,Jersey,2.9,19.4,2024-12-05,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H06,C006,40,Male,Guernsey,3.6,,2024-12-22,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H06,C007,6,Female,Jersey,1.4,17.1,2024-12-07,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H06,C008,10,Male,Jersey,4.8,,2024-12-25,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H06,C009,108,Male,Angus,4.0,,2024-11-30,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H06,C010,111,Female,Jersey,1.4,12.7,2024-12-24,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H07,C001,104,Male,Holstein,3.7,,2024-12-05,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H07,C002,61,Female,Angus,2.1,12.1,2024-12-17,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H07,C003,29,Male,Angus,4.1,,2024-11-18,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H07,C004,31,Female,Holstein,3.8,22.6,2024-12-20,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H07,C005,87,Male,Jersey,1.5,,2024-12-30,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H07,C006,24,Female,Holstein,3.5,12.3,2024-12-08,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H07,C007,87,Male,Jersey,2.3,,2024-12-29,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H07,C008,44,Male,Angus,2.5,,2024-11-17,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H07,C009,12,Male,Holstein,1.0,,2024-12-19,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H07,C010,83,Male,Guernsey,1.7,,2024-12-09,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H08,C001,91,Male,Brown Swiss,4.1,,2024-12-11,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H08,C002,101,Female,Jersey,3.6,15.3,2024-12-27,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H08,C003,101,Male,Holstein,3.3,,2024-12-20,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H08,C004,15,Female,Angus,3.9,34.7,2024-11-28,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H08,C005,30,Female,Brown Swiss,3.8,32.3,2024-11-05,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H08,C006,21,Female,Holstein,2.9,23.1,2024-12-22,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H08,C007,22,Female,Holstein,4.8,11.5,2024-11-15,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H08,C008,74,Male,Jersey,2.8,,2024-11-27,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H08,C009,40,Male,Jersey,1.0,,2024-11-25,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H08,C010,107,Female,Brown Swiss,3.8,23.1,2024-11-08,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H09,C001,76,Male,Jersey,1.9,,2024-12-14,PPD Skin Test,Positive,Drug-resistant bTB,bTB-R1,aac(2/)-Ic,True,895.24,True,Isolated
-FARM_001,H09,C002,23,Female,Holstein,3.6,16.2,2024-11-28,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H09,C003,86,Female,Angus,1.3,27.6,2024-11-16,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H09,C004,43,Female,Holstein,3.5,10.3,2024-12-18,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H09,C005,38,Male,Brown Swiss,3.6,,2024-11-16,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H09,C006,89,Female,Brown Swiss,3.2,30.4,2024-12-12,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H09,C007,109,Female,Jersey,2.8,28.2,2024-12-09,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H09,C008,69,Male,Guernsey,1.7,,2024-12-20,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H09,C009,29,Female,Holstein,2.2,32.1,2024-11-19,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H09,C010,15,Female,Jersey,2.8,26.1,2024-12-26,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H10,C001,102,Male,Brown Swiss,1.4,,2024-12-31,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H10,C002,112,Male,Jersey,2.0,,2024-12-15,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H10,C003,7,Male,Holstein,3.2,,2024-11-08,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H10,C004,67,Female,Jersey,2.2,22.0,2024-12-29,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H10,C005,75,Male,Holstein,4.3,,2024-11-28,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H10,C006,113,Female,Jersey,1.0,15.6,2024-12-05,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H10,C007,42,Male,Guernsey,3.7,,2024-12-01,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H10,C008,19,Female,Angus,1.3,18.3,2024-11-03,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H10,C009,11,Male,Jersey,2.7,,2024-11-24,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_001,H10,C010,120,Female,Brown Swiss,4.3,18.7,2024-12-15,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H01,C001,39,Male,Holstein,4.4,,2024-11-13,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H01,C002,55,Female,Guernsey,4.3,12.8,2024-11-16,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H01,C003,22,Male,Guernsey,2.4,,2024-12-05,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H01,C004,83,Female,Jersey,4.2,26.3,2024-12-08,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H01,C005,74,Female,Brown Swiss,3.1,15.8,2024-11-25,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H01,C006,105,Male,Holstein,1.9,,2024-12-19,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H01,C007,77,Female,Jersey,4.7,11.5,2024-12-09,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H01,C008,110,Male,Angus,2.8,,2024-12-17,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H01,C009,101,Male,Holstein,4.8,,2024-12-08,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H01,C010,60,Female,Holstein,3.8,26.6,2024-12-02,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H02,C001,9,Male,Angus,1.6,,2024-12-28,PPD Skin Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
-FARM_002,H02,C002,112,Female,Jersey,4.1,21.7,2024-11-15,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H02,C003,66,Female,Angus,2.8,26.1,2024-12-14,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H02,C004,88,Male,Brown Swiss,4.0,,2025-01-01,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H02,C005,118,Female,Brown Swiss,3.8,16.5,2024-11-17,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H02,C006,40,Male,Brown Swiss,2.5,,2024-11-15,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H02,C007,34,Female,Jersey,4.3,34.4,2024-11-10,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H02,C008,89,Female,Guernsey,1.7,30.1,2024-12-20,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H02,C009,52,Female,Holstein,2.0,14.1,2024-12-28,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H02,C010,45,Male,Brown Swiss,1.8,,2024-12-17,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H03,C001,78,Male,Brown Swiss,4.9,,2024-12-30,Gamma Interferon Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
-FARM_002,H03,C002,17,Female,Holstein,4.9,28.8,2024-11-30,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H03,C003,98,Female,Jersey,3.8,12.4,2024-11-05,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H03,C004,109,Male,Holstein,3.3,,2024-12-02,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H03,C005,43,Male,Jersey,3.7,,2024-11-06,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H03,C006,35,Male,Jersey,4.1,,2024-11-30,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H03,C007,89,Female,Guernsey,4.1,18.5,2024-11-23,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H03,C008,120,Female,Jersey,1.8,25.3,2024-12-23,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H03,C009,18,Male,Jersey,4.1,,2024-11-27,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H03,C010,120,Male,Guernsey,1.4,,2024-12-22,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H04,C001,41,Female,Angus,1.4,14.5,2024-12-16,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H04,C002,103,Female,Jersey,4.8,34.3,2024-12-30,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H04,C003,58,Male,Guernsey,2.5,,2024-12-09,Gamma Interferon Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
-FARM_002,H04,C004,58,Female,Angus,4.5,34.8,2024-11-23,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H04,C005,107,Male,Brown Swiss,1.0,,2024-12-14,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H04,C006,115,Male,Jersey,2.6,,2024-11-20,Gamma Interferon Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
-FARM_002,H04,C007,65,Female,Brown Swiss,4.6,21.6,2024-12-21,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H04,C008,56,Female,Jersey,2.6,11.6,2024-11-24,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H04,C009,66,Male,Angus,2.8,,2024-11-02,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H04,C010,46,Male,Brown Swiss,4.1,,2024-11-03,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H05,C001,66,Male,Holstein,1.8,,2024-11-02,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H05,C002,38,Male,Holstein,1.6,,2024-12-07,Gamma Interferon Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
-FARM_002,H05,C003,117,Female,Guernsey,3.1,26.7,2024-12-21,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H05,C004,60,Female,Angus,1.7,18.7,2024-12-02,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H05,C005,26,Female,Angus,4.7,24.3,2024-11-27,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H05,C006,15,Male,Angus,3.7,,2025-01-01,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H05,C007,24,Female,Angus,1.5,34.2,2024-12-16,Gamma Interferon Test,Suspicious,Carrier / Monitored,bTB-R1,aac(2/)-Ic,True,140.66,True,Retest Scheduled
-FARM_002,H05,C008,112,Male,Guernsey,3.6,,2024-12-30,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H05,C009,59,Male,Brown Swiss,2.5,,2024-12-19,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H05,C010,79,Male,Angus,4.3,,2024-12-13,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H06,C001,117,Male,Guernsey,3.6,,2024-12-06,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H06,C002,75,Female,Brown Swiss,4.9,18.4,2024-12-03,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H06,C003,82,Male,Brown Swiss,2.7,,2024-11-08,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H06,C004,87,Female,Brown Swiss,4.8,32.6,2024-12-27,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H06,C005,89,Male,Brown Swiss,4.7,,2024-12-01,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H06,C006,75,Male,Guernsey,3.0,,2024-11-20,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H06,C007,34,Female,Brown Swiss,2.5,14.9,2024-11-02,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H06,C008,65,Female,Guernsey,1.0,19.4,2024-11-30,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H06,C009,39,Female,Guernsey,3.7,10.1,2024-12-30,Gamma Interferon Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
-FARM_002,H06,C010,25,Female,Brown Swiss,4.3,25.0,2024-12-22,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H07,C001,36,Female,Jersey,3.5,19.8,2024-11-11,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H07,C002,87,Female,Jersey,2.6,18.0,2024-12-05,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H07,C003,22,Male,Brown Swiss,4.1,,2024-11-09,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H07,C004,32,Male,Holstein,1.1,,2024-11-22,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H07,C005,85,Male,Brown Swiss,2.5,,2024-12-03,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H07,C006,29,Male,Jersey,2.2,,2024-11-16,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H07,C007,104,Female,Holstein,2.1,33.4,2024-11-22,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H07,C008,20,Female,Brown Swiss,1.5,13.5,2024-11-05,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H07,C009,114,Female,Jersey,2.6,22.3,2024-12-06,PPD Skin Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
-FARM_002,H07,C010,86,Male,Jersey,3.7,,2024-11-06,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H08,C001,109,Male,Jersey,2.2,,2024-11-20,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H08,C002,10,Male,Angus,5.0,,2024-11-23,Gamma Interferon Test,Suspicious,Carrier / Monitored,bTB-R1,aac(2/)-Ic,True,161.31,True,Retest Scheduled
-FARM_002,H08,C003,38,Male,Jersey,3.4,,2024-11-29,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H08,C004,116,Female,Holstein,4.6,10.7,2024-12-18,PPD Skin Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
-FARM_002,H08,C005,94,Male,Angus,2.1,,2024-12-27,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H08,C006,43,Female,Guernsey,2.7,33.7,2024-12-16,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H08,C007,119,Female,Guernsey,1.4,29.8,2024-12-22,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H08,C008,68,Female,Guernsey,2.7,28.7,2024-11-23,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H08,C009,31,Female,Angus,4.6,30.5,2024-12-22,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H08,C010,38,Female,Angus,3.4,31.9,2024-12-07,Gamma Interferon Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
-FARM_002,H09,C001,29,Female,Guernsey,4.2,18.9,2024-12-19,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H09,C002,105,Female,Holstein,1.0,27.2,2024-12-19,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H09,C003,35,Male,Guernsey,2.1,,2024-11-29,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H09,C004,97,Male,Brown Swiss,4.6,,2024-11-19,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H09,C005,46,Male,Jersey,1.2,,2024-12-01,Gamma Interferon Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
-FARM_002,H09,C006,41,Female,Holstein,1.5,14.3,2024-11-25,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H09,C007,42,Male,Brown Swiss,5.0,,2024-12-14,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H09,C008,10,Male,Angus,3.6,,2024-12-02,PPD Skin Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
-FARM_002,H09,C009,108,Female,Angus,2.1,28.8,2024-12-27,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H09,C010,84,Male,Guernsey,2.2,,2024-12-01,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H10,C001,21,Female,Brown Swiss,1.4,15.6,2024-12-24,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H10,C002,94,Female,Jersey,1.7,14.8,2024-11-10,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H10,C003,94,Male,Angus,4.5,,2024-12-25,PPD Skin Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
-FARM_002,H10,C004,44,Male,Angus,2.3,,2024-12-15,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H10,C005,80,Female,Holstein,1.5,31.5,2024-11-22,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H10,C006,73,Male,Brown Swiss,2.9,,2024-12-15,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H10,C007,34,Male,Angus,4.1,,2024-12-10,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H10,C008,90,Male,Holstein,1.3,,2024-12-29,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H10,C009,65,Female,Jersey,3.0,18.5,2024-11-14,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_002,H10,C010,89,Male,Brown Swiss,1.4,,2024-12-18,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_003,H01,C001,63,Male,Guernsey,1.8,,2024-12-05,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_003,H01,C002,117,Male,Jersey,2.8,,2024-11-15,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_003,H01,C003,64,Male,Angus,1.1,,2024-12-10,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_003,H01,C004,16,Female,Guernsey,1.8,19.9,2024-11-30,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_003,H01,C005,53,Male,Holstein,3.6,,2024-12-20,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_003,H01,C006,82,Female,Brown Swiss,3.4,23.0,2024-11-19,PPD Skin Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
-FARM_003,H01,C007,37,Male,Jersey,1.5,,2024-11-26,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_003,H01,C008,18,Female,Jersey,4.5,27.5,2024-12-07,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_003,H01,C009,111,Female,Guernsey,1.8,29.6,2024-11-22,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_003,H01,C010,99,Male,Holstein,1.7,,2024-11-15,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_003,H02,C001,36,Male,Angus,3.7,,2024-12-21,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_003,H02,C002,7,Female,Guernsey,2.3,14.4,2024-11-06,Gamma Interferon Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
-FARM_003,H02,C003,92,Male,Brown Swiss,2.4,,2024-11-25,Gamma Interferon Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
-FARM_003,H02,C004,117,Male,Guernsey,1.4,,2024-11-26,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_003,H02,C005,35,Male,Jersey,4.1,,2024-12-13,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_003,H02,C006,68,Female,Brown Swiss,2.0,22.2,2024-12-03,Gamma Interferon Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
-FARM_003,H02,C007,51,Female,Angus,4.6,29.4,2024-12-25,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_003,H02,C008,87,Male,Jersey,4.9,,2024-11-20,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_003,H02,C009,9,Male,Brown Swiss,4.0,,2024-12-09,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_003,H02,C010,54,Male,Angus,4.5,,2024-11-06,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_003,H03,C001,92,Female,Angus,2.6,20.4,2024-12-13,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_003,H03,C002,95,Female,Brown Swiss,1.5,29.9,2024-12-14,Gamma Interferon Test,Suspicious,Carrier / Monitored,bTB-R1,aac(2/)-Ic,True,278.9,True,Retest Scheduled
-FARM_003,H03,C003,24,Female,Jersey,3.1,17.2,2024-12-13,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_003,H03,C004,43,Male,Guernsey,1.2,,2024-11-10,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_003,H03,C005,45,Male,Guernsey,2.4,,2024-12-29,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_003,H03,C006,42,Male,Holstein,3.9,,2024-11-16,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_003,H03,C007,16,Female,Jersey,1.1,33.3,2024-11-11,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_003,H03,C008,57,Male,Angus,4.7,,2024-12-21,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_003,H03,C009,47,Male,Jersey,2.0,,2024-11-27,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_003,H03,C010,44,Female,Brown Swiss,1.7,29.6,2024-12-26,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_003,H04,C001,46,Female,Guernsey,2.4,21.7,2024-12-03,Gamma Interferon Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
-FARM_003,H04,C002,77,Male,Guernsey,1.4,,2024-11-23,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_003,H04,C003,80,Female,Jersey,3.5,32.5,2024-12-29,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_003,H04,C004,57,Male,Guernsey,4.2,,2024-11-09,Gamma Interferon Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
-FARM_003,H04,C005,13,Female,Holstein,2.3,12.4,2024-11-26,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_003,H04,C006,13,Male,Brown Swiss,3.7,,2024-11-18,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_003,H04,C007,100,Female,Jersey,1.9,26.9,2024-12-13,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_003,H04,C008,6,Female,Brown Swiss,3.8,12.9,2024-12-23,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_003,H04,C009,18,Male,Jersey,1.4,,2024-11-09,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_003,H04,C010,21,Female,Guernsey,2.9,14.6,2024-11-09,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_003,H05,C001,84,Female,Brown Swiss,1.5,13.7,2024-12-21,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_003,H05,C002,36,Male,Brown Swiss,4.0,,2024-12-02,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_003,H05,C003,18,Female,Angus,3.7,19.8,2024-12-03,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_003,H05,C004,9,Female,Guernsey,1.5,19.7,2024-12-30,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_003,H05,C005,85,Female,Holstein,4.6,18.9,2024-12-03,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_003,H05,C006,7,Male,Angus,3.0,,2024-12-10,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_003,H05,C007,71,Male,Jersey,3.6,,2024-11-21,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_003,H05,C008,97,Male,Angus,4.1,,2024-11-03,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_003,H05,C009,88,Female,Guernsey,4.9,25.1,2024-11-26,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_003,H05,C010,90,Female,Jersey,3.8,24.7,2024-11-25,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_003,H06,C001,11,Male,Jersey,1.9,,2024-12-01,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_003,H06,C002,103,Male,Jersey,1.4,,2024-11-16,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_003,H06,C003,59,Male,Holstein,3.4,,2024-12-30,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_003,H06,C004,103,Female,Brown Swiss,3.5,10.7,2024-12-12,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_003,H06,C005,23,Male,Jersey,2.0,,2024-11-19,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_003,H06,C006,26,Female,Brown Swiss,4.2,14.8,2024-11-22,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_003,H06,C007,10,Male,Holstein,2.4,,2024-11-26,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_003,H06,C008,29,Female,Jersey,4.3,24.3,2024-11-30,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_003,H06,C009,77,Male,Holstein,2.8,,2024-11-07,Gamma Interferon Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
-FARM_003,H06,C010,16,Male,Brown Swiss,2.2,,2024-12-01,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_003,H07,C001,48,Male,Jersey,4.3,,2024-11-03,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_003,H07,C002,51,Male,Jersey,4.9,,2024-11-28,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_003,H07,C003,84,Female,Guernsey,3.5,23.6,2024-11-25,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_001,H01,C001,22,Female,Holstein,2.2,26.8,2024-12-22,Gamma Interferon Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_001,H01,C002,20,Female,Brown Swiss,2.0,15.3,2024-12-26,PPD Skin Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
+FARM_001,H01,C003,26,Female,Guernsey,4.1,15.5,2024-11-20,Gamma Interferon Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_001,H01,C004,120,Male,Jersey,4.7,,2024-12-27,Gamma Interferon Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_001,H01,C005,48,Male,Brown Swiss,4.1,,2024-11-21,PPD Skin Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
+FARM_001,H01,C006,101,Female,Brown Swiss,4.9,20.9,2024-12-18,PPD Skin Test,Positive,Drug-resistant bTB,bTB-R1,aac(2/)-Ic,True,200.24,True,Isolated
+FARM_001,H01,C007,49,Male,Holstein,3.3,,2024-11-08,PPD Skin Test,Positive,Drug-resistant bTB,bTB-R1,aac(2/)-Ic,True,763.23,True,Isolated
+FARM_001,H01,C008,45,Male,Brown Swiss,3.1,,2024-12-05,Gamma Interferon Test,Positive,Drug-resistant bTB,bTB-R1,aac(2/)-Ic,True,711.37,True,Isolated
+FARM_001,H01,C009,107,Male,Brown Swiss,3.7,,2024-12-26,PPD Skin Test,Positive,Drug-resistant bTB,bTB-R1,aac(2/)-Ic,True,514.54,True,Isolated
+FARM_001,H01,C010,24,Female,Jersey,3.0,21.4,2024-12-23,Gamma Interferon Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_001,H02,C001,114,Male,Brown Swiss,2.3,,2024-12-15,PPD Skin Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_001,H02,C002,96,Female,Jersey,3.0,27.6,2024-12-29,Gamma Interferon Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_001,H02,C003,48,Male,Jersey,4.4,,2024-11-18,PPD Skin Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_001,H02,C004,116,Male,Guernsey,3.9,,2024-11-10,Gamma Interferon Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_001,H02,C005,114,Male,Holstein,3.2,,2024-12-05,Gamma Interferon Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_001,H02,C006,50,Female,Guernsey,1.3,28.2,2024-11-18,Gamma Interferon Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_001,H02,C007,95,Female,Holstein,1.5,28.8,2024-11-08,PPD Skin Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_001,H02,C008,44,Female,Jersey,3.3,21.0,2024-12-14,Gamma Interferon Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_001,H02,C009,32,Male,Jersey,3.9,,2024-12-09,PPD Skin Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_001,H02,C010,79,Male,Jersey,2.5,,2024-11-19,Gamma Interferon Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_001,H03,C001,13,Male,Angus,4.9,,2024-11-02,PPD Skin Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
+FARM_001,H03,C002,89,Female,Brown Swiss,2.7,13.7,2024-12-17,Gamma Interferon Test,Positive,Drug-resistant bTB,bTB-R1,aac(2/)-Ic,True,539.76,True,Isolated
+FARM_001,H03,C003,94,Male,Guernsey,4.1,,2024-11-13,PPD Skin Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_001,H03,C004,110,Female,Angus,3.5,21.1,2024-12-25,PPD Skin Test,Positive,Drug-resistant bTB,bTB-R1,aac(2/)-Ic,True,677.27,True,Isolated
+FARM_001,H03,C005,71,Male,Holstein,3.3,,2024-12-15,Gamma Interferon Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_001,H03,C006,18,Male,Guernsey,2.9,,2024-12-13,Gamma Interferon Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_001,H03,C007,18,Female,Holstein,3.9,31.6,2024-12-07,PPD Skin Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_001,H03,C008,8,Female,Brown Swiss,4.3,29.6,2024-12-28,Gamma Interferon Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_001,H03,C009,80,Male,Jersey,4.9,,2024-12-21,PPD Skin Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_001,H03,C010,94,Male,Holstein,3.2,,2024-12-25,Gamma Interferon Test,Positive,Drug-resistant bTB,bTB-R1,aac(2/)-Ic,True,687.38,True,Isolated
+FARM_001,H04,C001,17,Female,Holstein,1.3,13.1,2024-12-09,Gamma Interferon Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_001,H04,C002,27,Female,Holstein,2.0,11.2,2024-11-20,Gamma Interferon Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_001,H04,C003,23,Female,Angus,3.1,34.7,2024-11-24,Gamma Interferon Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_001,H04,C004,32,Male,Holstein,1.9,,2024-12-23,PPD Skin Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
+FARM_001,H04,C005,23,Male,Brown Swiss,2.4,,2024-11-16,PPD Skin Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_001,H04,C006,15,Female,Angus,2.5,32.6,2024-12-03,Gamma Interferon Test,Positive,Drug-resistant bTB,bTB-R1,aac(2/)-Ic,True,482.81,True,Isolated
+FARM_001,H04,C007,94,Male,Brown Swiss,1.8,,2024-11-22,Gamma Interferon Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_001,H04,C008,30,Female,Brown Swiss,3.6,30.5,2024-12-06,PPD Skin Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_001,H04,C009,46,Female,Guernsey,1.1,25.1,2024-12-15,PPD Skin Test,Positive,Drug-resistant bTB,bTB-R1,aac(2/)-Ic,True,593.53,True,Isolated
+FARM_001,H04,C010,14,Female,Holstein,2.5,18.3,2024-12-23,Gamma Interferon Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_001,H05,C001,34,Female,Holstein,1.4,34.5,2024-12-08,PPD Skin Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_001,H05,C002,106,Male,Jersey,3.1,,2024-11-25,Gamma Interferon Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_001,H05,C003,68,Male,Brown Swiss,2.4,,2024-11-27,Gamma Interferon Test,Positive,Drug-resistant bTB,bTB-R1,aac(2/)-Ic,True,143.17,True,Isolated
+FARM_001,H05,C004,46,Female,Jersey,2.4,28.5,2024-12-02,Gamma Interferon Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_001,H05,C005,39,Male,Brown Swiss,3.9,,2024-12-23,PPD Skin Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
+FARM_001,H05,C006,12,Female,Jersey,3.7,20.5,2024-12-21,Gamma Interferon Test,Positive,Drug-resistant bTB,bTB-R1,aac(2/)-Ic,True,521.8,True,Isolated
+FARM_001,H05,C007,42,Female,Guernsey,3.1,28.0,2024-12-13,PPD Skin Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_001,H05,C008,17,Female,Guernsey,4.1,31.1,2024-12-28,PPD Skin Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_001,H05,C009,17,Male,Brown Swiss,1.2,,2024-11-27,Gamma Interferon Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_001,H05,C010,109,Male,Guernsey,3.7,,2024-12-02,PPD Skin Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_001,H06,C001,93,Male,Guernsey,1.1,,2024-11-04,PPD Skin Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_001,H06,C002,6,Female,Brown Swiss,4.0,16.1,2024-11-24,PPD Skin Test,Positive,Drug-resistant bTB,bTB-R1,aac(2/)-Ic,True,937.17,True,Isolated
+FARM_001,H06,C003,103,Male,Jersey,1.3,,2024-11-30,PPD Skin Test,Positive,Drug-resistant bTB,bTB-R1,aac(2/)-Ic,True,545.96,True,Isolated
+FARM_001,H06,C004,27,Female,Holstein,2.4,27.0,2024-12-14,PPD Skin Test,Positive,Drug-resistant bTB,bTB-R1,aac(2/)-Ic,True,291.76,True,Isolated
+FARM_001,H06,C005,100,Female,Jersey,4.7,33.2,2024-11-03,PPD Skin Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_001,H06,C006,85,Female,Holstein,2.4,25.4,2024-12-13,Gamma Interferon Test,Positive,Drug-resistant bTB,bTB-R1,aac(2/)-Ic,True,901.18,True,Isolated
+FARM_001,H06,C007,29,Female,Angus,1.0,20.8,2024-12-27,PPD Skin Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_001,H06,C008,25,Female,Holstein,4.7,10.2,2024-12-18,Gamma Interferon Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_001,H06,C009,53,Female,Angus,2.7,14.6,2024-12-26,Gamma Interferon Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_001,H06,C010,90,Female,Jersey,1.6,28.7,2024-12-10,PPD Skin Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_001,H07,C001,96,Male,Holstein,1.8,,2024-12-24,PPD Skin Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
+FARM_001,H07,C002,10,Male,Jersey,4.8,,2024-12-25,Gamma Interferon Test,Positive,Drug-resistant bTB,bTB-R1,aac(2/)-Ic,True,819.84,True,Isolated
+FARM_001,H07,C003,97,Male,Angus,4.0,,2024-11-30,Gamma Interferon Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_001,H07,C004,100,Female,Jersey,1.4,12.7,2024-12-24,PPD Skin Test,Positive,Drug-resistant bTB,bTB-R1,aac(2/)-Ic,True,790.65,True,Isolated
+FARM_001,H07,C005,36,Male,Angus,2.7,,2024-12-05,PPD Skin Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_001,H07,C006,42,Female,Holstein,4.0,16.2,2024-11-16,PPD Skin Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_001,H07,C007,37,Female,Holstein,4.5,34.9,2024-11-20,PPD Skin Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_001,H07,C008,31,Female,Holstein,3.8,22.6,2024-12-20,PPD Skin Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_001,H07,C009,81,Male,Jersey,1.5,,2024-12-30,Gamma Interferon Test,Positive,Drug-resistant bTB,bTB-R1,aac(2/)-Ic,True,231.59,True,Isolated
+FARM_001,H07,C010,8,Male,Holstein,4.5,,2024-12-06,Gamma Interferon Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_001,H08,C001,95,Male,Jersey,2.3,,2024-12-29,Gamma Interferon Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_001,H08,C002,88,Male,Angus,1.4,,2024-12-15,Gamma Interferon Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_001,H08,C003,97,Female,Jersey,2.3,11.2,2025-01-01,PPD Skin Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
+FARM_001,H08,C004,33,Female,Guernsey,2.1,25.2,2024-12-21,Gamma Interferon Test,Positive,Drug-resistant bTB,bTB-R1,aac(2/)-Ic,True,400.85,True,Isolated
+FARM_001,H08,C005,20,Male,Holstein,3.7,,2024-12-11,PPD Skin Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
+FARM_001,H08,C006,101,Female,Jersey,3.6,15.3,2024-12-27,Gamma Interferon Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_001,H08,C007,22,Male,Holstein,3.3,,2024-12-20,PPD Skin Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_001,H08,C008,18,Male,Brown Swiss,3.5,,2024-11-16,Gamma Interferon Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_001,H08,C009,103,Male,Brown Swiss,3.9,,2024-12-24,PPD Skin Test,Positive,Drug-resistant bTB,bTB-R1,aac(2/)-Ic,True,327.27,True,Isolated
+FARM_001,H08,C010,118,Female,Angus,2.8,27.9,2024-12-28,Gamma Interferon Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_001,H09,C001,73,Male,Jersey,3.4,,2024-12-14,PPD Skin Test,Positive,Drug-resistant bTB,bTB-R1,aac(2/)-Ic,True,814.95,True,Isolated
+FARM_001,H09,C002,94,Male,Guernsey,3.0,,2024-12-22,PPD Skin Test,Positive,Drug-resistant bTB,bTB-R1,aac(2/)-Ic,True,606.25,True,Isolated
+FARM_001,H09,C003,55,Female,Brown Swiss,2.1,14.6,2024-11-26,PPD Skin Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
+FARM_001,H09,C004,118,Female,Brown Swiss,3.8,23.1,2024-11-08,Gamma Interferon Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
+FARM_001,H09,C005,76,Male,Jersey,1.9,,2024-12-14,PPD Skin Test,Positive,Drug-resistant bTB,bTB-R1,aac(2/)-Ic,True,895.24,True,Isolated
+FARM_001,H09,C006,23,Female,Holstein,3.6,16.2,2024-11-28,PPD Skin Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
+FARM_001,H09,C007,86,Female,Angus,1.3,27.6,2024-11-16,Gamma Interferon Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
+FARM_001,H09,C008,43,Female,Holstein,3.5,10.3,2024-12-18,Gamma Interferon Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_001,H09,C009,41,Male,Angus,4.9,,2024-11-16,PPD Skin Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_001,H09,C010,54,Female,Brown Swiss,3.2,30.4,2024-12-12,PPD Skin Test,Positive,Drug-resistant bTB,bTB-R1,aac(2/)-Ic,True,826.96,True,Isolated
+FARM_001,H10,C001,102,Female,Jersey,2.8,28.2,2024-12-09,Gamma Interferon Test,Positive,Drug-resistant bTB,bTB-R1,aac(2/)-Ic,True,546.37,True,Isolated
+FARM_001,H10,C002,64,Male,Jersey,1.8,,2024-11-02,Gamma Interferon Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_001,H10,C003,88,Female,Holstein,2.2,32.1,2024-11-19,Gamma Interferon Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_001,H10,C004,14,Male,Holstein,2.7,,2024-11-04,Gamma Interferon Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_001,H10,C005,57,Male,Brown Swiss,1.5,,2024-11-24,PPD Skin Test,Positive,Drug-resistant bTB,bTB-R1,aac(2/)-Ic,True,199.03,True,Isolated
+FARM_001,H10,C006,7,Male,Jersey,2.0,,2024-12-15,PPD Skin Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
+FARM_001,H10,C007,7,Male,Holstein,3.2,,2024-11-08,Gamma Interferon Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_001,H10,C008,31,Male,Guernsey,4.0,,2024-11-10,Gamma Interferon Test,Positive,Drug-resistant bTB,bTB-R1,aac(2/)-Ic,True,239.06,True,Isolated
+FARM_001,H10,C009,13,Female,Brown Swiss,1.5,30.6,2024-11-28,PPD Skin Test,Positive,Drug-resistant bTB,bTB-R1,aac(2/)-Ic,True,852.84,True,Isolated
+FARM_001,H10,C010,24,Male,Jersey,1.1,,2024-12-08,Gamma Interferon Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
+FARM_002,H01,C001,34,Female,Holstein,3.0,34.8,2024-12-26,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H01,C002,15,Female,Holstein,2.4,33.1,2024-11-05,PPD Skin Test,Positive,bTB,,aac(2/)-Ic,False,,True,Retest Scheduled
+FARM_002,H01,C003,60,Female,Brown Swiss,1.7,20.6,2024-11-23,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H01,C004,19,Female,Guernsey,3.6,33.3,2024-11-12,PPD Skin Test,Positive,bTB,,aac(2/)-Ic,False,,True,Retest Scheduled
+FARM_002,H01,C005,25,Male,Angus,1.6,,2024-11-16,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H01,C006,110,Male,Holstein,3.3,,2024-12-23,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H01,C007,29,Female,Angus,2.3,20.6,2024-11-24,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H01,C008,108,Male,Guernsey,2.7,,2024-11-28,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H01,C009,111,Male,Guernsey,1.3,,2024-11-29,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H01,C010,101,Male,Holstein,1.9,,2024-12-19,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H02,C001,77,Female,Jersey,4.7,11.5,2024-12-09,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H02,C002,110,Male,Angus,2.8,,2024-12-17,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H02,C003,101,Male,Holstein,4.8,,2024-12-08,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H02,C004,60,Female,Holstein,3.8,26.6,2024-12-02,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H02,C005,9,Male,Angus,1.6,,2024-12-28,PPD Skin Test,Positive,bTB,,aac(2/)-Ic,False,,True,Retest Scheduled
+FARM_002,H02,C006,59,Male,Jersey,2.9,,2024-11-15,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H02,C007,66,Female,Angus,2.8,26.1,2024-12-14,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H02,C008,88,Male,Brown Swiss,4.0,,2025-01-01,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H02,C009,118,Female,Brown Swiss,3.8,16.5,2024-11-17,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H02,C010,40,Male,Brown Swiss,2.5,,2024-11-15,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H03,C001,34,Female,Jersey,4.3,34.4,2024-11-10,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H03,C002,89,Female,Guernsey,1.7,30.1,2024-12-20,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H03,C003,52,Female,Holstein,2.0,14.1,2024-12-28,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H03,C004,45,Male,Brown Swiss,1.8,,2024-12-17,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H03,C005,78,Male,Brown Swiss,4.9,,2024-12-30,Gamma Interferon Test,Positive,bTB,,aac(2/)-Ic,False,,True,Retest Scheduled
+FARM_002,H03,C006,45,Male,Angus,4.0,,2024-11-30,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H03,C007,98,Female,Jersey,3.8,12.4,2024-11-05,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H03,C008,109,Male,Holstein,3.3,,2024-12-02,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H03,C009,43,Male,Jersey,3.7,,2024-11-06,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H03,C010,35,Male,Jersey,4.1,,2024-11-30,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H04,C001,89,Female,Guernsey,4.1,18.5,2024-11-23,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H04,C002,120,Female,Jersey,1.8,25.3,2024-12-23,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H04,C003,18,Male,Jersey,4.1,,2024-11-27,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H04,C004,120,Male,Guernsey,1.4,,2024-12-22,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H04,C005,41,Female,Angus,1.4,14.5,2024-12-16,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H04,C006,103,Female,Jersey,4.8,34.3,2024-12-30,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H04,C007,58,Male,Guernsey,2.5,,2024-12-09,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H04,C008,63,Female,Holstein,3.5,26.1,2024-11-18,PPD Skin Test,Suspicious,Carrier / Monitored,bTB-R1,aac(2/)-Ic,True,257.39,True,Retest Scheduled
+FARM_002,H04,C009,43,Female,Jersey,3.3,31.3,2024-12-08,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H04,C010,50,Female,Guernsey,3.6,32.5,2024-12-26,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H05,C001,56,Female,Jersey,2.6,11.6,2024-11-24,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H05,C002,66,Male,Angus,2.8,,2024-11-02,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H05,C003,46,Male,Brown Swiss,4.1,,2024-11-03,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H05,C004,66,Male,Holstein,1.8,,2024-11-02,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H05,C005,38,Male,Holstein,1.6,,2024-12-07,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H05,C006,63,Female,Brown Swiss,1.9,32.3,2024-11-09,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H05,C007,60,Female,Angus,1.7,18.7,2024-12-02,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H05,C008,26,Female,Angus,4.7,24.3,2024-11-27,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H05,C009,15,Male,Angus,3.7,,2025-01-01,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H05,C010,24,Female,Angus,1.5,34.2,2024-12-16,Gamma Interferon Test,Suspicious,Carrier / Monitored,bTB-R1,aac(2/)-Ic,True,140.66,True,Retest Scheduled
+FARM_002,H06,C001,112,Male,Guernsey,3.6,,2024-12-30,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H06,C002,59,Male,Brown Swiss,2.5,,2024-12-19,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H06,C003,79,Male,Angus,4.3,,2024-12-13,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H06,C004,117,Male,Guernsey,3.6,,2024-12-06,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H06,C005,75,Female,Brown Swiss,4.9,18.4,2024-12-03,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H06,C006,82,Male,Brown Swiss,2.7,,2024-11-08,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H06,C007,87,Female,Brown Swiss,4.8,32.6,2024-12-27,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H06,C008,89,Male,Brown Swiss,4.7,,2024-12-01,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H06,C009,75,Male,Guernsey,3.0,,2024-11-20,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H06,C010,34,Female,Brown Swiss,2.5,14.9,2024-11-02,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H07,C001,65,Female,Guernsey,1.0,19.4,2024-11-30,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H07,C002,39,Female,Guernsey,3.7,10.1,2024-12-30,Gamma Interferon Test,Positive,bTB,,aac(2/)-Ic,False,,True,Retest Scheduled
+FARM_002,H07,C003,53,Female,Angus,1.7,24.3,2024-12-17,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H07,C004,84,Female,Holstein,4.2,24.4,2024-11-02,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H07,C005,28,Female,Angus,3.1,20.9,2024-11-17,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H07,C006,86,Female,Angus,4.3,14.0,2024-12-19,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H07,C007,7,Male,Holstein,3.5,,2024-11-26,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H07,C008,22,Female,Angus,1.7,26.3,2024-12-13,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H07,C009,98,Female,Angus,3.6,16.9,2024-11-22,PPD Skin Test,Positive,bTB,,aac(2/)-Ic,False,,True,Retest Scheduled
+FARM_002,H07,C010,116,Male,Holstein,2.8,,2024-12-26,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H08,C001,29,Male,Holstein,3.0,,2024-11-04,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H08,C002,68,Male,Guernsey,1.3,,2024-12-19,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H08,C003,46,Female,Jersey,1.7,10.3,2024-11-20,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H08,C004,10,Male,Angus,5.0,,2024-11-23,Gamma Interferon Test,Suspicious,Carrier / Monitored,bTB-R1,aac(2/)-Ic,True,161.31,True,Retest Scheduled
+FARM_002,H08,C005,38,Male,Jersey,3.4,,2024-11-29,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H08,C006,116,Female,Holstein,4.6,10.7,2024-12-18,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H08,C007,22,Female,Angus,2.9,33.8,2024-11-17,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H08,C008,101,Female,Guernsey,3.1,20.0,2024-12-16,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H08,C009,119,Female,Guernsey,1.4,29.8,2024-12-22,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H08,C010,68,Female,Guernsey,2.7,28.7,2024-11-23,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H09,C001,31,Female,Angus,4.6,30.5,2024-12-22,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H09,C002,38,Female,Angus,3.4,31.9,2024-12-07,Gamma Interferon Test,Positive,bTB,,aac(2/)-Ic,False,,True,Retest Scheduled
+FARM_002,H09,C003,47,Female,Jersey,2.4,11.8,2024-12-09,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H09,C004,7,Female,Holstein,3.9,15.3,2024-11-05,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H09,C005,42,Male,Brown Swiss,1.9,,2024-11-17,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H09,C006,116,Male,Brown Swiss,4.6,,2024-11-19,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H09,C007,46,Male,Jersey,1.2,,2024-12-01,Gamma Interferon Test,Positive,bTB,,aac(2/)-Ic,False,,True,Retest Scheduled
+FARM_002,H09,C008,21,Male,Guernsey,1.7,,2024-11-25,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H09,C009,42,Male,Brown Swiss,5.0,,2024-12-14,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H09,C010,10,Male,Angus,3.6,,2024-12-02,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H10,C001,98,Female,Angus,2.3,18.6,2024-11-27,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H10,C002,12,Female,Angus,3.8,21.4,2024-11-09,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H10,C003,9,Male,Holstein,4.3,,2024-12-26,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H10,C004,98,Female,Jersey,1.7,14.8,2024-11-10,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H10,C005,94,Male,Angus,4.5,,2024-12-25,PPD Skin Test,Positive,bTB,,aac(2/)-Ic,False,,True,Retest Scheduled
+FARM_002,H10,C006,39,Female,Brown Swiss,4.2,19.5,2024-11-03,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H10,C007,22,Female,Jersey,4.0,32.2,2024-11-22,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H10,C008,73,Male,Brown Swiss,2.9,,2024-12-15,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H10,C009,34,Male,Angus,4.1,,2024-12-10,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_002,H10,C010,90,Male,Holstein,1.3,,2024-12-29,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_003,H01,C001,65,Female,Jersey,3.0,18.5,2024-11-14,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_003,H01,C002,89,Male,Brown Swiss,1.4,,2024-12-18,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_003,H01,C003,63,Male,Guernsey,1.8,,2024-12-05,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_003,H01,C004,117,Male,Jersey,2.8,,2024-11-15,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_003,H01,C005,64,Male,Angus,1.1,,2024-12-10,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_003,H01,C006,16,Female,Guernsey,1.8,19.9,2024-11-30,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_003,H01,C007,53,Male,Holstein,3.6,,2024-12-20,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_003,H01,C008,82,Female,Brown Swiss,3.4,23.0,2024-11-19,PPD Skin Test,Positive,bTB,,aac(2/)-Ic,False,,True,Retest Scheduled
+FARM_003,H01,C009,20,Male,Holstein,1.2,,2024-11-26,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_003,H01,C010,18,Female,Jersey,4.5,27.5,2024-12-07,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_003,H02,C001,111,Female,Guernsey,1.8,29.6,2024-11-22,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_003,H02,C002,99,Male,Holstein,1.7,,2024-11-15,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_003,H02,C003,36,Male,Angus,3.7,,2024-12-21,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_003,H02,C004,7,Female,Guernsey,2.3,14.4,2024-11-06,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_003,H02,C005,115,Male,Brown Swiss,2.4,,2024-11-25,Gamma Interferon Test,Positive,bTB,,aac(2/)-Ic,False,,True,Retest Scheduled
+FARM_003,H02,C006,66,Male,Holstein,4.3,,2024-11-09,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_003,H02,C007,102,Male,Holstein,1.4,,2024-12-04,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_003,H02,C008,75,Female,Guernsey,2.0,21.5,2024-12-13,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_003,H02,C009,105,Female,Holstein,2.1,23.0,2024-12-23,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_003,H02,C010,90,Male,Angus,3.0,,2024-11-26,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_003,H03,C001,52,Male,Holstein,1.8,,2024-11-22,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_003,H03,C002,86,Female,Brown Swiss,1.7,32.8,2024-11-06,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_003,H03,C003,41,Female,Jersey,1.2,23.0,2024-11-09,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_003,H03,C004,64,Female,Angus,1.4,10.2,2024-12-03,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_003,H03,C005,43,Male,Angus,2.9,,2024-11-11,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_003,H03,C006,33,Female,Brown Swiss,1.5,22.2,2024-12-05,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_003,H03,C007,12,Female,Jersey,2.4,17.1,2024-12-27,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_003,H03,C008,99,Male,Guernsey,3.3,,2024-12-14,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_003,H03,C009,51,Male,Guernsey,2.7,,2024-11-05,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_003,H03,C010,45,Male,Brown Swiss,2.7,,2024-11-11,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_003,H04,C001,31,Female,Jersey,2.7,15.0,2024-12-27,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_003,H04,C002,65,Male,Guernsey,4.1,,2024-12-26,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_003,H04,C003,46,Female,Guernsey,2.4,21.7,2024-12-03,Gamma Interferon Test,Positive,bTB,,aac(2/)-Ic,False,,True,Retest Scheduled
+FARM_003,H04,C004,104,Female,Holstein,4.0,25.4,2024-11-12,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_003,H04,C005,22,Female,Holstein,4.0,19.8,2024-11-20,Gamma Interferon Test,Positive,bTB,,aac(2/)-Ic,False,,True,Retest Scheduled
+FARM_003,H04,C006,117,Female,Holstein,1.3,16.8,2024-12-11,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_003,H04,C007,78,Female,Angus,4.5,13.0,2024-11-18,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_003,H04,C008,100,Female,Jersey,1.9,26.9,2024-12-13,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_003,H04,C009,6,Female,Brown Swiss,3.8,12.9,2024-12-23,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_003,H04,C010,18,Male,Jersey,1.4,,2024-11-09,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_003,H05,C001,21,Female,Guernsey,2.9,14.6,2024-11-09,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_003,H05,C002,84,Female,Brown Swiss,1.5,13.7,2024-12-21,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_003,H05,C003,36,Male,Brown Swiss,4.0,,2024-12-02,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_003,H05,C004,18,Female,Angus,3.7,19.8,2024-12-03,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_003,H05,C005,9,Female,Guernsey,1.5,19.7,2024-12-30,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_003,H05,C006,85,Female,Holstein,4.6,18.9,2024-12-03,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_003,H05,C007,7,Male,Angus,3.0,,2024-12-10,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_003,H05,C008,71,Male,Jersey,3.6,,2024-11-21,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_003,H05,C009,97,Male,Angus,4.1,,2024-11-03,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_003,H05,C010,88,Female,Guernsey,4.9,25.1,2024-11-26,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_003,H06,C001,90,Female,Jersey,3.8,24.7,2024-11-25,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_003,H06,C002,11,Male,Jersey,1.9,,2024-12-01,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_003,H06,C003,103,Male,Jersey,1.4,,2024-11-16,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_003,H06,C004,59,Male,Holstein,3.4,,2024-12-30,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_003,H06,C005,103,Female,Brown Swiss,3.5,10.7,2024-12-12,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_003,H06,C006,23,Male,Jersey,2.0,,2024-11-19,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_003,H06,C007,26,Female,Brown Swiss,4.2,14.8,2024-11-22,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_003,H06,C008,10,Male,Holstein,2.4,,2024-11-26,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_003,H06,C009,29,Female,Jersey,4.3,24.3,2024-11-30,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_003,H06,C010,77,Male,Holstein,2.8,,2024-11-07,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_003,H07,C001,106,Female,Holstein,1.5,15.8,2024-12-31,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_003,H07,C002,112,Female,Guernsey,3.8,11.7,2024-12-14,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_003,H07,C003,115,Female,Guernsey,3.5,23.6,2024-11-25,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
 FARM_003,H07,C004,39,Male,Holstein,2.4,,2024-12-20,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
 FARM_003,H07,C005,23,Male,Brown Swiss,4.3,,2024-11-03,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
 FARM_003,H07,C006,13,Male,Guernsey,1.3,,2024-12-10,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
@@ -271,24 +271,24 @@ FARM_003,H07,C009,8,Male,Holstein,4.1,,2024-11-28,PPD Skin Test,Negative,Healthy
 FARM_003,H07,C010,93,Male,Brown Swiss,2.9,,2024-11-13,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
 FARM_003,H08,C001,95,Female,Brown Swiss,1.6,20.9,2024-12-10,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
 FARM_003,H08,C002,13,Male,Jersey,1.4,,2024-12-18,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_003,H08,C003,109,Male,Holstein,4.5,,2024-11-10,PPD Skin Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
-FARM_003,H08,C004,13,Male,Guernsey,1.7,,2024-12-12,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_003,H08,C005,37,Female,Jersey,3.4,22.0,2024-11-20,PPD Skin Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
-FARM_003,H08,C006,38,Male,Guernsey,3.8,,2024-11-05,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_003,H08,C003,109,Male,Holstein,4.5,,2024-11-10,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_003,H08,C004,62,Male,Angus,1.2,,2024-11-24,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_003,H08,C005,43,Male,Brown Swiss,2.6,,2024-11-20,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_003,H08,C006,75,Male,Guernsey,3.8,,2024-11-05,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
 FARM_003,H08,C007,97,Female,Angus,4.1,17.3,2024-11-29,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
 FARM_003,H08,C008,75,Male,Holstein,2.4,,2024-11-17,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
 FARM_003,H08,C009,16,Male,Jersey,4.4,,2024-12-13,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
 FARM_003,H08,C010,53,Male,Holstein,4.9,,2024-11-21,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
 FARM_003,H09,C001,8,Female,Holstein,2.1,24.7,2024-11-10,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
 FARM_003,H09,C002,115,Female,Guernsey,1.1,19.6,2024-12-30,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_003,H09,C003,90,Female,Brown Swiss,1.2,17.6,2024-11-03,Gamma Interferon Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
-FARM_003,H09,C004,83,Female,Angus,4.2,24.8,2024-12-11,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_003,H09,C003,90,Female,Brown Swiss,1.2,17.6,2024-11-03,Gamma Interferon Test,Positive,bTB,,aac(2/)-Ic,False,,True,Retest Scheduled
+FARM_003,H09,C004,120,Female,Angus,4.2,24.8,2024-12-11,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
 FARM_003,H09,C005,116,Female,Holstein,4.2,23.8,2024-11-08,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
 FARM_003,H09,C006,60,Female,Jersey,4.8,21.7,2024-12-24,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
 FARM_003,H09,C007,93,Female,Holstein,5.0,29.3,2024-12-11,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
 FARM_003,H09,C008,41,Female,Angus,3.6,29.6,2024-12-25,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_003,H09,C009,113,Female,Jersey,2.8,10.4,2024-12-03,PPD Skin Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
-FARM_003,H09,C010,51,Female,Brown Swiss,1.9,11.5,2024-12-15,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_003,H09,C009,113,Female,Jersey,2.8,10.4,2024-12-03,PPD Skin Test,Positive,bTB,,aac(2/)-Ic,False,,True,Retest Scheduled
+FARM_003,H09,C010,87,Male,Guernsey,1.2,,2024-12-15,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
 FARM_003,H10,C001,14,Female,Jersey,2.0,29.7,2024-11-07,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
 FARM_003,H10,C002,28,Male,Brown Swiss,3.6,,2024-12-25,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
 FARM_003,H10,C003,70,Female,Brown Swiss,2.3,23.8,2024-12-29,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
@@ -299,203 +299,203 @@ FARM_003,H10,C007,48,Female,Angus,2.9,34.3,2024-12-22,PPD Skin Test,Negative,Hea
 FARM_003,H10,C008,25,Male,Holstein,3.4,,2024-11-30,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
 FARM_003,H10,C009,106,Female,Jersey,2.5,24.6,2024-12-08,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
 FARM_003,H10,C010,15,Male,Brown Swiss,3.0,,2024-11-28,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H01,C001,73,Male,Brown Swiss,2.9,,2024-12-12,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H01,C002,43,Male,Angus,2.0,,2024-12-18,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H01,C003,20,Male,Guernsey,3.9,,2024-12-09,Gamma Interferon Test,Positive,Drug-resistant bTB,bTB-R1,aac(2/)-Ic,True,168.8,True,Isolated
-FARM_004,H01,C004,52,Female,Brown Swiss,1.9,29.7,2024-11-26,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H01,C005,74,Male,Guernsey,3.7,,2024-11-24,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H01,C006,46,Male,Holstein,2.6,,2024-11-26,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H01,C007,31,Male,Guernsey,1.1,,2024-12-06,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H01,C008,66,Male,Jersey,4.5,,2024-12-31,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H01,C009,22,Female,Guernsey,2.4,20.1,2024-11-17,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H01,C010,111,Female,Brown Swiss,3.4,12.7,2024-12-28,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H02,C001,63,Female,Guernsey,4.0,20.9,2024-11-18,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H02,C002,104,Male,Jersey,4.6,,2024-11-19,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H02,C003,62,Male,Brown Swiss,3.9,,2024-11-02,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H02,C004,69,Female,Holstein,3.3,32.4,2024-12-14,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H02,C005,28,Male,Holstein,4.3,,2024-12-05,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H02,C006,84,Female,Holstein,2.4,14.1,2024-12-15,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H02,C007,27,Female,Angus,5.0,28.8,2024-11-20,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H02,C008,76,Male,Holstein,3.4,,2024-11-05,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H02,C009,6,Female,Holstein,2.5,17.0,2024-11-16,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H02,C010,64,Female,Holstein,3.9,33.0,2024-12-04,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H03,C001,17,Male,Angus,3.9,,2024-12-10,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H03,C002,34,Male,Angus,1.6,,2024-12-15,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H03,C003,92,Male,Angus,4.6,,2024-12-05,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H03,C004,72,Female,Jersey,4.4,26.5,2024-11-02,PPD Skin Test,Suspicious,Carrier / Monitored,bTB-R1,aac(2/)-Ic,True,49.69,True,Retest Scheduled
-FARM_004,H03,C005,54,Male,Jersey,2.1,,2024-12-01,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H03,C006,42,Male,Jersey,3.5,,2024-11-02,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H03,C007,33,Male,Guernsey,1.3,,2024-11-17,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H03,C008,39,Female,Brown Swiss,1.9,18.7,2024-11-06,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H03,C009,43,Female,Guernsey,4.2,19.8,2024-11-28,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H03,C010,20,Female,Guernsey,4.9,18.1,2024-12-25,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H04,C001,90,Male,Angus,3.8,,2024-11-13,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H04,C002,116,Female,Brown Swiss,2.6,15.9,2024-12-15,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H04,C003,106,Female,Holstein,3.2,18.1,2024-12-06,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H04,C004,57,Female,Holstein,2.1,28.2,2024-11-22,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H04,C005,58,Male,Brown Swiss,4.5,,2024-11-13,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H04,C006,84,Female,Jersey,3.4,10.5,2024-11-11,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H04,C007,48,Female,Brown Swiss,1.3,11.2,2024-12-09,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H04,C008,113,Female,Jersey,2.2,14.0,2024-12-11,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H04,C009,37,Male,Holstein,4.4,,2024-11-30,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H04,C010,26,Female,Angus,1.1,25.8,2024-12-30,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H05,C001,106,Female,Guernsey,1.5,28.5,2024-11-07,Gamma Interferon Test,Positive,Drug-resistant bTB,bTB-R1,aac(2/)-Ic,True,749.9,True,Isolated
-FARM_004,H05,C002,103,Female,Holstein,1.1,30.8,2024-12-26,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H05,C003,30,Female,Angus,2.7,28.6,2024-12-15,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H05,C004,89,Female,Guernsey,2.2,12.3,2024-11-27,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H05,C005,95,Male,Guernsey,1.1,,2024-11-16,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H05,C006,75,Male,Guernsey,1.9,,2024-12-07,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H05,C007,67,Male,Angus,2.3,,2024-12-26,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H05,C008,68,Male,Holstein,1.6,,2024-11-29,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H05,C009,35,Male,Guernsey,2.0,,2024-11-15,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H05,C010,47,Female,Holstein,2.1,15.2,2024-11-28,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H06,C001,36,Female,Guernsey,3.8,22.9,2024-11-04,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H06,C002,54,Male,Holstein,1.6,,2024-12-22,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H06,C003,20,Male,Guernsey,3.0,,2024-12-24,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H06,C004,57,Male,Angus,1.5,,2024-11-16,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H06,C005,72,Female,Brown Swiss,4.6,24.1,2024-12-23,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H06,C006,108,Female,Brown Swiss,3.4,21.8,2024-11-03,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H06,C007,115,Male,Jersey,3.1,,2025-01-01,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H06,C008,66,Male,Holstein,2.2,,2024-12-20,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H06,C009,48,Male,Holstein,3.5,,2024-12-28,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H06,C010,34,Female,Holstein,4.7,16.9,2024-11-25,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H07,C001,104,Female,Angus,3.2,26.0,2024-12-28,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H07,C002,33,Female,Jersey,2.1,12.6,2024-12-11,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H07,C003,83,Female,Brown Swiss,3.7,21.8,2025-01-01,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H07,C004,17,Male,Jersey,1.7,,2024-12-12,PPD Skin Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
-FARM_004,H07,C005,23,Female,Guernsey,3.7,18.2,2024-12-17,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H07,C006,55,Female,Angus,2.2,23.0,2024-11-06,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H07,C007,27,Female,Jersey,4.4,24.0,2024-11-18,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H07,C008,77,Female,Angus,1.7,31.7,2024-11-13,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H07,C009,33,Male,Guernsey,2.5,,2024-12-20,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H07,C010,6,Female,Angus,1.4,19.2,2024-11-30,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H08,C001,10,Female,Guernsey,2.6,34.9,2024-12-15,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H08,C002,111,Male,Guernsey,5.0,,2024-12-01,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H08,C003,88,Male,Holstein,2.5,,2024-11-17,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H08,C004,22,Male,Guernsey,4.3,,2024-12-29,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H08,C005,46,Male,Brown Swiss,2.1,,2024-11-21,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H08,C006,113,Female,Jersey,4.6,24.7,2024-11-29,Gamma Interferon Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
-FARM_004,H08,C007,59,Male,Holstein,1.8,,2024-11-16,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H08,C008,11,Female,Brown Swiss,1.8,22.6,2024-11-22,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H08,C009,6,Female,Angus,3.2,12.9,2024-11-26,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H08,C010,65,Male,Holstein,4.7,,2024-11-16,PPD Skin Test,Positive,Drug-resistant bTB,bTB-R1,aac(2/)-Ic,True,663.96,True,Isolated
-FARM_004,H09,C001,8,Male,Holstein,1.9,,2024-12-03,Gamma Interferon Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
-FARM_004,H09,C002,37,Female,Jersey,4.0,28.5,2024-12-29,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H09,C003,41,Male,Brown Swiss,2.3,,2024-11-09,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H09,C004,28,Female,Angus,3.8,16.6,2024-12-10,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H09,C005,88,Female,Jersey,1.1,30.9,2024-12-23,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H09,C006,95,Female,Angus,3.6,27.1,2024-12-19,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H09,C007,76,Female,Holstein,3.1,15.3,2024-12-03,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H09,C008,72,Male,Guernsey,1.6,,2024-12-09,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H09,C009,10,Female,Holstein,3.5,31.7,2024-12-22,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H09,C010,88,Male,Jersey,4.7,,2024-12-22,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H10,C001,8,Female,Brown Swiss,2.8,24.4,2024-11-16,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H10,C002,38,Female,Brown Swiss,2.4,27.0,2024-12-30,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H10,C003,103,Male,Guernsey,2.7,,2024-11-26,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H10,C004,71,Male,Angus,4.5,,2024-11-02,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H10,C005,22,Female,Holstein,4.9,17.7,2024-11-11,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H10,C006,64,Male,Jersey,1.8,,2024-12-13,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H10,C007,115,Male,Guernsey,1.4,,2024-12-23,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H10,C008,53,Male,Guernsey,1.6,,2024-12-02,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H10,C009,33,Female,Guernsey,4.3,27.7,2024-12-08,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_004,H10,C010,23,Female,Angus,4.6,30.5,2024-11-24,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H01,C001,68,Male,Jersey,4.5,,2024-11-13,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H01,C002,70,Male,Brown Swiss,3.4,,2024-11-04,Gamma Interferon Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
-FARM_005,H01,C003,35,Male,Guernsey,1.8,,2024-12-13,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H01,C004,89,Male,Guernsey,1.6,,2024-12-08,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H01,C005,39,Female,Jersey,1.7,27.1,2024-12-03,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H01,C006,99,Male,Guernsey,4.2,,2024-12-22,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H01,C007,55,Female,Holstein,2.9,34.0,2024-12-05,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H01,C008,39,Male,Brown Swiss,4.2,,2024-11-30,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H01,C009,48,Female,Holstein,4.1,34.5,2024-11-07,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H01,C010,49,Female,Jersey,3.1,25.4,2024-12-05,Gamma Interferon Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
-FARM_005,H02,C001,42,Male,Holstein,4.5,,2024-12-09,Gamma Interferon Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
-FARM_005,H02,C002,82,Female,Angus,2.7,26.9,2024-11-28,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H02,C003,59,Male,Guernsey,2.3,,2024-11-24,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H02,C004,74,Female,Jersey,1.7,23.4,2024-11-16,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H02,C005,120,Female,Angus,4.9,27.2,2024-11-04,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H02,C006,99,Female,Holstein,1.3,19.3,2024-11-24,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H02,C007,118,Male,Guernsey,3.1,,2024-12-11,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H02,C008,60,Female,Holstein,1.7,28.7,2024-11-09,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H02,C009,107,Male,Brown Swiss,2.0,,2024-11-23,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H02,C010,37,Male,Angus,3.3,,2024-11-14,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H03,C001,94,Male,Angus,3.0,,2024-11-24,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H03,C002,42,Female,Holstein,2.6,10.5,2024-11-20,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H03,C003,82,Female,Holstein,1.9,10.5,2024-12-18,Gamma Interferon Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
-FARM_005,H03,C004,42,Female,Brown Swiss,2.7,24.9,2024-12-02,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H03,C005,49,Female,Angus,4.3,13.8,2024-12-19,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H03,C006,55,Female,Guernsey,1.1,31.3,2024-11-22,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H03,C007,16,Male,Brown Swiss,2.5,,2024-11-14,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H03,C008,9,Male,Brown Swiss,3.3,,2024-11-26,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H03,C009,8,Female,Brown Swiss,4.0,34.7,2024-11-04,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H03,C010,114,Male,Holstein,2.6,,2024-12-25,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H04,C001,26,Female,Brown Swiss,2.6,28.8,2024-11-05,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H04,C002,52,Male,Angus,3.0,,2024-12-18,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H04,C003,65,Female,Guernsey,1.6,31.8,2024-12-14,Gamma Interferon Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
-FARM_005,H04,C004,112,Female,Guernsey,3.6,27.1,2024-12-08,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H04,C005,59,Female,Jersey,3.5,25.5,2024-11-23,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H04,C006,82,Female,Holstein,2.3,16.2,2024-11-19,Gamma Interferon Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
-FARM_005,H04,C007,53,Male,Brown Swiss,4.5,,2024-11-27,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H04,C008,26,Female,Angus,3.9,16.0,2024-11-03,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H04,C009,22,Female,Holstein,4.6,15.2,2024-12-03,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H04,C010,36,Male,Guernsey,3.0,,2024-11-11,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H05,C001,26,Male,Guernsey,3.9,,2025-01-01,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H05,C002,58,Female,Guernsey,1.3,20.4,2024-11-06,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H05,C003,105,Male,Guernsey,2.9,,2024-12-14,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H05,C004,98,Male,Angus,2.6,,2024-12-05,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H05,C005,114,Female,Brown Swiss,4.0,12.8,2024-12-09,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H05,C006,37,Female,Jersey,2.1,18.3,2024-12-03,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H05,C007,37,Female,Angus,2.2,21.1,2024-11-18,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H05,C008,10,Male,Jersey,3.1,,2024-12-18,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H05,C009,97,Female,Angus,4.8,14.0,2024-12-02,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H05,C010,25,Male,Jersey,3.4,,2024-12-16,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H06,C001,33,Female,Jersey,3.3,16.5,2024-12-02,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H06,C002,50,Male,Brown Swiss,4.4,,2024-11-29,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H06,C003,68,Male,Brown Swiss,2.9,,2024-11-05,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H06,C004,14,Female,Jersey,2.2,15.6,2024-11-24,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H06,C005,89,Male,Angus,3.0,,2024-11-09,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H06,C006,106,Male,Jersey,2.5,,2024-12-07,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H06,C007,70,Male,Angus,3.2,,2024-11-11,PPD Skin Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
-FARM_005,H06,C008,78,Male,Jersey,2.0,,2024-11-18,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H06,C009,35,Female,Jersey,1.2,25.2,2024-12-27,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H06,C010,14,Male,Brown Swiss,2.2,,2024-12-18,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H07,C001,67,Female,Holstein,3.1,29.5,2024-11-12,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H07,C002,20,Female,Holstein,2.9,12.5,2024-11-24,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H07,C003,80,Female,Holstein,3.9,21.1,2024-11-25,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H07,C004,64,Male,Angus,4.0,,2024-12-01,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H07,C005,67,Female,Angus,2.1,23.3,2024-12-15,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H07,C006,86,Female,Holstein,4.9,33.6,2025-01-01,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H07,C007,66,Female,Jersey,1.7,29.0,2024-12-26,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H07,C008,87,Male,Jersey,4.1,,2024-12-19,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H07,C009,104,Female,Holstein,3.7,33.2,2024-11-26,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H07,C010,30,Female,Jersey,4.4,25.3,2024-12-12,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H08,C001,89,Female,Angus,1.9,16.6,2024-12-09,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H08,C002,51,Female,Guernsey,2.2,24.1,2025-01-01,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H08,C003,58,Female,Jersey,4.9,29.2,2024-11-10,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H08,C004,97,Female,Angus,4.3,10.6,2024-11-12,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H08,C005,100,Male,Jersey,3.5,,2024-11-08,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H08,C006,26,Female,Guernsey,4.8,24.8,2024-11-13,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H08,C007,96,Female,Jersey,2.1,25.2,2024-12-29,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H08,C008,41,Female,Guernsey,4.7,12.8,2024-11-06,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H08,C009,105,Female,Jersey,4.5,24.7,2024-11-27,PPD Skin Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
-FARM_005,H08,C010,37,Female,Brown Swiss,3.2,26.5,2024-11-18,Gamma Interferon Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
-FARM_005,H09,C001,104,Male,Angus,4.8,,2024-11-05,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H09,C002,33,Male,Angus,2.9,,2024-12-09,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H09,C003,96,Female,Angus,3.4,33.3,2024-12-25,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H09,C004,109,Female,Holstein,4.3,11.5,2024-12-31,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H09,C005,70,Female,Brown Swiss,3.0,24.4,2024-11-15,PPD Skin Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
-FARM_005,H09,C006,17,Male,Brown Swiss,1.6,,2024-11-26,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H09,C007,30,Male,Guernsey,4.3,,2024-12-04,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H09,C008,25,Female,Holstein,1.7,24.4,2024-11-29,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H09,C009,61,Male,Guernsey,3.3,,2024-11-23,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H09,C010,34,Female,Guernsey,1.6,31.4,2024-11-28,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H10,C001,104,Female,Brown Swiss,1.6,29.3,2024-12-13,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H10,C002,83,Male,Jersey,3.2,,2024-12-12,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H10,C003,90,Male,Jersey,2.2,,2024-12-15,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H10,C004,104,Female,Holstein,1.5,32.5,2024-12-25,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H10,C005,62,Male,Guernsey,1.2,,2024-12-07,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H10,C006,81,Male,Holstein,4.9,,2024-12-22,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H10,C007,68,Female,Angus,2.7,15.3,2024-11-11,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H10,C008,71,Male,Guernsey,1.1,,2024-11-11,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H10,C009,18,Female,Angus,4.8,30.9,2024-11-02,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
-FARM_005,H10,C010,95,Male,Guernsey,4.5,,2024-11-02,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_004,H01,C001,73,Male,Brown Swiss,2.9,,2024-12-12,Gamma Interferon Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
+FARM_004,H01,C002,43,Male,Angus,2.0,,2024-12-18,Gamma Interferon Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_004,H01,C003,101,Male,Jersey,2.8,,2024-12-09,Gamma Interferon Test,Positive,Drug-resistant bTB,bTB-R1,aac(2/)-Ic,True,168.8,True,Isolated
+FARM_004,H01,C004,52,Female,Brown Swiss,1.9,29.7,2024-11-26,PPD Skin Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_004,H01,C005,22,Male,Guernsey,3.7,,2024-11-24,PPD Skin Test,Positive,Drug-resistant bTB,bTB-R1,aac(2/)-Ic,True,382.46,True,Isolated
+FARM_004,H01,C006,16,Female,Guernsey,3.0,13.7,2024-11-22,Gamma Interferon Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_004,H01,C007,31,Male,Guernsey,1.1,,2024-12-06,PPD Skin Test,Positive,Drug-resistant bTB,bTB-R1,aac(2/)-Ic,True,937.11,True,Isolated
+FARM_004,H01,C008,101,Male,Jersey,4.5,,2024-12-31,Gamma Interferon Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_004,H01,C009,15,Male,Brown Swiss,4.5,,2024-11-05,Gamma Interferon Test,Positive,Drug-resistant bTB,bTB-R1,aac(2/)-Ic,True,727.24,True,Isolated
+FARM_004,H01,C010,36,Female,Holstein,2.3,30.6,2024-11-25,Gamma Interferon Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_004,H02,C001,19,Male,Holstein,4.0,,2024-11-02,Gamma Interferon Test,Positive,Drug-resistant bTB,bTB-R1,aac(2/)-Ic,True,504.78,True,Isolated
+FARM_004,H02,C002,112,Female,Angus,4.0,27.5,2024-11-16,PPD Skin Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_004,H02,C003,110,Male,Jersey,4.6,,2024-11-19,Gamma Interferon Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_004,H02,C004,54,Female,Guernsey,1.7,28.1,2024-11-02,Gamma Interferon Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_004,H02,C005,35,Female,Guernsey,2.4,24.1,2024-12-14,Gamma Interferon Test,Positive,Drug-resistant bTB,bTB-R1,aac(2/)-Ic,True,260.57,True,Isolated
+FARM_004,H02,C006,24,Male,Jersey,2.7,,2024-11-26,Gamma Interferon Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_004,H02,C007,46,Male,Angus,2.1,,2024-12-14,PPD Skin Test,Positive,Drug-resistant bTB,bTB-R1,aac(2/)-Ic,True,896.81,True,Isolated
+FARM_004,H02,C008,42,Female,Brown Swiss,4.0,33.1,2024-12-23,Gamma Interferon Test,Positive,Drug-resistant bTB,bTB-R1,aac(2/)-Ic,True,557.83,True,Isolated
+FARM_004,H02,C009,27,Male,Brown Swiss,4.6,,2025-01-01,PPD Skin Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_004,H02,C010,111,Male,Angus,1.8,,2024-11-16,Gamma Interferon Test,Positive,Drug-resistant bTB,bTB-R1,aac(2/)-Ic,True,508.46,True,Isolated
+FARM_004,H03,C001,20,Male,Guernsey,4.6,,2024-12-16,Gamma Interferon Test,Positive,Drug-resistant bTB,bTB-R1,aac(2/)-Ic,True,350.61,True,Isolated
+FARM_004,H03,C002,91,Male,Angus,4.2,,2024-11-16,PPD Skin Test,Positive,Drug-resistant bTB,bTB-R1,aac(2/)-Ic,True,401.8,True,Isolated
+FARM_004,H03,C003,64,Male,Angus,4.6,,2024-12-05,PPD Skin Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
+FARM_004,H03,C004,72,Female,Jersey,4.4,26.5,2024-11-02,PPD Skin Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_004,H03,C005,7,Male,Jersey,3.3,,2024-11-19,PPD Skin Test,Positive,Drug-resistant bTB,bTB-R1,aac(2/)-Ic,True,536.06,True,Isolated
+FARM_004,H03,C006,29,Female,Angus,1.5,25.9,2024-11-02,PPD Skin Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_004,H03,C007,98,Male,Holstein,2.7,,2024-11-27,Gamma Interferon Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_004,H03,C008,96,Male,Holstein,2.7,,2024-11-23,Gamma Interferon Test,Positive,Drug-resistant bTB,bTB-R1,aac(2/)-Ic,True,673.94,True,Isolated
+FARM_004,H03,C009,67,Male,Angus,4.4,,2024-11-20,Gamma Interferon Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_004,H03,C010,107,Female,Brown Swiss,2.4,22.0,2024-12-18,PPD Skin Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
+FARM_004,H04,C001,102,Female,Guernsey,4.9,18.1,2024-12-25,Gamma Interferon Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
+FARM_004,H04,C002,90,Male,Angus,3.8,,2024-11-13,PPD Skin Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_004,H04,C003,113,Female,Brown Swiss,2.6,15.9,2024-12-15,Gamma Interferon Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_004,H04,C004,119,Female,Holstein,3.2,18.1,2024-12-06,Gamma Interferon Test,Positive,Drug-resistant bTB,bTB-R1,aac(2/)-Ic,True,458.81,True,Isolated
+FARM_004,H04,C005,12,Female,Guernsey,3.9,18.5,2024-12-13,PPD Skin Test,Positive,Drug-resistant bTB,bTB-R1,aac(2/)-Ic,True,888.06,True,Isolated
+FARM_004,H04,C006,74,Male,Holstein,4.8,,2024-12-24,Gamma Interferon Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_004,H04,C007,8,Male,Guernsey,1.4,,2024-11-04,Gamma Interferon Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
+FARM_004,H04,C008,14,Male,Brown Swiss,1.8,,2024-12-22,PPD Skin Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_004,H04,C009,56,Male,Angus,4.2,,2024-12-11,Gamma Interferon Test,Positive,Drug-resistant bTB,bTB-R1,aac(2/)-Ic,True,323.83,True,Isolated
+FARM_004,H04,C010,7,Male,Holstein,4.0,,2024-11-30,PPD Skin Test,Positive,Drug-resistant bTB,bTB-R1,aac(2/)-Ic,True,241.25,True,Isolated
+FARM_004,H05,C001,44,Male,Jersey,3.5,,2024-12-30,PPD Skin Test,Positive,Drug-resistant bTB,bTB-R1,aac(2/)-Ic,True,805.65,True,Isolated
+FARM_004,H05,C002,89,Female,Jersey,4.3,31.9,2024-12-28,PPD Skin Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
+FARM_004,H05,C003,103,Female,Holstein,1.1,30.8,2024-12-26,PPD Skin Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_004,H05,C004,107,Female,Jersey,4.3,31.5,2024-12-05,Gamma Interferon Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_004,H05,C005,8,Female,Angus,2.8,12.5,2024-12-08,Gamma Interferon Test,Positive,Drug-resistant bTB,bTB-R1,aac(2/)-Ic,True,970.2,True,Isolated
+FARM_004,H05,C006,77,Female,Guernsey,2.1,27.6,2024-12-08,PPD Skin Test,Positive,Drug-resistant bTB,bTB-R1,aac(2/)-Ic,True,454.28,True,Isolated
+FARM_004,H05,C007,53,Male,Guernsey,1.9,,2024-12-07,PPD Skin Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_004,H05,C008,63,Female,Guernsey,3.3,26.1,2024-12-23,Gamma Interferon Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_004,H05,C009,16,Male,Brown Swiss,1.7,,2024-11-25,Gamma Interferon Test,Positive,Drug-resistant bTB,bTB-R1,aac(2/)-Ic,True,654.84,True,Isolated
+FARM_004,H05,C010,66,Male,Holstein,4.1,,2024-12-06,Gamma Interferon Test,Positive,Drug-resistant bTB,bTB-R1,aac(2/)-Ic,True,235.55,True,Isolated
+FARM_004,H06,C001,47,Female,Holstein,2.1,15.2,2024-11-28,Gamma Interferon Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_004,H06,C002,89,Male,Angus,2.8,,2024-11-30,Gamma Interferon Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_004,H06,C003,100,Male,Holstein,2.7,,2024-12-08,PPD Skin Test,Positive,Drug-resistant bTB,bTB-R1,aac(2/)-Ic,True,567.95,True,Isolated
+FARM_004,H06,C004,21,Male,Jersey,2.8,,2024-12-30,PPD Skin Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_004,H06,C005,69,Male,Brown Swiss,2.9,,2024-12-07,Gamma Interferon Test,Positive,Drug-resistant bTB,bTB-R1,aac(2/)-Ic,True,996.17,True,Isolated
+FARM_004,H06,C006,98,Female,Brown Swiss,2.3,32.2,2024-12-23,PPD Skin Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
+FARM_004,H06,C007,108,Female,Brown Swiss,3.4,21.8,2024-11-03,PPD Skin Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
+FARM_004,H06,C008,115,Male,Jersey,3.1,,2025-01-01,Gamma Interferon Test,Positive,Drug-resistant bTB,bTB-R1,aac(2/)-Ic,True,523.44,True,Isolated
+FARM_004,H06,C009,6,Female,Jersey,1.8,12.3,2024-12-11,Gamma Interferon Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
+FARM_004,H06,C010,82,Male,Holstein,2.4,,2024-12-10,PPD Skin Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_004,H07,C001,30,Female,Angus,4.3,31.7,2024-12-09,Gamma Interferon Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_004,H07,C002,57,Female,Brown Swiss,3.2,26.5,2024-11-25,PPD Skin Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
+FARM_004,H07,C003,41,Male,Angus,3.3,,2024-11-11,PPD Skin Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_004,H07,C004,88,Female,Angus,3.3,31.3,2024-11-11,Gamma Interferon Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_004,H07,C005,84,Female,Jersey,1.7,29.6,2024-12-27,PPD Skin Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_004,H07,C006,84,Male,Jersey,1.7,,2024-12-12,PPD Skin Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
+FARM_004,H07,C007,23,Female,Guernsey,3.7,18.2,2024-12-17,PPD Skin Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_004,H07,C008,54,Female,Guernsey,2.4,31.0,2024-11-29,Gamma Interferon Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
+FARM_004,H07,C009,33,Male,Angus,3.8,,2024-11-27,Gamma Interferon Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
+FARM_004,H07,C010,38,Male,Brown Swiss,4.6,,2024-12-21,Gamma Interferon Test,Positive,Drug-resistant bTB,bTB-R1,aac(2/)-Ic,True,519.47,True,Isolated
+FARM_004,H08,C001,91,Female,Guernsey,1.9,24.0,2024-12-08,PPD Skin Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
+FARM_004,H08,C002,7,Male,Guernsey,2.4,,2025-01-01,PPD Skin Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_004,H08,C003,48,Male,Angus,4.7,,2024-11-24,PPD Skin Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
+FARM_004,H08,C004,88,Female,Guernsey,1.2,27.4,2024-12-15,Gamma Interferon Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_004,H08,C005,79,Male,Guernsey,5.0,,2024-12-01,Gamma Interferon Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
+FARM_004,H08,C006,88,Male,Holstein,2.5,,2024-11-17,PPD Skin Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_004,H08,C007,117,Male,Holstein,2.7,,2024-12-29,PPD Skin Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
+FARM_004,H08,C008,46,Male,Brown Swiss,2.1,,2024-11-21,PPD Skin Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_004,H08,C009,8,Female,Angus,4.6,14.2,2024-11-29,Gamma Interferon Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
+FARM_004,H08,C010,59,Male,Holstein,1.8,,2024-11-16,PPD Skin Test,Positive,Drug-resistant bTB,bTB-R1,aac(2/)-Ic,True,140.06,True,Isolated
+FARM_004,H09,C001,83,Male,Brown Swiss,2.6,,2024-12-13,PPD Skin Test,Positive,Drug-resistant bTB,bTB-R1,aac(2/)-Ic,True,407.31,True,Isolated
+FARM_004,H09,C002,78,Male,Brown Swiss,4.7,,2024-12-25,PPD Skin Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_004,H09,C003,29,Male,Jersey,2.3,,2024-11-13,PPD Skin Test,Positive,Drug-resistant bTB,bTB-R1,aac(2/)-Ic,True,674.15,True,Isolated
+FARM_004,H09,C004,64,Male,Jersey,2.2,,2024-11-15,PPD Skin Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_004,H09,C005,22,Female,Holstein,2.5,17.2,2024-12-24,Gamma Interferon Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_004,H09,C006,58,Male,Jersey,2.1,,2024-12-21,PPD Skin Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_004,H09,C007,39,Female,Angus,1.4,18.9,2024-12-10,Gamma Interferon Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_004,H09,C008,72,Female,Jersey,1.1,30.9,2024-12-23,Gamma Interferon Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_004,H09,C009,32,Female,Angus,3.6,27.1,2024-12-19,Gamma Interferon Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
+FARM_004,H09,C010,76,Female,Holstein,3.1,15.3,2024-12-03,PPD Skin Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
+FARM_004,H10,C001,72,Male,Guernsey,1.6,,2024-12-09,Gamma Interferon Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_004,H10,C002,90,Male,Angus,3.8,,2024-11-07,Gamma Interferon Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_004,H10,C003,26,Female,Guernsey,2.3,26.2,2024-12-21,PPD Skin Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_004,H10,C004,45,Male,Guernsey,3.2,,2024-12-04,PPD Skin Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_004,H10,C005,64,Female,Guernsey,2.9,16.1,2024-11-24,Gamma Interferon Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
+FARM_004,H10,C006,44,Male,Jersey,4.1,,2024-12-06,PPD Skin Test,Positive,Drug-resistant bTB,bTB-R1,aac(2/)-Ic,True,619.74,True,Isolated
+FARM_004,H10,C007,81,Male,Jersey,3.0,,2024-11-06,Gamma Interferon Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_004,H10,C008,95,Male,Brown Swiss,4.0,,2024-11-20,PPD Skin Test,Positive,bTB,bTB-WT,aac(2/)-Ic,False,,True,Retest Scheduled
+FARM_004,H10,C009,17,Female,Jersey,4.2,21.5,2024-12-03,PPD Skin Test,Positive,Drug-resistant bTB,bTB-R1,aac(2/)-Ic,True,894.66,True,Isolated
+FARM_004,H10,C010,44,Female,Holstein,1.7,31.4,2024-12-27,Gamma Interferon Test,Negative,Healthy,bTB-WT,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H01,C001,25,Female,Holstein,2.9,18.6,2024-11-27,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H01,C002,66,Female,Guernsey,3.8,29.1,2024-12-08,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H01,C003,23,Female,Angus,4.6,30.5,2024-11-24,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H01,C004,68,Male,Jersey,4.5,,2024-11-13,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H01,C005,70,Male,Brown Swiss,3.4,,2024-11-04,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H01,C006,69,Male,Holstein,1.8,,2024-12-27,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H01,C007,60,Male,Angus,2.2,,2024-12-30,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H01,C008,28,Male,Guernsey,3.7,,2024-12-03,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H01,C009,99,Male,Guernsey,4.2,,2024-12-22,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H01,C010,55,Female,Holstein,2.9,34.0,2024-12-05,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H02,C001,39,Male,Brown Swiss,4.2,,2024-11-30,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H02,C002,48,Female,Holstein,4.1,34.5,2024-11-07,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H02,C003,49,Female,Jersey,3.1,25.4,2024-12-05,Gamma Interferon Test,Positive,bTB,,aac(2/)-Ic,False,,True,Retest Scheduled
+FARM_005,H02,C004,21,Female,Guernsey,2.5,32.2,2024-12-16,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H02,C005,104,Male,Brown Swiss,2.1,,2024-12-10,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H02,C006,44,Male,Brown Swiss,1.4,,2024-11-28,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H02,C007,16,Male,Jersey,3.9,,2024-12-05,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H02,C008,64,Male,Brown Swiss,3.3,,2024-12-28,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H02,C009,83,Male,Guernsey,3.1,,2024-12-11,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H02,C010,60,Female,Holstein,1.7,28.7,2024-11-09,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H03,C001,107,Male,Brown Swiss,2.0,,2024-11-23,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H03,C002,37,Male,Angus,3.3,,2024-11-14,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H03,C003,94,Male,Angus,3.0,,2024-11-24,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H03,C004,42,Female,Holstein,2.6,10.5,2024-11-20,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H03,C005,82,Female,Holstein,1.9,10.5,2024-12-18,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H03,C006,97,Female,Brown Swiss,2.7,24.9,2024-12-02,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H03,C007,49,Female,Angus,4.3,13.8,2024-12-19,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H03,C008,55,Female,Guernsey,1.1,31.3,2024-11-22,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H03,C009,16,Male,Brown Swiss,2.5,,2024-11-14,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H03,C010,9,Male,Brown Swiss,3.3,,2024-11-26,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H04,C001,8,Female,Brown Swiss,4.0,34.7,2024-11-04,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H04,C002,114,Male,Holstein,2.6,,2024-12-25,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H04,C003,26,Female,Brown Swiss,2.6,28.8,2024-11-05,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H04,C004,52,Male,Angus,3.0,,2024-12-18,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H04,C005,65,Female,Guernsey,1.6,31.8,2024-12-14,Gamma Interferon Test,Positive,bTB,,aac(2/)-Ic,False,,True,Retest Scheduled
+FARM_005,H04,C006,103,Female,Jersey,3.7,12.5,2024-12-06,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H04,C007,85,Male,Jersey,3.4,,2024-11-24,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H04,C008,8,Female,Brown Swiss,2.0,24.2,2024-11-19,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H04,C009,101,Female,Brown Swiss,3.0,14.8,2024-12-03,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H04,C010,28,Female,Jersey,2.3,17.3,2024-12-19,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H05,C001,93,Female,Jersey,4.2,34.3,2024-11-11,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H05,C002,26,Male,Guernsey,3.9,,2025-01-01,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H05,C003,58,Female,Guernsey,1.3,20.4,2024-11-06,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H05,C004,105,Male,Guernsey,2.9,,2024-12-14,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H05,C005,98,Male,Angus,2.6,,2024-12-05,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H05,C006,114,Female,Brown Swiss,4.0,12.8,2024-12-09,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H05,C007,37,Female,Jersey,2.1,18.3,2024-12-03,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H05,C008,37,Female,Angus,2.2,21.1,2024-11-18,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H05,C009,10,Male,Jersey,3.1,,2024-12-18,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H05,C010,97,Female,Angus,4.8,14.0,2024-12-02,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H06,C001,25,Male,Jersey,3.4,,2024-12-16,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H06,C002,33,Female,Jersey,3.3,16.5,2024-12-02,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H06,C003,50,Male,Brown Swiss,4.4,,2024-11-29,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H06,C004,68,Male,Brown Swiss,2.9,,2024-11-05,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H06,C005,14,Female,Jersey,2.2,15.6,2024-11-24,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H06,C006,89,Male,Angus,3.0,,2024-11-09,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H06,C007,106,Male,Jersey,2.5,,2024-12-07,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H06,C008,70,Male,Angus,3.2,,2024-11-11,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H06,C009,37,Male,Angus,4.2,,2024-11-18,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H06,C010,35,Female,Jersey,1.2,25.2,2024-12-27,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H07,C001,14,Male,Brown Swiss,2.2,,2024-12-18,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H07,C002,67,Female,Holstein,3.1,29.5,2024-11-12,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H07,C003,20,Female,Holstein,2.9,12.5,2024-11-24,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H07,C004,80,Female,Holstein,3.9,21.1,2024-11-25,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H07,C005,64,Male,Angus,4.0,,2024-12-01,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H07,C006,67,Female,Angus,2.1,23.3,2024-12-15,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H07,C007,86,Female,Holstein,4.9,33.6,2025-01-01,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H07,C008,66,Female,Jersey,1.7,29.0,2024-12-26,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H07,C009,87,Male,Jersey,4.1,,2024-12-19,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H07,C010,104,Female,Holstein,3.7,33.2,2024-11-26,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H08,C001,30,Female,Jersey,4.4,25.3,2024-12-12,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H08,C002,89,Female,Angus,1.9,16.6,2024-12-09,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H08,C003,51,Female,Guernsey,2.2,24.1,2025-01-01,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H08,C004,58,Female,Jersey,4.9,29.2,2024-11-10,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H08,C005,97,Female,Angus,4.3,10.6,2024-11-12,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H08,C006,100,Male,Jersey,3.5,,2024-11-08,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H08,C007,26,Female,Guernsey,4.8,24.8,2024-11-13,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H08,C008,96,Female,Jersey,2.1,25.2,2024-12-29,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H08,C009,41,Female,Guernsey,4.7,12.8,2024-11-06,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H08,C010,105,Female,Jersey,4.5,24.7,2024-11-27,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H09,C001,79,Female,Brown Swiss,3.1,17.3,2024-12-24,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H09,C002,106,Female,Angus,4.6,21.1,2024-12-21,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H09,C003,52,Female,Jersey,3.7,27.6,2024-11-24,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H09,C004,21,Female,Guernsey,2.6,22.2,2024-11-09,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H09,C005,71,Female,Holstein,3.3,34.9,2024-11-12,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H09,C006,48,Male,Holstein,3.3,,2024-11-28,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H09,C007,114,Male,Brown Swiss,4.7,,2024-11-14,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H09,C008,110,Female,Guernsey,2.8,32.0,2024-11-21,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H09,C009,79,Female,Guernsey,3.1,27.3,2024-11-06,Gamma Interferon Test,Positive,bTB,,aac(2/)-Ic,False,,True,Retest Scheduled
+FARM_005,H09,C010,6,Female,Holstein,1.0,18.1,2024-12-16,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H10,C001,104,Female,Brown Swiss,2.8,26.6,2024-11-05,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H10,C002,25,Male,Jersey,1.8,,2024-12-26,PPD Skin Test,Positive,bTB,,aac(2/)-Ic,False,,True,Retest Scheduled
+FARM_005,H10,C003,114,Male,Jersey,3.2,,2024-12-12,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H10,C004,90,Male,Jersey,2.2,,2024-12-15,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H10,C005,104,Female,Holstein,1.5,32.5,2024-12-25,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H10,C006,62,Male,Guernsey,1.2,,2024-12-07,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H10,C007,81,Male,Holstein,4.9,,2024-12-22,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H10,C008,68,Female,Angus,2.7,15.3,2024-11-11,PPD Skin Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H10,C009,71,Male,Guernsey,1.1,,2024-11-11,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy
+FARM_005,H10,C010,18,Female,Angus,4.8,30.9,2024-11-02,Gamma Interferon Test,Negative,Healthy,,aac(2/)-Ic,False,,False,Healthy

@@ -1,5 +1,5 @@
-baseURL = "https://yourusername.github.io/lsi-website/"
+baseURL = "https://lsi.tufts.edu/"
 languageCode = "en-us"
-title = "Life Sciences Initiative at Tufts"
+title = "Life Science Investigations at Tufts"
 theme = "gallery"
 canonifyURLs = true

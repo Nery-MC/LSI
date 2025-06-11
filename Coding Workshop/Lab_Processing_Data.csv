@@ -1,501 +1,501 @@
-Patient ID,Collection Date,Sample Site,Strain,Resistance Genes,MLST,Genome Coverage,Sample Quality Score,Sequencing Platform,Growth Media,Library Prep Protocol,Incubation Time [HR]
-2200,2025-04-27,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,90.02,33.9,Oxford Nanopore,7H9 broth,Nextera XT,30
-2201,2025-01-15,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,95.37,37.48,Illumina MiSeq,7H9 broth,Ligation Sequencing Kit,41
-2202,2024-11-12,Lung Biopsy,Escherichia coli,['blaCTX-M'],ST47,96.68,32.35,Illumina MiSeq,7H9 broth,Ligation Sequencing Kit,20
-2203,2025-03-18,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,93.92,36.72,PacBio,Lowenstein-Jensen,Nextera XT,26
-2204,2024-05-27,Sputum,Pseudomonas aeruginosa,['mexA'],ST25,92.11,32.65,PacBio,7H9 broth,Nextera XT,35
-2205,2025-02-04,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,99.22,31.04,Illumina MiSeq,Middlebrook agar,Ligation Sequencing Kit,27
-2206,2024-10-16,Lung Biopsy,Methicillin-Resistant Staphylococcus aureus,['blaZ'],ST13,96.81,38.53,Illumina MiSeq,Middlebrook agar,TruSeq DNA,24
-2207,2024-09-17,Sputum,Escherichia coli,['blaCTX-M'],ST14,95.46,34.28,Oxford Nanopore,7H9 broth,Ligation Sequencing Kit,32
-2208,2024-05-08,Lung Biopsy,Escherichia coli,['aac(3)-IIa'],ST45,93.54,36.82,Oxford Nanopore,Lowenstein-Jensen,Nextera XT,46
-2209,2025-06-21,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,93.29,39.31,Illumina MiSeq,7H9 broth,Ligation Sequencing Kit,47
-2210,2025-02-28,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,93.02,37.95,Illumina MiSeq,7H9 broth,TruSeq DNA,29
-2211,2024-07-22,Lung Biopsy,Pseudomonas aeruginosa,['mexA'],ST17,95.04,36.8,Illumina MiSeq,Lowenstein-Jensen,TruSeq DNA,38
-2212,2025-05-28,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,99.74,31.16,PacBio,Lowenstein-Jensen,TruSeq DNA,37
-2213,2025-01-18,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,96.64,33.64,PacBio,Middlebrook agar,Ligation Sequencing Kit,41
-2214,2024-05-22,Sputum,Klebsiella pneumoniae,['blaKPC'],ST36,93.98,32.96,Oxford Nanopore,Middlebrook agar,TruSeq DNA,28
-2215,2025-06-22,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,93.19,34.42,Oxford Nanopore,Middlebrook agar,Ligation Sequencing Kit,38
-2216,2025-03-02,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,93.32,38.18,PacBio,Middlebrook agar,Ligation Sequencing Kit,37
-2217,2024-05-12,Lung Biopsy,Klebsiella pneumoniae,['blaOXA-48'],ST41,97.61,34.55,Illumina MiSeq,Lowenstein-Jensen,Ligation Sequencing Kit,45
-2218,2024-04-09,Sputum,Escherichia coli,['aac(3)-IIa'],ST18,94.6,35.57,Illumina MiSeq,7H9 broth,Ligation Sequencing Kit,34
-2219,2025-06-13,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,92.57,32.47,Illumina MiSeq,Middlebrook agar,TruSeq DNA,32
-2220,2024-08-06,Lung Biopsy,Escherichia coli,['blaCTX-M'],ST19,93.32,38.93,PacBio,Lowenstein-Jensen,Nextera XT,26
-2221,2024-05-22,Lung Biopsy,Methicillin-Resistant Staphylococcus aureus,['mecA'],ST46,90.62,38.33,Oxford Nanopore,Middlebrook agar,TruSeq DNA,31
-2222,2025-05-05,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,97.92,38.98,PacBio,Middlebrook agar,Ligation Sequencing Kit,35
-2223,2025-02-02,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,91.63,34.67,PacBio,Middlebrook agar,TruSeq DNA,41
-2224,2025-04-27,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,92.58,33.27,Illumina MiSeq,Lowenstein-Jensen,Nextera XT,19
-2225,2025-03-31,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,95.34,40.0,Illumina MiSeq,Lowenstein-Jensen,Nextera XT,41
-2226,2024-07-24,Sputum,Escherichia coli,['blaCTX-M'],ST39,92.36,34.74,Illumina MiSeq,7H9 broth,Ligation Sequencing Kit,22
-2227,2025-04-07,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,93.09,36.77,Illumina MiSeq,Middlebrook agar,Nextera XT,47
-2228,2025-03-30,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,99.74,37.83,PacBio,Middlebrook agar,Nextera XT,43
-2229,2025-02-09,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,98.83,34.6,Illumina MiSeq,Lowenstein-Jensen,TruSeq DNA,38
-2230,2025-01-23,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,92.66,38.52,Oxford Nanopore,Lowenstein-Jensen,Ligation Sequencing Kit,36
-2231,2024-06-11,CSF,Klebsiella pneumoniae,['blaOXA-48'],ST26,98.42,31.82,Oxford Nanopore,Lowenstein-Jensen,Nextera XT,33
-2232,2025-05-02,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,95.5,32.4,Illumina MiSeq,Middlebrook agar,TruSeq DNA,33
-2233,2025-05-22,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,96.57,33.69,Oxford Nanopore,Middlebrook agar,Nextera XT,27
-2234,2025-01-31,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,91.19,31.93,Oxford Nanopore,Lowenstein-Jensen,TruSeq DNA,25
-2235,2025-04-03,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,98.24,32.96,PacBio,Middlebrook agar,TruSeq DNA,21
-2236,2025-05-06,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,91.25,38.68,PacBio,Lowenstein-Jensen,Ligation Sequencing Kit,48
-2237,2024-10-26,Blood,Escherichia coli,['aac(3)-IIa'],ST41,99.32,34.78,Oxford Nanopore,7H9 broth,Nextera XT,26
-2238,2024-07-03,Blood,Methicillin-Resistant Staphylococcus aureus,['blaZ'],ST38,97.83,32.26,PacBio,Lowenstein-Jensen,Ligation Sequencing Kit,37
-2239,2024-12-01,Sputum,Klebsiella pneumoniae,['blaKPC'],ST20,96.54,31.57,Illumina MiSeq,Middlebrook agar,Nextera XT,26
-2240,2025-03-01,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,98.51,30.71,Oxford Nanopore,Middlebrook agar,TruSeq DNA,40
-2241,2024-04-07,Sputum,Pseudomonas aeruginosa,['oprD'],ST17,90.59,37.93,Illumina MiSeq,Lowenstein-Jensen,Nextera XT,20
-2242,2024-11-12,CSF,Klebsiella pneumoniae,['blaKPC'],ST27,95.98,30.26,Illumina MiSeq,Lowenstein-Jensen,Ligation Sequencing Kit,28
-2243,2025-03-24,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,94.65,34.08,Oxford Nanopore,Middlebrook agar,TruSeq DNA,20
-2244,2025-03-24,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,94.5,33.15,PacBio,Lowenstein-Jensen,Ligation Sequencing Kit,19
-2245,2024-07-19,Sputum,Methicillin-Resistant Staphylococcus aureus,['mecA'],ST23,93.58,37.56,Oxford Nanopore,7H9 broth,Nextera XT,34
-2246,2025-04-15,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,93.08,30.14,PacBio,7H9 broth,Ligation Sequencing Kit,23
-2247,2025-05-04,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,95.04,32.73,Illumina MiSeq,Lowenstein-Jensen,Ligation Sequencing Kit,27
-2248,2025-04-17,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,90.69,37.73,PacBio,Middlebrook agar,Nextera XT,45
-2249,2025-05-04,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,98.57,34.47,PacBio,Middlebrook agar,Ligation Sequencing Kit,33
-2250,2024-05-21,CSF,Escherichia coli,['aac(3)-IIa'],ST40,92.31,37.76,PacBio,7H9 broth,Ligation Sequencing Kit,30
-2251,2025-02-06,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,95.21,34.57,Oxford Nanopore,7H9 broth,TruSeq DNA,21
-2252,2025-06-22,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,90.8,33.29,PacBio,Middlebrook agar,TruSeq DNA,38
-2253,2024-10-13,CSF,Klebsiella pneumoniae,['blaKPC'],ST37,96.78,32.87,PacBio,7H9 broth,Nextera XT,38
-2254,2025-04-16,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,94.26,32.44,Illumina MiSeq,Lowenstein-Jensen,TruSeq DNA,29
-2255,2024-11-28,Sputum,Pseudomonas aeruginosa,['oprD'],ST26,95.77,32.32,PacBio,7H9 broth,TruSeq DNA,47
-2256,2025-03-19,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,94.2,32.5,PacBio,Lowenstein-Jensen,Ligation Sequencing Kit,48
-2257,2025-06-18,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,99.83,32.95,PacBio,Lowenstein-Jensen,Ligation Sequencing Kit,27
-2258,2025-06-08,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,93.49,36.37,Oxford Nanopore,7H9 broth,Ligation Sequencing Kit,43
-2259,2024-09-04,Sputum,Pseudomonas aeruginosa,['oprD'],ST36,93.61,31.31,Oxford Nanopore,Lowenstein-Jensen,Nextera XT,36
-2260,2024-10-25,Blood,Pseudomonas aeruginosa,['mexA'],ST39,97.98,37.47,Illumina MiSeq,Lowenstein-Jensen,TruSeq DNA,48
-2261,2025-06-22,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,95.31,34.55,Illumina MiSeq,Lowenstein-Jensen,Nextera XT,26
-2262,2025-06-06,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,99.34,33.28,Oxford Nanopore,7H9 broth,Ligation Sequencing Kit,46
-2263,2025-05-07,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,99.37,33.04,Oxford Nanopore,7H9 broth,Nextera XT,19
-2264,2025-02-09,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,95.35,35.87,PacBio,Middlebrook agar,Ligation Sequencing Kit,48
-2265,2025-04-03,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,94.39,39.51,Illumina MiSeq,Middlebrook agar,TruSeq DNA,24
-2266,2024-07-31,Blood,Escherichia coli,['blaCTX-M'],ST31,96.56,36.42,Illumina MiSeq,7H9 broth,TruSeq DNA,20
-2267,2024-10-07,Lung Biopsy,Klebsiella pneumoniae,['blaOXA-48'],ST21,92.75,39.84,Oxford Nanopore,7H9 broth,Ligation Sequencing Kit,18
-2268,2024-04-17,Blood,Escherichia coli,['blaCTX-M'],ST40,90.52,37.42,Oxford Nanopore,7H9 broth,Nextera XT,26
-2269,2024-11-01,Sputum,Pseudomonas aeruginosa,['oprD'],ST11,99.0,36.59,PacBio,7H9 broth,Ligation Sequencing Kit,43
-2270,2025-06-09,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,91.47,31.26,Illumina MiSeq,7H9 broth,TruSeq DNA,37
-2271,2025-05-22,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,98.44,36.51,Oxford Nanopore,7H9 broth,Ligation Sequencing Kit,21
-2272,2024-04-04,Lung Biopsy,Pseudomonas aeruginosa,['oprD'],ST19,93.09,33.13,Oxford Nanopore,Lowenstein-Jensen,Ligation Sequencing Kit,21
-2273,2025-05-24,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,91.29,30.6,PacBio,Middlebrook agar,TruSeq DNA,43
-2274,2024-08-10,Blood,Klebsiella pneumoniae,['blaKPC'],ST40,93.09,31.04,PacBio,7H9 broth,TruSeq DNA,37
-2275,2024-09-01,Blood,Escherichia coli,['aac(3)-IIa'],ST11,98.1,36.14,Illumina MiSeq,Lowenstein-Jensen,Ligation Sequencing Kit,42
-2276,2024-08-14,Blood,Escherichia coli,['blaCTX-M'],ST43,91.4,36.33,PacBio,Middlebrook agar,TruSeq DNA,20
-2277,2024-07-16,Blood,Klebsiella pneumoniae,['blaKPC'],ST15,90.84,30.53,PacBio,Lowenstein-Jensen,Ligation Sequencing Kit,37
-2278,2025-06-01,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,91.1,36.78,PacBio,7H9 broth,TruSeq DNA,31
-2279,2025-02-05,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,92.98,32.11,PacBio,7H9 broth,Nextera XT,24
-2280,2025-05-24,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,95.27,32.3,Oxford Nanopore,7H9 broth,Nextera XT,30
-2281,2025-04-17,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,95.68,37.09,Illumina MiSeq,Lowenstein-Jensen,Ligation Sequencing Kit,31
-2282,2025-04-22,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,94.32,31.06,Oxford Nanopore,Middlebrook agar,TruSeq DNA,20
-2283,2025-01-30,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,91.66,35.1,Oxford Nanopore,7H9 broth,TruSeq DNA,42
-2284,2025-01-20,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,91.51,37.59,Oxford Nanopore,7H9 broth,Nextera XT,37
-2285,2024-04-20,CSF,Methicillin-Resistant Staphylococcus aureus,['mecA'],ST40,99.61,33.16,PacBio,Middlebrook agar,TruSeq DNA,45
-2286,2025-01-20,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,90.56,38.32,Oxford Nanopore,Lowenstein-Jensen,TruSeq DNA,19
-2287,2025-05-09,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,91.86,36.05,Illumina MiSeq,Lowenstein-Jensen,Ligation Sequencing Kit,38
-2288,2024-05-26,Sputum,Methicillin-Resistant Staphylococcus aureus,['mecA'],ST33,90.39,37.08,Illumina MiSeq,Middlebrook agar,Ligation Sequencing Kit,23
-2289,2024-09-17,Blood,Methicillin-Resistant Staphylococcus aureus,['blaZ'],ST26,93.26,35.58,PacBio,Middlebrook agar,TruSeq DNA,20
-2290,2025-03-21,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,95.89,39.38,PacBio,Middlebrook agar,TruSeq DNA,22
-2291,2025-01-05,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,96.64,35.08,PacBio,Middlebrook agar,Nextera XT,38
-2292,2024-09-26,Lung Biopsy,Escherichia coli,['aac(3)-IIa'],ST49,92.93,37.88,Illumina MiSeq,7H9 broth,Nextera XT,20
-2293,2024-07-10,Lung Biopsy,Klebsiella pneumoniae,['blaOXA-48'],ST49,94.07,36.76,Illumina MiSeq,Middlebrook agar,TruSeq DNA,19
-2294,2024-08-22,Lung Biopsy,Methicillin-Resistant Staphylococcus aureus,['blaZ'],ST20,94.57,32.82,Oxford Nanopore,Middlebrook agar,Ligation Sequencing Kit,32
-2295,2024-03-15,CSF,Klebsiella pneumoniae,['blaOXA-48'],ST38,91.23,30.84,Illumina MiSeq,Middlebrook agar,Ligation Sequencing Kit,45
-2296,2024-11-18,Lung Biopsy,Escherichia coli,['aac(3)-IIa'],ST24,94.97,32.36,Illumina MiSeq,Lowenstein-Jensen,Nextera XT,30
-2297,2024-11-30,Blood,Methicillin-Resistant Staphylococcus aureus,['blaZ'],ST49,98.23,37.59,Illumina MiSeq,Lowenstein-Jensen,TruSeq DNA,40
-2298,2025-03-19,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,91.1,32.88,PacBio,Middlebrook agar,Ligation Sequencing Kit,31
-2299,2024-04-27,CSF,Klebsiella pneumoniae,['blaKPC'],ST28,95.31,36.32,Illumina MiSeq,7H9 broth,TruSeq DNA,37
-2300,2024-11-10,CSF,Escherichia coli,['aac(3)-IIa'],ST40,99.44,35.44,Illumina MiSeq,Middlebrook agar,TruSeq DNA,20
-2301,2025-03-27,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,91.03,35.82,Illumina MiSeq,Middlebrook agar,Ligation Sequencing Kit,38
-2302,2025-01-17,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,96.25,38.11,PacBio,Lowenstein-Jensen,Ligation Sequencing Kit,33
-2303,2025-03-06,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,99.79,35.43,Oxford Nanopore,Lowenstein-Jensen,Ligation Sequencing Kit,30
-2304,2025-04-23,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,93.64,38.89,Oxford Nanopore,Lowenstein-Jensen,Nextera XT,43
-2305,2025-02-16,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,94.2,34.31,PacBio,Lowenstein-Jensen,Nextera XT,41
-2306,2024-06-05,Sputum,Pseudomonas aeruginosa,['oprD'],ST12,94.22,36.9,Oxford Nanopore,Lowenstein-Jensen,Ligation Sequencing Kit,40
-2307,2025-01-08,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,97.42,31.6,Oxford Nanopore,Lowenstein-Jensen,Ligation Sequencing Kit,43
-2308,2025-06-23,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,95.62,36.05,Oxford Nanopore,Lowenstein-Jensen,TruSeq DNA,48
-2309,2025-01-30,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,93.11,32.79,Illumina MiSeq,Middlebrook agar,TruSeq DNA,30
-2310,2025-05-06,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,99.86,32.86,Oxford Nanopore,Middlebrook agar,TruSeq DNA,24
-2311,2025-03-30,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,98.37,33.2,Oxford Nanopore,7H9 broth,Ligation Sequencing Kit,48
-2312,2025-02-05,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,92.22,39.85,PacBio,7H9 broth,TruSeq DNA,34
-2313,2025-04-12,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,98.75,30.66,Oxford Nanopore,Middlebrook agar,Nextera XT,37
-2314,2025-03-30,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,94.45,36.8,Illumina MiSeq,Lowenstein-Jensen,Ligation Sequencing Kit,20
-2315,2025-02-27,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,91.63,33.23,Illumina MiSeq,Middlebrook agar,Nextera XT,27
-2316,2025-05-09,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,93.0,35.33,PacBio,Lowenstein-Jensen,Nextera XT,38
-2317,2025-06-16,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,96.35,35.77,Illumina MiSeq,7H9 broth,Nextera XT,48
-2318,2025-04-14,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,92.42,38.07,Oxford Nanopore,Middlebrook agar,TruSeq DNA,33
-2319,2025-03-23,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,96.01,33.13,Oxford Nanopore,Lowenstein-Jensen,Nextera XT,28
-2320,2024-05-20,Blood,Escherichia coli,['blaCTX-M'],ST28,92.65,32.48,Oxford Nanopore,7H9 broth,TruSeq DNA,21
-2321,2025-04-30,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,91.58,39.96,PacBio,Lowenstein-Jensen,Nextera XT,42
-2322,2025-05-07,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,93.49,30.51,Oxford Nanopore,7H9 broth,Nextera XT,36
-2323,2025-04-13,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,97.56,33.66,Illumina MiSeq,Lowenstein-Jensen,Ligation Sequencing Kit,29
-2324,2024-05-15,Blood,Escherichia coli,['blaCTX-M'],ST16,99.79,36.8,Oxford Nanopore,Middlebrook agar,TruSeq DNA,44
-2325,2025-03-27,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,90.4,30.39,PacBio,Middlebrook agar,TruSeq DNA,34
-2326,2025-03-18,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,93.89,36.17,Oxford Nanopore,Middlebrook agar,TruSeq DNA,23
-2327,2024-04-04,CSF,Pseudomonas aeruginosa,['mexA'],ST48,96.67,39.8,Oxford Nanopore,7H9 broth,TruSeq DNA,28
-2328,2025-06-24,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,97.67,33.8,PacBio,Middlebrook agar,Ligation Sequencing Kit,37
-2329,2024-03-12,Sputum,Methicillin-Resistant Staphylococcus aureus,['mecA'],ST18,96.84,34.1,Oxford Nanopore,Lowenstein-Jensen,Nextera XT,31
-2330,2024-07-29,CSF,Pseudomonas aeruginosa,['oprD'],ST22,95.41,36.76,Illumina MiSeq,Lowenstein-Jensen,Ligation Sequencing Kit,28
-2331,2024-05-22,Blood,Pseudomonas aeruginosa,['oprD'],ST17,93.14,33.49,Illumina MiSeq,Middlebrook agar,Ligation Sequencing Kit,33
-2332,2024-07-17,Lung Biopsy,Methicillin-Resistant Staphylococcus aureus,['mecA'],ST22,94.38,32.56,PacBio,7H9 broth,TruSeq DNA,47
-2333,2024-11-30,Lung Biopsy,Methicillin-Resistant Staphylococcus aureus,['mecA'],ST18,90.52,34.13,PacBio,7H9 broth,Ligation Sequencing Kit,25
-2334,2025-06-16,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,90.59,37.69,Oxford Nanopore,Lowenstein-Jensen,TruSeq DNA,38
-2335,2025-03-16,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,97.42,38.72,Oxford Nanopore,Lowenstein-Jensen,Nextera XT,47
-2336,2025-05-10,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,98.8,31.34,PacBio,Middlebrook agar,Ligation Sequencing Kit,33
-2337,2025-03-17,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,91.84,37.37,Oxford Nanopore,Middlebrook agar,TruSeq DNA,40
-2338,2025-05-03,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,90.94,39.82,Oxford Nanopore,7H9 broth,TruSeq DNA,39
-2339,2024-10-03,Blood,Pseudomonas aeruginosa,['mexA'],ST13,97.16,30.11,Oxford Nanopore,Lowenstein-Jensen,TruSeq DNA,36
-2340,2025-06-07,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,99.07,32.95,Oxford Nanopore,Middlebrook agar,Nextera XT,38
-2341,2024-10-22,CSF,Klebsiella pneumoniae,['blaKPC'],ST48,95.44,34.71,PacBio,Lowenstein-Jensen,TruSeq DNA,40
-2342,2025-03-25,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,95.67,31.5,Illumina MiSeq,Middlebrook agar,Ligation Sequencing Kit,24
-2343,2024-11-03,Lung Biopsy,Methicillin-Resistant Staphylococcus aureus,['blaZ'],ST46,90.55,31.32,Illumina MiSeq,Middlebrook agar,TruSeq DNA,43
-2344,2024-04-05,Sputum,Escherichia coli,['blaCTX-M'],ST14,90.45,33.45,PacBio,7H9 broth,Ligation Sequencing Kit,20
-2345,2024-09-25,Lung Biopsy,Methicillin-Resistant Staphylococcus aureus,['blaZ'],ST15,99.83,33.82,PacBio,Middlebrook agar,TruSeq DNA,29
-2346,2025-04-19,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,94.58,37.19,Illumina MiSeq,7H9 broth,Nextera XT,27
-2347,2025-01-05,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,98.01,34.19,Illumina MiSeq,Middlebrook agar,Nextera XT,19
-2348,2025-04-13,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,90.48,37.41,PacBio,Middlebrook agar,Ligation Sequencing Kit,45
-2349,2024-09-20,Lung Biopsy,Pseudomonas aeruginosa,['mexA'],ST29,99.07,35.76,PacBio,Lowenstein-Jensen,Nextera XT,44
-2350,2025-03-30,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,94.23,34.96,PacBio,7H9 broth,Ligation Sequencing Kit,39
-2351,2024-05-05,CSF,Klebsiella pneumoniae,['blaOXA-48'],ST13,92.39,32.25,Oxford Nanopore,7H9 broth,Ligation Sequencing Kit,33
-2352,2025-05-18,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,94.45,33.71,Oxford Nanopore,Middlebrook agar,Nextera XT,47
-2353,2024-06-15,CSF,Klebsiella pneumoniae,['blaOXA-48'],ST23,97.54,37.24,Illumina MiSeq,7H9 broth,Nextera XT,43
-2354,2024-05-22,Lung Biopsy,Klebsiella pneumoniae,['blaOXA-48'],ST28,96.97,33.97,Oxford Nanopore,7H9 broth,Ligation Sequencing Kit,37
-2355,2024-05-05,Blood,Klebsiella pneumoniae,['blaOXA-48'],ST30,97.54,33.2,Oxford Nanopore,7H9 broth,Ligation Sequencing Kit,33
-2356,2024-07-30,Lung Biopsy,Klebsiella pneumoniae,['blaOXA-48'],ST46,92.92,31.96,PacBio,Middlebrook agar,Ligation Sequencing Kit,31
-2357,2025-05-20,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,97.87,31.69,Oxford Nanopore,Lowenstein-Jensen,Nextera XT,41
-2358,2024-08-13,Sputum,Escherichia coli,['blaCTX-M'],ST10,91.36,36.31,PacBio,7H9 broth,Nextera XT,31
-2359,2025-03-12,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,90.12,35.29,Illumina MiSeq,Middlebrook agar,Ligation Sequencing Kit,31
-2360,2024-10-23,CSF,Pseudomonas aeruginosa,['oprD'],ST35,91.9,35.26,Illumina MiSeq,Middlebrook agar,Nextera XT,25
-2361,2025-04-14,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,96.43,30.32,PacBio,7H9 broth,Ligation Sequencing Kit,45
-2362,2024-11-11,CSF,Pseudomonas aeruginosa,['mexA'],ST43,98.37,36.45,PacBio,7H9 broth,Nextera XT,33
-2363,2024-09-20,CSF,Pseudomonas aeruginosa,['mexA'],ST23,96.52,31.79,PacBio,Lowenstein-Jensen,Ligation Sequencing Kit,36
-2364,2024-10-13,Lung Biopsy,Escherichia coli,['aac(3)-IIa'],ST13,93.8,37.4,Oxford Nanopore,Middlebrook agar,Ligation Sequencing Kit,28
-2365,2025-04-26,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,96.28,37.84,PacBio,Lowenstein-Jensen,TruSeq DNA,18
-2366,2025-03-05,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,97.64,32.95,PacBio,Middlebrook agar,TruSeq DNA,20
-2367,2025-03-20,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,93.57,30.92,Illumina MiSeq,Middlebrook agar,TruSeq DNA,28
-2368,2025-01-07,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,95.49,34.08,Illumina MiSeq,Lowenstein-Jensen,TruSeq DNA,35
-2369,2025-05-24,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,93.84,30.85,Oxford Nanopore,7H9 broth,TruSeq DNA,31
-2370,2024-10-24,CSF,Methicillin-Resistant Staphylococcus aureus,['blaZ'],ST40,90.63,34.35,Oxford Nanopore,Lowenstein-Jensen,TruSeq DNA,22
-2371,2024-06-14,CSF,Methicillin-Resistant Staphylococcus aureus,['blaZ'],ST38,90.07,33.96,Oxford Nanopore,7H9 broth,Nextera XT,27
-2372,2025-06-27,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,93.94,33.19,Oxford Nanopore,Lowenstein-Jensen,Nextera XT,48
-2373,2025-05-21,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,99.87,31.8,Illumina MiSeq,Middlebrook agar,Nextera XT,36
-2374,2025-03-06,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,91.38,33.03,Illumina MiSeq,Lowenstein-Jensen,Ligation Sequencing Kit,33
-2375,2024-10-20,CSF,Methicillin-Resistant Staphylococcus aureus,['mecA'],ST33,95.02,39.2,Oxford Nanopore,Middlebrook agar,TruSeq DNA,35
-2376,2025-03-26,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,96.4,39.67,Illumina MiSeq,Middlebrook agar,Ligation Sequencing Kit,39
-2377,2024-03-21,Sputum,Pseudomonas aeruginosa,['oprD'],ST39,96.81,32.21,PacBio,Middlebrook agar,Ligation Sequencing Kit,36
-2378,2024-04-03,CSF,Klebsiella pneumoniae,['blaOXA-48'],ST32,93.45,33.43,Illumina MiSeq,7H9 broth,Ligation Sequencing Kit,22
-2379,2024-09-04,CSF,Klebsiella pneumoniae,['blaKPC'],ST43,98.41,36.48,Illumina MiSeq,Middlebrook agar,Nextera XT,18
-2380,2024-04-27,CSF,Klebsiella pneumoniae,['blaOXA-48'],ST47,96.51,33.96,PacBio,7H9 broth,Nextera XT,38
-2381,2025-03-25,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,98.63,31.87,Illumina MiSeq,Middlebrook agar,Nextera XT,43
-2382,2024-09-05,Blood,Pseudomonas aeruginosa,['oprD'],ST39,96.05,35.87,PacBio,Lowenstein-Jensen,Ligation Sequencing Kit,30
-2383,2025-04-18,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,96.87,35.11,Oxford Nanopore,7H9 broth,Nextera XT,29
-2384,2024-11-05,Lung Biopsy,Klebsiella pneumoniae,['blaOXA-48'],ST38,91.65,32.89,PacBio,Middlebrook agar,Nextera XT,35
-2385,2025-04-24,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,96.78,34.16,PacBio,Middlebrook agar,TruSeq DNA,31
-2386,2025-05-25,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,92.86,37.81,Illumina MiSeq,Lowenstein-Jensen,Nextera XT,35
-2387,2024-11-16,Sputum,Escherichia coli,['blaCTX-M'],ST29,95.41,39.9,PacBio,7H9 broth,Ligation Sequencing Kit,32
-2388,2024-09-22,Sputum,Methicillin-Resistant Staphylococcus aureus,['mecA'],ST49,93.47,37.11,Illumina MiSeq,Middlebrook agar,Ligation Sequencing Kit,40
-2389,2025-03-16,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,93.2,37.04,Oxford Nanopore,Middlebrook agar,Ligation Sequencing Kit,23
-2390,2024-03-27,Sputum,Pseudomonas aeruginosa,['mexA'],ST35,98.57,32.5,Oxford Nanopore,Middlebrook agar,Nextera XT,40
-2391,2025-04-05,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,97.42,36.95,PacBio,7H9 broth,TruSeq DNA,34
-2392,2024-08-16,Sputum,Methicillin-Resistant Staphylococcus aureus,['mecA'],ST37,96.9,38.5,PacBio,Lowenstein-Jensen,Ligation Sequencing Kit,39
-2393,2025-01-13,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,93.4,36.83,Illumina MiSeq,Middlebrook agar,TruSeq DNA,43
-2394,2025-02-03,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,94.24,39.96,Oxford Nanopore,Lowenstein-Jensen,Nextera XT,48
-2395,2025-04-12,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,98.95,31.66,Oxford Nanopore,7H9 broth,TruSeq DNA,39
-2396,2024-06-10,Sputum,Methicillin-Resistant Staphylococcus aureus,['mecA'],ST10,95.88,35.19,Illumina MiSeq,Lowenstein-Jensen,Nextera XT,22
-2397,2025-03-18,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,91.01,33.13,Oxford Nanopore,7H9 broth,Ligation Sequencing Kit,43
-2398,2024-09-16,Lung Biopsy,Pseudomonas aeruginosa,['mexA'],ST50,96.04,31.64,Illumina MiSeq,Middlebrook agar,Ligation Sequencing Kit,18
-2399,2024-10-20,Lung Biopsy,Klebsiella pneumoniae,['blaKPC'],ST27,93.48,34.29,Illumina MiSeq,Middlebrook agar,Ligation Sequencing Kit,30
-2400,2025-06-15,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,91.87,33.92,Illumina MiSeq,Middlebrook agar,Ligation Sequencing Kit,34
-2401,2024-05-18,CSF,Pseudomonas aeruginosa,['oprD'],ST18,98.8,30.12,PacBio,Middlebrook agar,Nextera XT,34
-2402,2025-01-16,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,92.6,30.4,Illumina MiSeq,Middlebrook agar,Nextera XT,18
-2403,2024-08-20,CSF,Pseudomonas aeruginosa,['mexA'],ST42,96.1,32.77,Illumina MiSeq,Middlebrook agar,Ligation Sequencing Kit,35
-2404,2025-04-27,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,90.85,34.34,PacBio,7H9 broth,Nextera XT,25
-2405,2025-05-13,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,94.91,33.47,Illumina MiSeq,Middlebrook agar,Nextera XT,23
-2406,2025-03-09,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,94.25,35.24,Illumina MiSeq,7H9 broth,TruSeq DNA,43
-2407,2024-12-01,Blood,Escherichia coli,['blaCTX-M'],ST42,97.66,38.94,Illumina MiSeq,Lowenstein-Jensen,Nextera XT,26
-2408,2024-07-28,Sputum,Methicillin-Resistant Staphylococcus aureus,['mecA'],ST30,97.95,37.14,Illumina MiSeq,7H9 broth,Nextera XT,35
-2409,2024-04-08,Sputum,Escherichia coli,['aac(3)-IIa'],ST14,92.21,35.16,PacBio,Middlebrook agar,Nextera XT,23
-2410,2024-03-25,Sputum,Klebsiella pneumoniae,['blaOXA-48'],ST33,97.77,37.4,Oxford Nanopore,7H9 broth,TruSeq DNA,36
-2411,2024-06-28,Sputum,Pseudomonas aeruginosa,['mexA'],ST34,96.87,30.1,PacBio,Lowenstein-Jensen,Ligation Sequencing Kit,44
-2412,2024-10-20,Lung Biopsy,Methicillin-Resistant Staphylococcus aureus,['blaZ'],ST39,90.43,32.31,Illumina MiSeq,Middlebrook agar,TruSeq DNA,20
-2413,2024-06-23,CSF,Pseudomonas aeruginosa,['oprD'],ST30,91.29,32.92,Illumina MiSeq,Lowenstein-Jensen,Ligation Sequencing Kit,48
-2414,2025-01-31,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,94.45,33.14,Illumina MiSeq,7H9 broth,Nextera XT,23
-2415,2024-09-18,Blood,Escherichia coli,['blaCTX-M'],ST30,98.18,36.97,Illumina MiSeq,7H9 broth,Ligation Sequencing Kit,27
-2416,2025-05-23,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,99.43,38.55,Oxford Nanopore,Lowenstein-Jensen,Nextera XT,18
-2417,2024-11-21,Sputum,Escherichia coli,['aac(3)-IIa'],ST14,91.96,34.01,Illumina MiSeq,7H9 broth,Nextera XT,22
-2418,2025-05-27,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,94.56,31.68,Oxford Nanopore,7H9 broth,Nextera XT,48
-2419,2025-02-08,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,91.85,32.8,Illumina MiSeq,Lowenstein-Jensen,Nextera XT,47
-2420,2025-06-14,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,93.79,34.19,Oxford Nanopore,7H9 broth,Nextera XT,26
-2421,2025-03-23,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,93.84,31.8,Oxford Nanopore,Middlebrook agar,Ligation Sequencing Kit,28
-2422,2025-03-10,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,90.99,36.57,Oxford Nanopore,Middlebrook agar,Nextera XT,23
-2423,2024-09-21,CSF,Escherichia coli,['aac(3)-IIa'],ST46,97.31,33.59,Illumina MiSeq,Middlebrook agar,TruSeq DNA,43
-2424,2025-01-01,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,92.17,35.26,Illumina MiSeq,7H9 broth,Nextera XT,37
-2425,2025-01-29,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,95.81,39.17,Oxford Nanopore,7H9 broth,Nextera XT,22
-2426,2025-06-13,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,97.25,34.37,Oxford Nanopore,Lowenstein-Jensen,Nextera XT,23
-2427,2024-11-16,Blood,Escherichia coli,['aac(3)-IIa'],ST46,96.82,31.27,Illumina MiSeq,Lowenstein-Jensen,TruSeq DNA,41
-2428,2024-10-18,Lung Biopsy,Pseudomonas aeruginosa,['mexA'],ST50,90.77,33.47,Oxford Nanopore,7H9 broth,TruSeq DNA,41
-2429,2025-04-09,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,91.07,30.01,Illumina MiSeq,Lowenstein-Jensen,TruSeq DNA,43
-2430,2024-10-26,CSF,Klebsiella pneumoniae,['blaKPC'],ST38,94.75,38.64,PacBio,Lowenstein-Jensen,Nextera XT,44
-2431,2025-01-24,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,97.25,35.47,Oxford Nanopore,7H9 broth,TruSeq DNA,23
-2432,2025-02-18,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,91.0,32.06,PacBio,Lowenstein-Jensen,Nextera XT,19
-2433,2024-10-19,Blood,Pseudomonas aeruginosa,['mexA'],ST37,98.31,31.54,Illumina MiSeq,Lowenstein-Jensen,Ligation Sequencing Kit,35
-2434,2025-04-12,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,98.35,33.08,PacBio,Lowenstein-Jensen,Nextera XT,33
-2435,2025-01-12,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,93.78,31.87,Oxford Nanopore,7H9 broth,TruSeq DNA,46
-2436,2025-05-19,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,90.96,36.68,Illumina MiSeq,7H9 broth,Ligation Sequencing Kit,39
-2437,2024-10-23,Sputum,Klebsiella pneumoniae,['blaOXA-48'],ST29,99.27,35.73,Oxford Nanopore,Middlebrook agar,Ligation Sequencing Kit,45
-2438,2024-09-18,Lung Biopsy,Methicillin-Resistant Staphylococcus aureus,['mecA'],ST50,90.42,30.78,Illumina MiSeq,7H9 broth,Nextera XT,22
-2439,2025-01-04,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,92.73,34.58,Oxford Nanopore,Middlebrook agar,TruSeq DNA,45
-2440,2025-05-18,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,97.72,37.86,PacBio,7H9 broth,Nextera XT,36
-2441,2025-06-05,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,92.73,31.44,PacBio,Lowenstein-Jensen,Nextera XT,23
-2442,2024-03-26,Blood,Pseudomonas aeruginosa,['oprD'],ST27,93.69,33.38,PacBio,Lowenstein-Jensen,TruSeq DNA,46
-2443,2025-02-24,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,96.39,31.88,Oxford Nanopore,Middlebrook agar,TruSeq DNA,37
-2444,2024-08-22,Blood,Escherichia coli,['blaCTX-M'],ST22,95.02,31.36,Illumina MiSeq,7H9 broth,TruSeq DNA,40
-2445,2024-05-26,CSF,Escherichia coli,['blaCTX-M'],ST25,94.6,33.97,Illumina MiSeq,Lowenstein-Jensen,TruSeq DNA,44
-2446,2024-09-10,CSF,Escherichia coli,['aac(3)-IIa'],ST13,98.23,30.9,Oxford Nanopore,7H9 broth,TruSeq DNA,41
-2447,2025-06-24,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,98.56,39.67,PacBio,Lowenstein-Jensen,Ligation Sequencing Kit,18
-2448,2025-04-19,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,99.57,36.43,Oxford Nanopore,Middlebrook agar,TruSeq DNA,40
-2449,2024-10-08,Blood,Pseudomonas aeruginosa,['oprD'],ST29,95.79,30.07,PacBio,Middlebrook agar,Ligation Sequencing Kit,30
-2450,2025-02-08,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,98.83,32.99,Oxford Nanopore,Middlebrook agar,Ligation Sequencing Kit,48
-2451,2024-11-14,CSF,Methicillin-Resistant Staphylococcus aureus,['blaZ'],ST34,94.92,32.96,Illumina MiSeq,Middlebrook agar,Nextera XT,38
-2452,2025-06-18,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,92.97,31.7,Oxford Nanopore,Middlebrook agar,TruSeq DNA,34
-2453,2024-08-10,CSF,Escherichia coli,['blaCTX-M'],ST32,96.73,33.36,PacBio,Middlebrook agar,Nextera XT,48
-2454,2025-05-29,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,90.53,36.34,Oxford Nanopore,Lowenstein-Jensen,Nextera XT,33
-2455,2025-02-21,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,98.62,31.51,PacBio,Lowenstein-Jensen,TruSeq DNA,19
-2456,2025-06-12,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,96.25,31.77,Illumina MiSeq,7H9 broth,TruSeq DNA,28
-2457,2024-05-20,Blood,Methicillin-Resistant Staphylococcus aureus,['blaZ'],ST40,96.08,36.33,Illumina MiSeq,Lowenstein-Jensen,Nextera XT,22
-2458,2025-03-05,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,96.7,36.27,Oxford Nanopore,Middlebrook agar,Nextera XT,18
-2459,2025-03-16,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,98.16,32.98,PacBio,Lowenstein-Jensen,Nextera XT,20
-2460,2025-04-14,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,91.87,39.48,Oxford Nanopore,Lowenstein-Jensen,TruSeq DNA,42
-2461,2024-07-25,Lung Biopsy,Escherichia coli,['aac(3)-IIa'],ST50,93.63,36.51,PacBio,Middlebrook agar,Nextera XT,21
-2462,2024-11-28,Sputum,Methicillin-Resistant Staphylococcus aureus,['mecA'],ST23,93.76,35.47,PacBio,7H9 broth,TruSeq DNA,32
-2463,2024-10-09,Sputum,Escherichia coli,['aac(3)-IIa'],ST17,94.15,38.99,PacBio,Middlebrook agar,Ligation Sequencing Kit,22
-2464,2025-05-08,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,92.92,30.39,Illumina MiSeq,Lowenstein-Jensen,Ligation Sequencing Kit,31
-2465,2025-05-11,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,94.89,39.49,Illumina MiSeq,7H9 broth,Ligation Sequencing Kit,39
-2466,2025-03-16,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,91.73,30.39,Oxford Nanopore,7H9 broth,Nextera XT,44
-2467,2024-06-10,Sputum,Pseudomonas aeruginosa,['mexA'],ST33,93.25,38.95,Illumina MiSeq,Middlebrook agar,Ligation Sequencing Kit,23
-2468,2025-02-03,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,98.77,31.67,PacBio,Lowenstein-Jensen,TruSeq DNA,38
-2469,2024-03-28,CSF,Escherichia coli,['blaCTX-M'],ST40,93.76,33.59,PacBio,Lowenstein-Jensen,Nextera XT,37
-2470,2025-05-28,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,96.71,37.68,Oxford Nanopore,7H9 broth,Ligation Sequencing Kit,45
-2471,2025-05-23,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,96.7,33.85,Illumina MiSeq,Lowenstein-Jensen,TruSeq DNA,39
-2472,2025-01-13,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,92.38,39.7,Illumina MiSeq,7H9 broth,TruSeq DNA,28
-2473,2025-05-08,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,94.93,33.16,PacBio,Lowenstein-Jensen,Nextera XT,45
-2474,2025-05-11,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,96.13,33.05,Illumina MiSeq,7H9 broth,Ligation Sequencing Kit,48
-2475,2025-06-18,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,96.14,34.73,Oxford Nanopore,Lowenstein-Jensen,Ligation Sequencing Kit,42
-2476,2025-05-21,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,96.27,38.0,Illumina MiSeq,Lowenstein-Jensen,TruSeq DNA,44
-2477,2024-04-12,Lung Biopsy,Escherichia coli,['aac(3)-IIa'],ST23,92.52,31.96,PacBio,Middlebrook agar,TruSeq DNA,21
-2478,2024-11-08,CSF,Klebsiella pneumoniae,['blaOXA-48'],ST10,96.52,39.56,PacBio,7H9 broth,TruSeq DNA,32
-2479,2025-03-24,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,96.51,36.06,PacBio,7H9 broth,Nextera XT,30
-2480,2024-08-13,Lung Biopsy,Pseudomonas aeruginosa,['oprD'],ST45,94.09,37.0,Oxford Nanopore,Lowenstein-Jensen,Nextera XT,22
-2481,2025-06-13,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,91.76,35.42,Illumina MiSeq,Middlebrook agar,Ligation Sequencing Kit,48
-2482,2025-05-17,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,96.68,38.94,PacBio,Middlebrook agar,Ligation Sequencing Kit,31
-2483,2025-02-11,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,90.56,32.67,Oxford Nanopore,7H9 broth,Nextera XT,39
-2484,2024-03-16,Sputum,Klebsiella pneumoniae,['blaOXA-48'],ST25,94.48,36.16,PacBio,7H9 broth,TruSeq DNA,44
-2485,2025-04-24,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,92.49,36.21,PacBio,7H9 broth,Nextera XT,41
-2486,2024-04-27,Lung Biopsy,Escherichia coli,['aac(3)-IIa'],ST12,90.74,39.62,Oxford Nanopore,Lowenstein-Jensen,Nextera XT,39
-2487,2025-03-24,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,91.53,31.54,Oxford Nanopore,Lowenstein-Jensen,Ligation Sequencing Kit,47
-2488,2024-06-07,Blood,Methicillin-Resistant Staphylococcus aureus,['blaZ'],ST15,90.67,35.05,PacBio,7H9 broth,Nextera XT,34
-2489,2024-04-18,Blood,Escherichia coli,['blaCTX-M'],ST32,99.87,38.24,Illumina MiSeq,Middlebrook agar,Ligation Sequencing Kit,33
-2490,2025-04-06,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,90.24,35.17,Oxford Nanopore,Middlebrook agar,Ligation Sequencing Kit,27
-2491,2024-08-15,Blood,Escherichia coli,['blaCTX-M'],ST23,99.62,37.73,PacBio,7H9 broth,Nextera XT,23
-2492,2024-07-27,CSF,Escherichia coli,['blaCTX-M'],ST21,97.1,30.38,PacBio,7H9 broth,Nextera XT,32
-2493,2025-01-02,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,93.86,31.18,Oxford Nanopore,Lowenstein-Jensen,TruSeq DNA,18
-2494,2025-04-23,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,90.86,37.65,Oxford Nanopore,Middlebrook agar,TruSeq DNA,37
-2495,2025-03-17,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,97.89,38.49,Illumina MiSeq,7H9 broth,Ligation Sequencing Kit,30
-2496,2024-06-09,Blood,Escherichia coli,['aac(3)-IIa'],ST23,95.67,33.94,Illumina MiSeq,7H9 broth,Nextera XT,18
-2497,2024-10-26,Lung Biopsy,Escherichia coli,['aac(3)-IIa'],ST45,91.8,38.0,PacBio,Lowenstein-Jensen,Nextera XT,21
-2498,2025-03-14,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,96.65,32.35,Oxford Nanopore,Lowenstein-Jensen,TruSeq DNA,22
-2499,2025-03-22,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,91.51,35.67,PacBio,Lowenstein-Jensen,Ligation Sequencing Kit,36
-2500,2024-04-18,Blood,Pseudomonas aeruginosa,['oprD'],ST39,98.32,31.34,PacBio,Middlebrook agar,TruSeq DNA,26
-2501,2025-06-10,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,95.33,32.63,Illumina MiSeq,Lowenstein-Jensen,Nextera XT,46
-2502,2025-05-19,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,90.36,32.61,Oxford Nanopore,Middlebrook agar,Nextera XT,47
-2503,2024-09-09,CSF,Escherichia coli,['blaCTX-M'],ST49,95.05,33.97,Oxford Nanopore,7H9 broth,TruSeq DNA,34
-2504,2024-07-20,Lung Biopsy,Methicillin-Resistant Staphylococcus aureus,['mecA'],ST14,99.3,30.4,Illumina MiSeq,Middlebrook agar,Ligation Sequencing Kit,33
-2505,2025-06-30,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,99.71,33.24,Oxford Nanopore,Lowenstein-Jensen,Nextera XT,19
-2506,2025-04-07,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,98.27,35.17,Oxford Nanopore,Middlebrook agar,Ligation Sequencing Kit,46
-2507,2025-02-28,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,98.73,34.4,Oxford Nanopore,Middlebrook agar,Nextera XT,34
-2508,2025-04-17,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,98.09,36.61,Illumina MiSeq,Lowenstein-Jensen,Ligation Sequencing Kit,40
-2509,2025-06-01,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,92.41,31.28,Illumina MiSeq,Middlebrook agar,TruSeq DNA,18
-2510,2025-05-25,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,99.49,35.99,Illumina MiSeq,Lowenstein-Jensen,Nextera XT,34
-2511,2025-05-30,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,94.07,31.43,Oxford Nanopore,7H9 broth,Nextera XT,44
-2512,2025-01-28,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,92.28,33.85,Oxford Nanopore,Middlebrook agar,Ligation Sequencing Kit,20
-2513,2024-09-27,CSF,Escherichia coli,['blaCTX-M'],ST40,96.09,30.39,Illumina MiSeq,7H9 broth,TruSeq DNA,46
-2514,2024-10-13,CSF,Methicillin-Resistant Staphylococcus aureus,['blaZ'],ST47,97.94,37.9,PacBio,Lowenstein-Jensen,Nextera XT,48
-2515,2024-11-29,CSF,Escherichia coli,['blaCTX-M'],ST43,92.55,30.05,Oxford Nanopore,Middlebrook agar,Ligation Sequencing Kit,31
-2516,2025-04-19,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,92.51,38.55,Illumina MiSeq,Lowenstein-Jensen,Ligation Sequencing Kit,36
-2517,2024-06-09,CSF,Pseudomonas aeruginosa,['oprD'],ST46,93.67,35.55,PacBio,Middlebrook agar,TruSeq DNA,23
-2518,2024-11-30,Sputum,Escherichia coli,['blaCTX-M'],ST34,95.03,37.86,PacBio,7H9 broth,Nextera XT,24
-2519,2025-04-13,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,90.37,33.84,Illumina MiSeq,Lowenstein-Jensen,Nextera XT,37
-2520,2024-09-07,Lung Biopsy,Escherichia coli,['blaCTX-M'],ST49,97.96,32.86,Illumina MiSeq,7H9 broth,Ligation Sequencing Kit,47
-2521,2025-01-04,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,94.01,32.0,Oxford Nanopore,Lowenstein-Jensen,Ligation Sequencing Kit,30
-2522,2024-09-04,Blood,Methicillin-Resistant Staphylococcus aureus,['mecA'],ST26,96.0,31.95,Oxford Nanopore,Lowenstein-Jensen,TruSeq DNA,25
-2523,2024-03-30,Sputum,Pseudomonas aeruginosa,['oprD'],ST34,95.33,37.93,Illumina MiSeq,Middlebrook agar,TruSeq DNA,46
-2524,2024-05-05,CSF,Klebsiella pneumoniae,['blaKPC'],ST30,90.67,36.34,Illumina MiSeq,Lowenstein-Jensen,Nextera XT,26
-2525,2025-05-22,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,97.41,33.42,Oxford Nanopore,7H9 broth,TruSeq DNA,39
-2526,2024-07-20,Blood,Klebsiella pneumoniae,['blaKPC'],ST25,99.01,34.99,Illumina MiSeq,Middlebrook agar,Ligation Sequencing Kit,47
-2527,2025-05-07,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,90.78,39.56,Illumina MiSeq,7H9 broth,Nextera XT,47
-2528,2025-05-11,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,91.81,37.64,Oxford Nanopore,Middlebrook agar,TruSeq DNA,33
-2529,2025-02-14,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,93.44,38.6,Oxford Nanopore,Middlebrook agar,Nextera XT,34
-2530,2025-06-06,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,95.75,33.25,Illumina MiSeq,Middlebrook agar,Nextera XT,30
-2531,2025-06-29,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,94.94,32.11,PacBio,Lowenstein-Jensen,TruSeq DNA,23
-2532,2025-03-11,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,92.26,31.0,PacBio,7H9 broth,Ligation Sequencing Kit,39
-2533,2024-07-27,CSF,Pseudomonas aeruginosa,['oprD'],ST29,94.17,31.34,Illumina MiSeq,Lowenstein-Jensen,Nextera XT,23
-2534,2024-11-22,Lung Biopsy,Pseudomonas aeruginosa,['oprD'],ST32,97.37,32.6,Oxford Nanopore,Middlebrook agar,Nextera XT,32
-2535,2025-05-11,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,92.82,33.25,PacBio,Middlebrook agar,Nextera XT,42
-2536,2024-09-11,CSF,Methicillin-Resistant Staphylococcus aureus,['mecA'],ST15,98.0,33.37,PacBio,7H9 broth,Nextera XT,38
-2537,2025-04-03,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,92.69,34.45,Oxford Nanopore,Middlebrook agar,Ligation Sequencing Kit,30
-2538,2025-01-21,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,99.31,37.01,PacBio,7H9 broth,Ligation Sequencing Kit,26
-2539,2024-09-14,Sputum,Escherichia coli,['blaCTX-M'],ST26,93.93,37.65,PacBio,7H9 broth,Nextera XT,42
-2540,2024-04-03,Lung Biopsy,Escherichia coli,['aac(3)-IIa'],ST30,95.21,31.71,Oxford Nanopore,Middlebrook agar,Nextera XT,22
-2541,2024-03-31,CSF,Methicillin-Resistant Staphylococcus aureus,['blaZ'],ST32,96.25,36.36,Illumina MiSeq,Middlebrook agar,Ligation Sequencing Kit,32
-2542,2025-02-04,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,95.18,37.58,Illumina MiSeq,Lowenstein-Jensen,Nextera XT,18
-2543,2025-01-02,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,92.9,32.31,Oxford Nanopore,7H9 broth,TruSeq DNA,43
-2544,2025-01-21,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,98.2,32.21,PacBio,Middlebrook agar,Ligation Sequencing Kit,30
-2545,2024-04-13,Blood,Pseudomonas aeruginosa,['mexA'],ST50,98.45,31.82,PacBio,Lowenstein-Jensen,TruSeq DNA,24
-2546,2025-03-10,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,91.84,31.02,Illumina MiSeq,7H9 broth,Ligation Sequencing Kit,18
-2547,2025-05-08,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,94.16,37.86,Illumina MiSeq,Lowenstein-Jensen,Nextera XT,28
-2548,2024-10-01,Sputum,Pseudomonas aeruginosa,['oprD'],ST10,95.38,31.82,Illumina MiSeq,Lowenstein-Jensen,TruSeq DNA,20
-2549,2025-02-23,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,90.93,36.66,Illumina MiSeq,Lowenstein-Jensen,Ligation Sequencing Kit,42
-2550,2025-05-04,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,95.44,31.22,PacBio,7H9 broth,Ligation Sequencing Kit,47
-2551,2024-07-31,Sputum,Pseudomonas aeruginosa,['mexA'],ST35,93.21,31.67,Illumina MiSeq,7H9 broth,Ligation Sequencing Kit,31
-2552,2025-03-28,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,94.95,36.86,Oxford Nanopore,7H9 broth,Nextera XT,23
-2553,2024-11-22,Lung Biopsy,Pseudomonas aeruginosa,['oprD'],ST22,99.72,37.89,Illumina MiSeq,Lowenstein-Jensen,Nextera XT,28
-2554,2025-05-26,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,95.37,34.9,PacBio,Lowenstein-Jensen,Ligation Sequencing Kit,27
-2555,2025-05-19,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,94.45,38.19,Illumina MiSeq,7H9 broth,Ligation Sequencing Kit,22
-2556,2025-05-18,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,93.17,30.63,PacBio,Lowenstein-Jensen,Ligation Sequencing Kit,25
-2557,2025-05-14,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,96.34,31.1,PacBio,Lowenstein-Jensen,TruSeq DNA,31
-2558,2024-07-24,Lung Biopsy,Methicillin-Resistant Staphylococcus aureus,['blaZ'],ST43,90.31,36.42,Illumina MiSeq,Lowenstein-Jensen,Nextera XT,21
-2559,2025-04-17,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,96.33,33.61,Oxford Nanopore,7H9 broth,TruSeq DNA,43
-2560,2025-01-26,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,92.14,35.19,Illumina MiSeq,Lowenstein-Jensen,Nextera XT,48
-2561,2025-01-28,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,97.42,34.15,PacBio,Middlebrook agar,Nextera XT,35
-2562,2024-06-19,CSF,Methicillin-Resistant Staphylococcus aureus,['blaZ'],ST30,96.51,35.34,PacBio,Lowenstein-Jensen,Ligation Sequencing Kit,28
-2563,2025-03-07,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,92.12,37.66,PacBio,7H9 broth,Ligation Sequencing Kit,35
-2564,2025-01-02,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,91.34,38.9,Oxford Nanopore,Middlebrook agar,Nextera XT,34
-2565,2025-01-10,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,99.17,31.55,PacBio,Middlebrook agar,Ligation Sequencing Kit,36
-2566,2025-05-26,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,92.97,35.7,Illumina MiSeq,7H9 broth,TruSeq DNA,43
-2567,2025-06-14,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,98.11,30.95,Oxford Nanopore,Middlebrook agar,Ligation Sequencing Kit,36
-2568,2024-05-21,CSF,Klebsiella pneumoniae,['blaKPC'],ST50,98.59,38.7,Oxford Nanopore,Lowenstein-Jensen,TruSeq DNA,47
-2569,2024-03-19,Sputum,Methicillin-Resistant Staphylococcus aureus,['blaZ'],ST48,92.19,30.51,Illumina MiSeq,Lowenstein-Jensen,Ligation Sequencing Kit,40
-2570,2024-05-12,Blood,Methicillin-Resistant Staphylococcus aureus,['blaZ'],ST15,95.66,30.49,Illumina MiSeq,Lowenstein-Jensen,Nextera XT,33
-2571,2025-05-15,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,91.94,36.16,Oxford Nanopore,Lowenstein-Jensen,Ligation Sequencing Kit,36
-2572,2025-03-31,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,96.65,34.24,PacBio,Middlebrook agar,Nextera XT,21
-2573,2025-03-01,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,91.44,30.45,Oxford Nanopore,Middlebrook agar,TruSeq DNA,37
-2574,2024-04-16,Sputum,Pseudomonas aeruginosa,['mexA'],ST29,98.24,32.88,Illumina MiSeq,Middlebrook agar,Nextera XT,45
-2575,2025-02-06,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,92.56,34.83,Illumina MiSeq,Middlebrook agar,Ligation Sequencing Kit,42
-2576,2025-01-03,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,92.69,34.65,Oxford Nanopore,7H9 broth,Ligation Sequencing Kit,37
-2577,2025-04-08,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,98.75,33.87,Illumina MiSeq,7H9 broth,TruSeq DNA,45
-2578,2025-03-20,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,90.39,39.22,Oxford Nanopore,Middlebrook agar,Ligation Sequencing Kit,18
-2579,2025-05-09,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,92.34,39.78,Oxford Nanopore,Lowenstein-Jensen,Ligation Sequencing Kit,27
-2580,2025-01-23,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,98.88,36.57,Oxford Nanopore,7H9 broth,Nextera XT,28
-2581,2025-02-03,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,95.99,34.49,Illumina MiSeq,Lowenstein-Jensen,TruSeq DNA,47
-2582,2025-02-07,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,91.34,39.96,PacBio,Middlebrook agar,Ligation Sequencing Kit,47
-2583,2024-07-15,Sputum,Pseudomonas aeruginosa,['oprD'],ST50,99.63,39.61,PacBio,7H9 broth,TruSeq DNA,46
-2584,2025-03-01,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,96.06,35.96,PacBio,Lowenstein-Jensen,Ligation Sequencing Kit,36
-2585,2025-05-02,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,91.82,33.87,Oxford Nanopore,Middlebrook agar,Ligation Sequencing Kit,29
-2586,2025-02-22,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,96.65,32.03,Oxford Nanopore,Lowenstein-Jensen,Nextera XT,41
-2587,2024-03-09,CSF,Methicillin-Resistant Staphylococcus aureus,['blaZ'],ST35,90.41,37.35,Illumina MiSeq,Lowenstein-Jensen,TruSeq DNA,42
-2588,2025-06-11,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,90.39,33.87,PacBio,Middlebrook agar,TruSeq DNA,41
-2589,2024-10-17,CSF,Klebsiella pneumoniae,['blaOXA-48'],ST38,96.07,30.55,Oxford Nanopore,7H9 broth,TruSeq DNA,27
-2590,2025-02-21,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,95.84,37.13,Oxford Nanopore,7H9 broth,Nextera XT,32
-2591,2024-05-20,Blood,Pseudomonas aeruginosa,['mexA'],ST43,90.9,37.06,Illumina MiSeq,Middlebrook agar,Ligation Sequencing Kit,21
-2592,2024-06-27,CSF,Escherichia coli,['aac(3)-IIa'],ST29,98.6,31.79,PacBio,Middlebrook agar,Nextera XT,23
-2593,2024-08-13,Lung Biopsy,Escherichia coli,['aac(3)-IIa'],ST25,94.54,38.55,Illumina MiSeq,Middlebrook agar,TruSeq DNA,18
-2594,2024-09-18,CSF,Klebsiella pneumoniae,['blaKPC'],ST21,96.14,35.58,Illumina MiSeq,7H9 broth,Ligation Sequencing Kit,26
-2595,2025-04-17,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,99.11,30.49,PacBio,Middlebrook agar,TruSeq DNA,28
-2596,2024-07-02,Blood,Pseudomonas aeruginosa,['mexA'],ST15,95.57,39.66,PacBio,Middlebrook agar,Ligation Sequencing Kit,43
-2597,2024-08-17,Sputum,Pseudomonas aeruginosa,['oprD'],ST43,91.21,38.59,Illumina MiSeq,Lowenstein-Jensen,TruSeq DNA,22
-2598,2024-03-23,Sputum,Pseudomonas aeruginosa,['mexA'],ST49,96.03,33.16,PacBio,Middlebrook agar,TruSeq DNA,31
-2599,2025-01-31,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,90.24,36.25,Oxford Nanopore,7H9 broth,Nextera XT,21
-2600,2025-01-18,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,91.99,32.82,PacBio,7H9 broth,Nextera XT,38
-2601,2024-06-16,Blood,Escherichia coli,['blaCTX-M'],ST22,97.17,36.16,PacBio,Lowenstein-Jensen,TruSeq DNA,30
-2602,2025-04-29,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,98.57,38.96,Illumina MiSeq,Middlebrook agar,TruSeq DNA,46
-2603,2024-07-12,Blood,Pseudomonas aeruginosa,['mexA'],ST19,92.06,36.85,Oxford Nanopore,Middlebrook agar,Ligation Sequencing Kit,18
-2604,2025-03-22,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,97.75,33.08,Illumina MiSeq,Middlebrook agar,Nextera XT,45
-2605,2025-01-10,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,92.99,31.12,Oxford Nanopore,Lowenstein-Jensen,Nextera XT,34
-2606,2024-10-13,Sputum,Pseudomonas aeruginosa,['oprD'],ST19,94.79,38.74,Illumina MiSeq,7H9 broth,TruSeq DNA,47
-2607,2024-11-09,Sputum,Escherichia coli,['aac(3)-IIa'],ST39,99.23,36.87,PacBio,7H9 broth,Nextera XT,27
-2608,2024-07-16,Blood,Pseudomonas aeruginosa,['oprD'],ST17,91.91,32.77,PacBio,7H9 broth,TruSeq DNA,24
-2609,2025-02-06,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,93.47,33.18,PacBio,7H9 broth,Nextera XT,35
-2610,2025-01-13,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,90.29,39.03,PacBio,Lowenstein-Jensen,Nextera XT,22
-2611,2025-06-07,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,98.28,36.99,PacBio,Middlebrook agar,Ligation Sequencing Kit,38
-2612,2025-06-28,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,90.92,38.02,Illumina MiSeq,Lowenstein-Jensen,Ligation Sequencing Kit,22
-2613,2025-06-07,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,92.22,38.61,Oxford Nanopore,Lowenstein-Jensen,Nextera XT,48
-2614,2025-05-03,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,90.65,31.13,Oxford Nanopore,Lowenstein-Jensen,TruSeq DNA,18
-2615,2024-04-10,Blood,Escherichia coli,['aac(3)-IIa'],ST44,97.07,31.07,PacBio,7H9 broth,TruSeq DNA,44
-2616,2025-04-22,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,98.06,35.91,Oxford Nanopore,7H9 broth,TruSeq DNA,24
-2617,2025-04-24,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,94.58,35.55,Oxford Nanopore,7H9 broth,Ligation Sequencing Kit,37
-2618,2024-12-02,Sputum,Klebsiella pneumoniae,['blaKPC'],ST47,96.39,30.61,PacBio,Lowenstein-Jensen,TruSeq DNA,33
-2619,2024-10-18,Blood,Pseudomonas aeruginosa,['oprD'],ST32,98.69,33.0,Oxford Nanopore,7H9 broth,Nextera XT,39
-2620,2024-11-17,Lung Biopsy,Pseudomonas aeruginosa,['mexA'],ST28,96.96,38.21,Oxford Nanopore,Middlebrook agar,Nextera XT,18
-2621,2025-05-02,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,95.4,36.62,Oxford Nanopore,Lowenstein-Jensen,TruSeq DNA,31
-2622,2024-04-23,CSF,Escherichia coli,['blaCTX-M'],ST41,91.33,30.72,Illumina MiSeq,Lowenstein-Jensen,Ligation Sequencing Kit,22
-2623,2025-04-26,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,94.5,34.24,PacBio,Lowenstein-Jensen,Ligation Sequencing Kit,23
-2624,2025-05-20,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,97.05,32.69,PacBio,Lowenstein-Jensen,Ligation Sequencing Kit,25
-2625,2024-10-23,CSF,Pseudomonas aeruginosa,['oprD'],ST43,91.41,37.31,PacBio,Lowenstein-Jensen,Ligation Sequencing Kit,20
-2626,2024-03-15,Sputum,Escherichia coli,['aac(3)-IIa'],ST39,98.95,35.35,PacBio,Lowenstein-Jensen,Ligation Sequencing Kit,19
-2627,2025-05-25,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,95.92,33.04,Illumina MiSeq,7H9 broth,Ligation Sequencing Kit,47
-2628,2024-03-19,CSF,Methicillin-Resistant Staphylococcus aureus,['mecA'],ST18,97.3,30.27,Illumina MiSeq,Middlebrook agar,TruSeq DNA,43
-2629,2025-02-08,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,95.98,39.1,Oxford Nanopore,7H9 broth,Ligation Sequencing Kit,21
-2630,2025-02-07,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,90.33,39.84,Oxford Nanopore,7H9 broth,Ligation Sequencing Kit,45
-2631,2025-03-30,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,91.66,35.78,PacBio,Lowenstein-Jensen,Ligation Sequencing Kit,38
-2632,2024-04-04,Sputum,Klebsiella pneumoniae,['blaOXA-48'],ST34,97.39,37.52,Oxford Nanopore,Lowenstein-Jensen,TruSeq DNA,33
-2633,2025-01-25,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,95.25,39.56,Oxford Nanopore,Middlebrook agar,TruSeq DNA,48
-2634,2024-06-13,Blood,Klebsiella pneumoniae,['blaKPC'],ST43,93.87,37.73,Illumina MiSeq,Lowenstein-Jensen,Ligation Sequencing Kit,36
-2635,2025-02-26,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,91.03,34.46,Illumina MiSeq,Lowenstein-Jensen,Nextera XT,34
-2636,2025-06-13,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,98.27,39.5,Illumina MiSeq,Middlebrook agar,Ligation Sequencing Kit,46
-2637,2025-06-19,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,91.82,32.95,PacBio,7H9 broth,Nextera XT,40
-2638,2025-03-27,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,97.69,33.83,Oxford Nanopore,7H9 broth,Nextera XT,26
-2639,2024-10-09,Blood,Klebsiella pneumoniae,['blaOXA-48'],ST23,91.77,34.92,Oxford Nanopore,7H9 broth,Ligation Sequencing Kit,30
-2640,2025-06-13,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,98.88,31.49,PacBio,Lowenstein-Jensen,TruSeq DNA,18
-2641,2025-05-06,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,95.1,39.4,Oxford Nanopore,Lowenstein-Jensen,Ligation Sequencing Kit,18
-2642,2024-05-11,Sputum,Pseudomonas aeruginosa,['oprD'],ST29,95.62,39.35,Oxford Nanopore,Middlebrook agar,TruSeq DNA,21
-2643,2024-10-09,Blood,Klebsiella pneumoniae,['blaOXA-48'],ST34,90.39,33.84,PacBio,7H9 broth,Nextera XT,35
-2644,2025-04-10,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,99.86,32.38,Illumina MiSeq,7H9 broth,Nextera XT,41
-2645,2025-06-17,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,94.01,32.12,Illumina MiSeq,Lowenstein-Jensen,Ligation Sequencing Kit,19
-2646,2025-01-12,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,94.67,39.18,Illumina MiSeq,Lowenstein-Jensen,Ligation Sequencing Kit,18
-2647,2025-01-28,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,98.27,30.64,Illumina MiSeq,Lowenstein-Jensen,Ligation Sequencing Kit,23
-2648,2024-11-09,Lung Biopsy,Klebsiella pneumoniae,['blaOXA-48'],ST23,93.21,39.76,Oxford Nanopore,Middlebrook agar,Ligation Sequencing Kit,30
-2649,2024-05-24,Sputum,Escherichia coli,['blaCTX-M'],ST16,91.63,32.44,Illumina MiSeq,Middlebrook agar,TruSeq DNA,35
-2650,2025-05-02,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,98.78,34.16,Illumina MiSeq,Middlebrook agar,Ligation Sequencing Kit,36
-2651,2025-05-08,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,90.37,31.8,Illumina MiSeq,7H9 broth,Ligation Sequencing Kit,40
-2652,2025-05-19,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,96.13,38.63,Illumina MiSeq,7H9 broth,Ligation Sequencing Kit,21
-2653,2024-11-05,Lung Biopsy,Klebsiella pneumoniae,['blaKPC'],ST12,99.59,34.74,Illumina MiSeq,7H9 broth,Ligation Sequencing Kit,45
-2654,2025-02-10,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,90.52,35.37,Oxford Nanopore,7H9 broth,Nextera XT,41
-2655,2025-03-25,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,94.15,37.47,Oxford Nanopore,Middlebrook agar,Ligation Sequencing Kit,28
-2656,2025-05-05,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,92.18,34.71,Oxford Nanopore,7H9 broth,TruSeq DNA,46
-2657,2024-09-28,Lung Biopsy,Pseudomonas aeruginosa,['mexA'],ST31,97.13,36.32,Oxford Nanopore,Lowenstein-Jensen,Nextera XT,32
-2658,2025-06-13,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,98.78,36.04,Oxford Nanopore,7H9 broth,TruSeq DNA,25
-2659,2025-04-20,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,94.58,30.15,Illumina MiSeq,Middlebrook agar,TruSeq DNA,44
-2660,2024-05-15,CSF,Methicillin-Resistant Staphylococcus aureus,['mecA'],ST37,99.7,30.4,Illumina MiSeq,Middlebrook agar,Nextera XT,31
-2661,2025-03-17,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,99.4,31.33,Illumina MiSeq,Middlebrook agar,Ligation Sequencing Kit,31
-2662,2024-08-30,CSF,Methicillin-Resistant Staphylococcus aureus,['mecA'],ST35,95.78,39.76,PacBio,Lowenstein-Jensen,Ligation Sequencing Kit,41
-2663,2025-03-11,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,90.32,34.26,Oxford Nanopore,Middlebrook agar,TruSeq DNA,34
-2664,2025-01-11,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,93.79,34.65,PacBio,Lowenstein-Jensen,Nextera XT,21
-2665,2024-06-05,Sputum,Klebsiella pneumoniae,['blaKPC'],ST30,91.12,34.78,Illumina MiSeq,Lowenstein-Jensen,Nextera XT,35
-2666,2024-05-28,CSF,Methicillin-Resistant Staphylococcus aureus,['blaZ'],ST38,94.96,38.3,Oxford Nanopore,Lowenstein-Jensen,TruSeq DNA,33
-2667,2025-05-08,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,92.73,36.97,Oxford Nanopore,7H9 broth,Nextera XT,23
-2668,2024-10-31,Sputum,Escherichia coli,['aac(3)-IIa'],ST22,94.16,37.38,PacBio,7H9 broth,TruSeq DNA,29
-2669,2025-05-21,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,95.87,36.97,PacBio,Middlebrook agar,TruSeq DNA,33
-2670,2025-01-13,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,99.61,37.7,Oxford Nanopore,7H9 broth,TruSeq DNA,29
-2671,2024-10-04,CSF,Klebsiella pneumoniae,['blaKPC'],ST25,99.63,38.39,PacBio,Middlebrook agar,TruSeq DNA,23
-2672,2024-04-17,Lung Biopsy,Pseudomonas aeruginosa,['mexA'],ST33,90.34,33.17,Illumina MiSeq,7H9 broth,Ligation Sequencing Kit,40
-2673,2025-05-10,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,99.6,35.46,Oxford Nanopore,Lowenstein-Jensen,Nextera XT,18
-2674,2025-01-29,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,99.13,33.39,Illumina MiSeq,Middlebrook agar,Ligation Sequencing Kit,47
-2675,2025-06-14,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,90.92,30.55,PacBio,7H9 broth,TruSeq DNA,29
-2676,2024-06-23,Blood,Methicillin-Resistant Staphylococcus aureus,['mecA'],ST41,99.48,39.76,PacBio,Lowenstein-Jensen,Ligation Sequencing Kit,39
-2677,2025-04-25,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,93.41,33.08,Oxford Nanopore,Lowenstein-Jensen,Nextera XT,27
-2678,2025-02-05,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,94.2,38.96,Oxford Nanopore,7H9 broth,Ligation Sequencing Kit,46
-2679,2024-04-10,Blood,Pseudomonas aeruginosa,['oprD'],ST21,90.07,36.39,Illumina MiSeq,Middlebrook agar,TruSeq DNA,20
-2680,2025-02-27,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,94.89,37.4,Illumina MiSeq,Lowenstein-Jensen,Ligation Sequencing Kit,27
-2681,2025-05-06,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,98.84,34.17,Oxford Nanopore,7H9 broth,Ligation Sequencing Kit,39
-2682,2025-06-10,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,95.6,38.68,PacBio,Lowenstein-Jensen,Ligation Sequencing Kit,33
-2683,2025-04-02,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,94.56,36.93,PacBio,7H9 broth,Nextera XT,28
-2684,2025-02-19,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,96.33,30.77,Illumina MiSeq,Lowenstein-Jensen,TruSeq DNA,34
-2685,2024-09-23,Lung Biopsy,Pseudomonas aeruginosa,['mexA'],ST10,96.91,33.63,PacBio,Lowenstein-Jensen,TruSeq DNA,39
-2686,2025-05-24,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,92.19,31.88,Illumina MiSeq,7H9 broth,Nextera XT,34
-2687,2025-06-02,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,93.59,38.17,Oxford Nanopore,Lowenstein-Jensen,TruSeq DNA,40
-2688,2024-04-29,Blood,Klebsiella pneumoniae,['blaKPC'],ST15,96.81,33.07,Illumina MiSeq,7H9 broth,Ligation Sequencing Kit,22
-2689,2024-11-10,CSF,Methicillin-Resistant Staphylococcus aureus,['mecA'],ST26,96.53,35.93,Illumina MiSeq,7H9 broth,Nextera XT,43
-2690,2025-01-08,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,91.98,36.71,PacBio,7H9 broth,Ligation Sequencing Kit,46
-2691,2025-01-26,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,92.39,35.7,Illumina MiSeq,Middlebrook agar,Ligation Sequencing Kit,37
-2692,2025-05-02,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,92.12,35.04,Illumina MiSeq,Middlebrook agar,Nextera XT,47
-2693,2025-03-22,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,94.04,37.61,Oxford Nanopore,7H9 broth,Ligation Sequencing Kit,25
-2694,2025-04-09,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,90.81,34.94,Oxford Nanopore,Middlebrook agar,Ligation Sequencing Kit,19
-2695,2025-05-02,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,94.24,38.57,PacBio,Lowenstein-Jensen,TruSeq DNA,45
-2696,2025-04-13,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,90.84,31.43,Oxford Nanopore,Middlebrook agar,Ligation Sequencing Kit,39
-2697,2025-03-13,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,98.3,37.25,PacBio,Lowenstein-Jensen,Nextera XT,25
-2698,2025-03-06,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,97.6,31.08,Oxford Nanopore,Middlebrook agar,TruSeq DNA,22
-2699,2025-06-04,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,['aac(2\\)-Ic'],ST42,90.26,31.79,Illumina MiSeq,7H9 broth,TruSeq DNA,39
+Collection Date,Sample Site,Strain,Strain ID,Resistance Genes,Gene Expression Levels,MLST,Genome Coverage,Sample Quality Score,Sequencing Platform,Growth Media,Library Prep Protocol,Incubation Time [HR]
+2024-04-30,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 787.28},ST28,93.75,39.85,Illumina MiSeq,Lowenstein-Jensen,Nextera XT,23
+2024-09-13,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 920.19},ST43,97.4,30.57,PacBio,Middlebrook agar,Ligation Sequencing Kit,19
+2024-07-22,Lung Biopsy,Klebsiella pneumoniae,KPN-R1,"['blaCTX-M', 'blaKPC']","{'blaCTX-M': 91.16, 'blaKPC': 660.8}",ST30,91.19,38.9,Illumina MiSeq,Middlebrook agar,Nextera XT,30
+2024-10-12,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 624.95},ST46,93.13,37.52,PacBio,Middlebrook agar,TruSeq DNA,32
+2024-07-20,Blood,Pseudomonas aeruginosa,PAE-R1,['oprD'],{'oprD': 932.44},ST18,91.56,38.34,Illumina MiSeq,7H9 broth,TruSeq DNA,27
+2024-10-16,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 258.61},ST13,92.02,36.34,PacBio,7H9 broth,Ligation Sequencing Kit,28
+2024-04-26,Sputum,Escherichia coli,ECOLI-1,['blaCTX-M'],{'blaCTX-M': 836.25},ST19,94.37,37.06,PacBio,Lowenstein-Jensen,Nextera XT,41
+2024-11-20,Blood,Methicillin-Resistant Staphylococcus aureus,MRSA-R1,['mecA'],{'mecA': 976.44},ST36,96.6,33.54,Oxford Nanopore,7H9 broth,Ligation Sequencing Kit,25
+2024-08-10,CSF,Escherichia coli,ECOLI-R2,"['blaCTX-M', 'blaKPC']","{'blaCTX-M': 818.42, 'blaKPC': 465.7}",ST24,97.8,31.08,PacBio,7H9 broth,TruSeq DNA,23
+2024-09-02,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 37.32},ST26,93.96,39.81,Oxford Nanopore,Lowenstein-Jensen,Ligation Sequencing Kit,34
+2024-03-11,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 711.7},ST10,91.14,39.0,Oxford Nanopore,Lowenstein-Jensen,Ligation Sequencing Kit,34
+2024-07-01,Sputum,Pseudomonas aeruginosa,PAE-R2,"['mexA', 'oprD']","{'mexA': 426.24, 'oprD': 940.96}",ST21,91.23,39.0,PacBio,Lowenstein-Jensen,Ligation Sequencing Kit,45
+2024-10-20,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 795.8},ST20,94.6,34.42,PacBio,Middlebrook agar,Ligation Sequencing Kit,28
+2024-04-13,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 615.16},ST14,91.97,30.24,PacBio,Lowenstein-Jensen,Nextera XT,43
+2024-07-28,CSF,Escherichia coli,ECOLI-R3,"['blaCTX-M', 'blaKPC']","{'blaCTX-M': 806.07, 'blaKPC': 698.95}",ST45,90.05,37.51,Illumina MiSeq,7H9 broth,Ligation Sequencing Kit,40
+2024-09-12,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 907.79},ST38,97.48,34.43,PacBio,Middlebrook agar,TruSeq DNA,48
+2024-10-22,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 342.49},ST44,92.37,34.4,Oxford Nanopore,Middlebrook agar,TruSeq DNA,38
+2024-05-22,CSF,Methicillin-Resistant Staphylococcus aureus,MRSA-2,"['blaCTX-M', 'blaKPC']","{'blaCTX-M': 395.58, 'blaKPC': 772.1}",ST11,94.04,35.43,PacBio,7H9 broth,Nextera XT,31
+2024-09-09,Blood,Klebsiella pneumoniae,KPN-R2,"['blaCTX-M', 'blaKPC']","{'blaCTX-M': 490.79, 'blaKPC': 394.97}",ST35,95.41,36.03,Oxford Nanopore,Middlebrook agar,Ligation Sequencing Kit,41
+2024-08-16,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 267.55},ST30,96.36,31.36,PacBio,Middlebrook agar,Nextera XT,20
+2024-08-22,CSF,Pseudomonas aeruginosa,PAE-R3,"['mexA', 'oprD']","{'mexA': 957.71, 'oprD': 49.86}",ST25,97.42,30.52,Oxford Nanopore,7H9 broth,TruSeq DNA,18
+2024-06-26,Lung Biopsy,Klebsiella pneumoniae,KPN-R3,['blaKPC'],{'blaKPC': 965.07},ST11,96.92,37.67,Illumina MiSeq,Middlebrook agar,Nextera XT,32
+2024-11-11,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 129.84},ST46,96.9,33.02,PacBio,Middlebrook agar,Nextera XT,21
+2024-09-15,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 639.23},ST39,94.16,34.9,PacBio,Lowenstein-Jensen,Nextera XT,45
+2024-07-31,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 95.8},ST38,97.24,32.68,Oxford Nanopore,Lowenstein-Jensen,TruSeq DNA,44
+2024-03-13,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 283.51},ST10,97.9,33.4,Illumina MiSeq,Lowenstein-Jensen,Nextera XT,29
+2024-06-09,CSF,Escherichia coli,ECOLI-4,['aac(3)-IIa'],{'aac(3)-IIa': 667.32},ST45,97.05,34.48,Illumina MiSeq,Middlebrook agar,TruSeq DNA,38
+2024-08-14,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 693.26},ST22,91.91,31.2,Oxford Nanopore,7H9 broth,Nextera XT,41
+2024-07-06,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 974.55},ST45,92.99,37.08,Oxford Nanopore,7H9 broth,TruSeq DNA,23
+2024-10-26,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 74.69},ST41,91.83,30.51,Oxford Nanopore,Lowenstein-Jensen,TruSeq DNA,28
+2024-04-27,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 909.42},ST29,95.9,36.18,Illumina MiSeq,Middlebrook agar,TruSeq DNA,37
+2024-10-27,Sputum,Escherichia coli,ECOLI-5,"['aac(3)-IIa', 'blaCTX-M']","{'aac(3)-IIa': 239.16, 'blaCTX-M': 709.89}",ST39,90.8,32.4,PacBio,7H9 broth,TruSeq DNA,39
+2024-07-08,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 794.7},ST48,98.99,38.27,PacBio,7H9 broth,Ligation Sequencing Kit,22
+2024-10-17,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 607.68},ST11,94.33,35.98,Oxford Nanopore,Middlebrook agar,Ligation Sequencing Kit,33
+2024-04-06,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 816.1},ST15,94.38,32.78,Illumina MiSeq,Lowenstein-Jensen,Ligation Sequencing Kit,38
+2024-10-18,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 554.6},ST39,94.91,36.63,Illumina MiSeq,Lowenstein-Jensen,TruSeq DNA,40
+2024-04-20,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 626.41},ST41,95.37,34.13,PacBio,7H9 broth,Ligation Sequencing Kit,45
+2024-04-10,Lung Biopsy,Klebsiella pneumoniae,KPN-R4,['blaOXA-48'],{'blaOXA-48': 102.28},ST17,99.63,36.09,PacBio,Lowenstein-Jensen,Nextera XT,18
+2024-06-11,Blood,Methicillin-Resistant Staphylococcus aureus,MRSA-3,['mecA'],{'mecA': 283.48},ST36,92.41,35.51,Oxford Nanopore,Lowenstein-Jensen,TruSeq DNA,33
+2024-08-05,Blood,Pseudomonas aeruginosa,PAE-R4,"['oprD', 'mexA']","{'oprD': 870.91, 'mexA': 980.97}",ST34,91.47,35.39,PacBio,Middlebrook agar,TruSeq DNA,45
+2024-04-21,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 338.67},ST16,94.9,30.37,Oxford Nanopore,Middlebrook agar,Ligation Sequencing Kit,22
+2024-06-23,Sputum,Pseudomonas aeruginosa,PAE-R5,['oprD'],{'oprD': 853.82},ST34,94.65,39.69,Oxford Nanopore,Middlebrook agar,Nextera XT,20
+2024-05-25,Sputum,Escherichia coli,ECOLI-R6,['blaCTX-M'],{'blaCTX-M': 331.13},ST32,90.89,39.78,PacBio,Lowenstein-Jensen,Nextera XT,41
+2024-08-06,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 913.7},ST19,96.03,33.83,Illumina MiSeq,7H9 broth,Nextera XT,20
+2024-07-27,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 306.16},ST37,91.56,34.42,Oxford Nanopore,Lowenstein-Jensen,Ligation Sequencing Kit,35
+2024-03-23,CSF,Pseudomonas aeruginosa,PAE-6,"['oprD', 'mexA']","{'oprD': 570.27, 'mexA': 688.94}",ST13,93.55,32.96,Illumina MiSeq,7H9 broth,TruSeq DNA,36
+2024-11-12,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 631.97},ST50,97.48,37.67,Illumina MiSeq,Middlebrook agar,TruSeq DNA,39
+2024-07-16,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 372.2},ST42,94.11,32.01,Illumina MiSeq,Lowenstein-Jensen,TruSeq DNA,41
+2024-05-29,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 726.97},ST35,99.53,31.41,PacBio,Lowenstein-Jensen,Nextera XT,32
+2024-04-05,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 117.26},ST24,96.66,35.85,Oxford Nanopore,Lowenstein-Jensen,Ligation Sequencing Kit,41
+2024-05-02,Lung Biopsy,Escherichia coli,ECOLI-R7,"['blaCTX-M', 'aac(3)-IIa']","{'blaCTX-M': 242.45, 'aac(3)-IIa': 542.17}",ST33,96.43,31.17,PacBio,Lowenstein-Jensen,Ligation Sequencing Kit,27
+2024-05-28,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 856.9},ST16,96.83,32.17,PacBio,Lowenstein-Jensen,TruSeq DNA,19
+2024-08-19,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 340.17},ST18,96.35,35.97,Oxford Nanopore,7H9 broth,Ligation Sequencing Kit,24
+2024-06-20,Lung Biopsy,Klebsiella pneumoniae,KPN-R5,['blaKPC'],{'blaKPC': 140.49},ST25,92.75,39.84,Oxford Nanopore,7H9 broth,Ligation Sequencing Kit,18
+2024-08-11,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 117.96},ST42,90.63,34.48,Oxford Nanopore,Middlebrook agar,Nextera XT,41
+2024-06-19,CSF,Methicillin-Resistant Staphylococcus aureus,MRSA-4,['mecA'],{'mecA': 134.93},ST47,96.79,34.9,Illumina MiSeq,Lowenstein-Jensen,TruSeq DNA,31
+2024-08-08,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 222.87},ST38,98.44,36.51,Oxford Nanopore,7H9 broth,Ligation Sequencing Kit,21
+2024-10-20,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 479.53},ST15,93.09,32.55,PacBio,7H9 broth,TruSeq DNA,31
+2024-11-06,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 874.87},ST37,95.56,33.3,PacBio,7H9 broth,Ligation Sequencing Kit,48
+2024-11-19,Sputum,Pseudomonas aeruginosa,PAE-7,['oprD'],{'oprD': 846.7},ST49,92.22,31.08,Illumina MiSeq,7H9 broth,Ligation Sequencing Kit,33
+2024-04-14,Blood,Methicillin-Resistant Staphylococcus aureus,MRSA-5,['mecA'],{'mecA': 748.65},ST36,98.61,35.66,Oxford Nanopore,Lowenstein-Jensen,Nextera XT,23
+2024-04-29,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 90.77},ST38,90.52,31.57,PacBio,Middlebrook agar,Nextera XT,46
+2024-05-14,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 315.34},ST24,92.8,36.78,Illumina MiSeq,Lowenstein-Jensen,TruSeq DNA,21
+2024-03-21,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 537.26},ST24,90.08,37.47,Oxford Nanopore,Lowenstein-Jensen,TruSeq DNA,21
+2024-06-19,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 124.02},ST11,94.25,34.04,Oxford Nanopore,7H9 broth,TruSeq DNA,36
+2024-10-24,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 229.36},ST20,93.96,30.79,Illumina MiSeq,7H9 broth,TruSeq DNA,36
+2024-04-17,Lung Biopsy,Pseudomonas aeruginosa,PAE-8,['mexA'],{'mexA': 951.78},ST39,91.46,31.03,Oxford Nanopore,Middlebrook agar,Ligation Sequencing Kit,44
+2024-03-18,CSF,Escherichia coli,ECOLI-R8,['aac(3)-IIa'],{'aac(3)-IIa': 833.38},ST15,92.72,30.56,Oxford Nanopore,Middlebrook agar,TruSeq DNA,43
+2024-03-10,Sputum,Escherichia coli,ECOLI-R9,"['blaCTX-M', 'aac(3)-IIa']","{'blaCTX-M': 48.75, 'aac(3)-IIa': 710.55}",ST43,94.71,31.51,PacBio,7H9 broth,TruSeq DNA,37
+2024-06-15,Blood,Escherichia coli,ECOLI-R10,"['aac(3)-IIa', 'blaCTX-M']","{'aac(3)-IIa': 726.5, 'blaCTX-M': 660.0}",ST19,97.81,36.47,Oxford Nanopore,Middlebrook agar,Ligation Sequencing Kit,19
+2024-03-08,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 793.75},ST18,97.02,30.85,PacBio,Lowenstein-Jensen,Nextera XT,37
+2024-10-12,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 163.4},ST28,99.38,34.86,Oxford Nanopore,7H9 broth,Nextera XT,28
+2024-07-10,Lung Biopsy,Klebsiella pneumoniae,KPN-R6,"['blaCTX-M', 'blaKPC']","{'blaCTX-M': 370.66, 'blaKPC': 722.39}",ST49,96.86,36.25,Illumina MiSeq,7H9 broth,Nextera XT,44
+2024-09-11,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 507.88},ST36,95.65,34.41,Illumina MiSeq,Lowenstein-Jensen,Ligation Sequencing Kit,48
+2024-06-07,Blood,Escherichia coli,ECOLI-R11,"['aac(3)-IIa', 'blaCTX-M']","{'aac(3)-IIa': 832.74, 'blaCTX-M': 100.8}",ST38,91.02,38.46,Oxford Nanopore,Lowenstein-Jensen,Ligation Sequencing Kit,47
+2024-09-22,CSF,Escherichia coli,ECOLI-R12,['blaCTX-M'],{'blaCTX-M': 47.92},ST40,92.22,33.19,Illumina MiSeq,Lowenstein-Jensen,Nextera XT,29
+2024-10-07,Sputum,Methicillin-Resistant Staphylococcus aureus,MRSA-6,"['mecA', 'blaZ']","{'mecA': 246.06, 'blaZ': 642.56}",ST14,99.31,36.09,Oxford Nanopore,7H9 broth,Nextera XT,35
+2024-03-18,Lung Biopsy,Klebsiella pneumoniae,KPN-R7,"['blaCTX-M', 'blaKPC']","{'blaCTX-M': 974.91, 'blaKPC': 77.0}",ST42,93.49,35.71,Oxford Nanopore,Lowenstein-Jensen,Nextera XT,37
+2024-06-15,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 660.53},ST16,90.16,37.89,Oxford Nanopore,Lowenstein-Jensen,TruSeq DNA,41
+2024-11-14,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 778.43},ST39,94.74,31.82,Illumina MiSeq,Middlebrook agar,TruSeq DNA,40
+2024-06-16,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 363.4},ST13,95.38,32.53,Oxford Nanopore,Middlebrook agar,TruSeq DNA,44
+2024-10-21,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 799.32},ST27,99.64,34.96,PacBio,Lowenstein-Jensen,TruSeq DNA,28
+2024-06-06,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 174.98},ST38,96.54,33.06,Oxford Nanopore,7H9 broth,Nextera XT,28
+2024-09-20,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 682.62},ST11,96.64,34.06,Oxford Nanopore,Middlebrook agar,Nextera XT,20
+2024-10-24,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 377.25},ST38,95.62,36.05,Oxford Nanopore,Lowenstein-Jensen,TruSeq DNA,48
+2024-07-09,CSF,Methicillin-Resistant Staphylococcus aureus,MRSA-R7,"['mecA', 'blaZ']","{'mecA': 777.21, 'blaZ': 707.0}",ST49,97.28,34.99,Oxford Nanopore,7H9 broth,Nextera XT,18
+2024-07-07,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 712.45},ST45,99.87,38.11,Oxford Nanopore,7H9 broth,Ligation Sequencing Kit,32
+2024-04-07,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 558.48},ST33,97.84,32.37,PacBio,7H9 broth,Nextera XT,24
+2024-08-31,Blood,Escherichia coli,ECOLI-13,"['mecA', 'blaZ']","{'mecA': 83.42, 'blaZ': 471.17}",ST18,97.61,38.23,PacBio,Lowenstein-Jensen,Ligation Sequencing Kit,31
+2024-06-30,Sputum,Klebsiella pneumoniae,KPN-R8,"['blaKPC', 'blaOXA-48']","{'blaKPC': 204.34, 'blaOXA-48': 956.79}",ST50,91.6,39.35,PacBio,7H9 broth,TruSeq DNA,23
+2024-11-09,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 865.14},ST15,97.13,36.05,Illumina MiSeq,7H9 broth,Ligation Sequencing Kit,37
+2024-07-03,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 809.28},ST35,92.87,39.57,Illumina MiSeq,Lowenstein-Jensen,Ligation Sequencing Kit,35
+2024-07-19,Sputum,Pseudomonas aeruginosa,PAE-R9,"['mexA', 'oprD']","{'mexA': 519.83, 'oprD': 115.12}",ST17,93.37,31.44,Oxford Nanopore,Lowenstein-Jensen,TruSeq DNA,24
+2024-06-28,Sputum,Pseudomonas aeruginosa,PAE-R10,['mexA'],{'mexA': 503.28},ST41,99.53,39.02,Oxford Nanopore,Middlebrook agar,TruSeq DNA,25
+2024-05-10,CSF,Methicillin-Resistant Staphylococcus aureus,MRSA-R8,"['mecA', 'blaZ']","{'mecA': 116.42, 'blaZ': 142.6}",ST33,90.48,32.81,Illumina MiSeq,7H9 broth,Ligation Sequencing Kit,29
+2024-05-29,Sputum,Pseudomonas aeruginosa,PAE-R11,['mexA'],{'mexA': 975.33},ST31,90.73,35.04,Illumina MiSeq,Lowenstein-Jensen,Ligation Sequencing Kit,27
+2024-07-02,CSF,Methicillin-Resistant Staphylococcus aureus,MRSA-9,['blaZ'],{'blaZ': 932.06},ST35,93.3,34.74,Illumina MiSeq,7H9 broth,Nextera XT,40
+2024-08-08,CSF,Methicillin-Resistant Staphylococcus aureus,MRSA-R10,['blaZ'],{'blaZ': 272.88},ST47,93.28,31.1,Oxford Nanopore,Lowenstein-Jensen,Nextera XT,29
+2024-05-06,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 159.92},ST23,96.94,31.91,Illumina MiSeq,7H9 broth,Ligation Sequencing Kit,48
+2024-07-03,Lung Biopsy,Klebsiella pneumoniae,KPN-R9,"['blaOXA-48', 'blaKPC']","{'blaOXA-48': 200.34, 'blaKPC': 254.05}",ST24,95.2,33.14,PacBio,Lowenstein-Jensen,Ligation Sequencing Kit,33
+2024-07-24,CSF,Methicillin-Resistant Staphylococcus aureus,MRSA-R11,"['mecA', 'blaZ']","{'mecA': 51.65, 'blaZ': 955.76}",ST38,92.85,35.73,Oxford Nanopore,Middlebrook agar,Ligation Sequencing Kit,26
+2024-08-05,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 535.73},ST50,97.33,32.39,Oxford Nanopore,7H9 broth,Nextera XT,37
+2024-04-02,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 935.68},ST40,99.55,39.78,Illumina MiSeq,Middlebrook agar,Nextera XT,18
+2024-11-14,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 183.31},ST21,95.3,37.23,Illumina MiSeq,Middlebrook agar,Ligation Sequencing Kit,25
+2024-09-25,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 547.87},ST41,99.19,33.35,Oxford Nanopore,Middlebrook agar,Ligation Sequencing Kit,21
+2024-09-04,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 572.1},ST22,97.11,30.14,PacBio,Lowenstein-Jensen,Ligation Sequencing Kit,26
+2024-11-27,Blood,Escherichia coli,ECOLI-R14,"['blaCTX-M', 'blaKPC']","{'blaCTX-M': 756.22, 'blaKPC': 954.49}",ST46,94.73,39.36,PacBio,7H9 broth,Nextera XT,22
+2024-07-04,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 693.39},ST50,94.01,35.03,Illumina MiSeq,Lowenstein-Jensen,TruSeq DNA,23
+2024-07-29,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 803.98},ST23,94.12,35.49,Oxford Nanopore,Middlebrook agar,Ligation Sequencing Kit,29
+2024-10-04,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 855.94},ST38,95.0,35.73,Illumina MiSeq,7H9 broth,Ligation Sequencing Kit,46
+2024-05-14,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 315.09},ST11,94.52,30.58,Oxford Nanopore,7H9 broth,Ligation Sequencing Kit,31
+2024-05-07,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 477.35},ST28,90.63,39.94,Illumina MiSeq,Lowenstein-Jensen,TruSeq DNA,40
+2024-09-02,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 861.68},ST17,96.76,36.62,Oxford Nanopore,Lowenstein-Jensen,TruSeq DNA,20
+2024-09-14,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 255.04},ST32,97.12,34.24,Illumina MiSeq,Lowenstein-Jensen,TruSeq DNA,39
+2024-07-30,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 675.3},ST13,92.04,31.01,Oxford Nanopore,Middlebrook agar,Nextera XT,25
+2024-08-03,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 601.94},ST30,92.32,39.16,Illumina MiSeq,7H9 broth,Ligation Sequencing Kit,27
+2024-11-08,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 432.93},ST41,95.86,37.35,Oxford Nanopore,7H9 broth,Ligation Sequencing Kit,48
+2024-04-09,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 307.73},ST19,91.82,35.38,Oxford Nanopore,7H9 broth,TruSeq DNA,30
+2024-11-06,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 727.34},ST22,90.78,34.5,Oxford Nanopore,7H9 broth,TruSeq DNA,38
+2024-08-27,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 909.9},ST23,95.53,34.79,Illumina MiSeq,Middlebrook agar,Ligation Sequencing Kit,39
+2024-08-20,Lung Biopsy,Pseudomonas aeruginosa,PAE-R12,"['oprD', 'mexA']","{'oprD': 804.79, 'mexA': 725.19}",ST30,94.62,36.49,PacBio,Lowenstein-Jensen,TruSeq DNA,30
+2024-05-22,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 204.23},ST24,95.48,35.84,PacBio,7H9 broth,Nextera XT,26
+2024-08-30,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 723.11},ST41,94.56,37.33,PacBio,Middlebrook agar,Ligation Sequencing Kit,33
+2024-11-02,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 510.68},ST33,98.34,32.31,Illumina MiSeq,7H9 broth,TruSeq DNA,22
+2024-03-08,Sputum,Pseudomonas aeruginosa,PAE-13,"['mexA', 'oprD']","{'mexA': 918.87, 'oprD': 529.14}",ST49,97.15,35.36,Oxford Nanopore,7H9 broth,Nextera XT,34
+2024-10-16,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 89.81},ST12,99.8,32.26,Oxford Nanopore,Lowenstein-Jensen,Ligation Sequencing Kit,25
+2024-03-07,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 859.38},ST16,94.95,34.34,Illumina MiSeq,Middlebrook agar,Nextera XT,20
+2024-10-24,CSF,Klebsiella pneumoniae,KPN-R10,['blaKPC'],{'blaKPC': 754.73},ST35,95.38,36.58,Illumina MiSeq,Middlebrook agar,TruSeq DNA,46
+2024-11-05,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 505.78},ST32,97.48,31.4,PacBio,Middlebrook agar,TruSeq DNA,30
+2024-07-04,Sputum,Methicillin-Resistant Staphylococcus aureus,MRSA-R12,"['blaZ', 'mecA']","{'blaZ': 682.9, 'mecA': 664.07}",ST49,93.23,36.34,PacBio,Middlebrook agar,TruSeq DNA,42
+2024-03-15,Blood,Escherichia coli,ECOLI-15,"['aac(3)-IIa', 'blaCTX-M']","{'aac(3)-IIa': 141.18, 'blaCTX-M': 195.52}",ST45,93.86,33.61,PacBio,Middlebrook agar,Nextera XT,41
+2024-07-01,Sputum,Pseudomonas aeruginosa,PAE-R14,['mexA'],{'mexA': 688.46},ST27,93.21,33.85,Illumina MiSeq,Middlebrook agar,Ligation Sequencing Kit,43
+2024-06-15,Sputum,Klebsiella pneumoniae,KPN-R11,['blaOXA-48'],{'blaOXA-48': 115.9},ST35,97.75,33.61,Oxford Nanopore,Lowenstein-Jensen,TruSeq DNA,33
+2024-05-15,Blood,Methicillin-Resistant Staphylococcus aureus,MRSA-R13,"['blaZ', 'mecA']","{'blaZ': 968.09, 'mecA': 784.15}",ST27,95.97,36.95,PacBio,7H9 broth,TruSeq DNA,28
+2024-05-07,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 298.42},ST14,99.43,34.62,Illumina MiSeq,Middlebrook agar,Ligation Sequencing Kit,18
+2024-05-02,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 406.8},ST42,97.81,30.74,PacBio,7H9 broth,Ligation Sequencing Kit,31
+2024-04-26,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 405.62},ST31,96.41,30.44,PacBio,Middlebrook agar,TruSeq DNA,23
+2024-03-21,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 774.62},ST47,96.81,32.21,PacBio,Middlebrook agar,Ligation Sequencing Kit,36
+2024-03-30,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 786.43},ST43,99.31,31.42,Oxford Nanopore,7H9 broth,Nextera XT,44
+2024-04-28,CSF,Escherichia coli,ECOLI-R16,['blaCTX-M'],{'blaCTX-M': 520.83},ST31,90.44,37.11,Oxford Nanopore,Lowenstein-Jensen,Nextera XT,27
+2024-08-15,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 435.26},ST10,93.92,37.37,Illumina MiSeq,Middlebrook agar,Ligation Sequencing Kit,31
+2024-10-20,Sputum,Methicillin-Resistant Staphylococcus aureus,MRSA-R14,"['blaZ', 'mecA']","{'blaZ': 354.45, 'mecA': 847.06}",ST29,91.95,31.14,PacBio,7H9 broth,TruSeq DNA,28
+2024-09-05,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 428.81},ST41,95.06,34.18,Illumina MiSeq,Lowenstein-Jensen,Ligation Sequencing Kit,22
+2024-11-17,Lung Biopsy,Klebsiella pneumoniae,KPN-12,"['blaOXA-48', 'blaKPC']","{'blaOXA-48': 421.47, 'blaKPC': 841.49}",ST15,93.55,30.1,Oxford Nanopore,Middlebrook agar,Nextera XT,45
+2024-04-21,Blood,Escherichia coli,ECOLI-R17,"['blaCTX-M', 'blaKPC']","{'blaCTX-M': 547.68, 'blaKPC': 990.98}",ST12,97.35,37.66,Oxford Nanopore,7H9 broth,TruSeq DNA,36
+2024-04-27,Lung Biopsy,Escherichia coli,ECOLI-R18,"['blaCTX-M', 'blaKPC']","{'blaCTX-M': 812.6, 'blaKPC': 592.04}",ST49,98.09,34.39,Oxford Nanopore,Lowenstein-Jensen,TruSeq DNA,45
+2024-07-19,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 299.71},ST46,92.78,35.39,Illumina MiSeq,Middlebrook agar,TruSeq DNA,35
+2024-03-27,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 763.86},ST35,91.31,31.46,PacBio,7H9 broth,Ligation Sequencing Kit,45
+2024-12-01,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 493.16},ST47,95.1,32.78,Illumina MiSeq,Middlebrook agar,Nextera XT,30
+2024-11-08,Blood,Pseudomonas aeruginosa,PAE-R15,"['mexA', 'oprD']","{'mexA': 551.84, 'oprD': 139.29}",ST31,94.25,32.12,PacBio,Lowenstein-Jensen,Nextera XT,48
+2024-09-12,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 883.33},ST29,99.82,34.28,Illumina MiSeq,Lowenstein-Jensen,TruSeq DNA,18
+2024-08-09,Blood,Klebsiella pneumoniae,KPN-R13,"['blaCTX-M', 'blaKPC']","{'blaCTX-M': 104.23, 'blaKPC': 221.29}",ST47,90.51,36.26,Oxford Nanopore,Middlebrook agar,Ligation Sequencing Kit,23
+2024-09-23,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 373.89},ST29,90.7,33.83,Oxford Nanopore,Middlebrook agar,Nextera XT,33
+2024-10-12,Lung Biopsy,Klebsiella pneumoniae,KPN-R14,"['blaCTX-M', 'blaKPC']","{'blaCTX-M': 417.59, 'blaKPC': 689.7}",ST15,91.62,33.51,PacBio,7H9 broth,Ligation Sequencing Kit,38
+2024-03-24,CSF,Pseudomonas aeruginosa,PAE-R16,"['mexA', 'oprD']","{'mexA': 750.37, 'oprD': 302.59}",ST25,96.38,32.48,Oxford Nanopore,7H9 broth,Nextera XT,26
+2024-05-13,CSF,Methicillin-Resistant Staphylococcus aureus,MRSA-R15,"['mecA', 'blaZ']","{'mecA': 591.49, 'blaZ': 23.66}",ST13,99.25,31.32,Illumina MiSeq,Middlebrook agar,Nextera XT,29
+2024-10-30,CSF,Escherichia coli,ECOLI-R19,['blaCTX-M'],{'blaCTX-M': 541.03},ST50,95.32,31.53,Oxford Nanopore,7H9 broth,Ligation Sequencing Kit,35
+2024-11-26,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 743.25},ST17,96.06,30.55,Illumina MiSeq,Lowenstein-Jensen,Nextera XT,32
+2024-10-31,CSF,Pseudomonas aeruginosa,PAE-R17,"['mexA', 'oprD']","{'mexA': 900.9, 'oprD': 341.66}",ST43,93.68,37.5,PacBio,Middlebrook agar,TruSeq DNA,23
+2024-08-08,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 677.38},ST17,93.64,32.55,Illumina MiSeq,Lowenstein-Jensen,Ligation Sequencing Kit,23
+2024-05-26,Sputum,Escherichia coli,ECOLI-R20,"['blaCTX-M', 'aac(3)-IIa']","{'blaCTX-M': 255.78, 'aac(3)-IIa': 916.7}",ST14,91.49,39.31,Oxford Nanopore,Lowenstein-Jensen,TruSeq DNA,47
+2024-05-28,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 557.56},ST10,98.68,38.66,PacBio,7H9 broth,TruSeq DNA,20
+2024-06-08,Blood,Klebsiella pneumoniae,KPN-R15,['blaKPC'],{'blaKPC': 16.31},ST24,99.62,39.98,Illumina MiSeq,Lowenstein-Jensen,TruSeq DNA,36
+2024-05-05,CSF,Methicillin-Resistant Staphylococcus aureus,MRSA-R16,['blaZ'],{'blaZ': 102.1},ST43,95.25,32.38,PacBio,Lowenstein-Jensen,Nextera XT,24
+2024-06-18,Sputum,Escherichia coli,ECOLI-R21,['aac(3)-IIa'],{'aac(3)-IIa': 268.38},ST35,93.9,35.92,PacBio,7H9 broth,Ligation Sequencing Kit,44
+2024-04-15,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 540.57},ST23,91.05,34.5,Illumina MiSeq,Middlebrook agar,Nextera XT,22
+2024-05-14,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 714.05},ST32,95.97,32.15,PacBio,Lowenstein-Jensen,Ligation Sequencing Kit,40
+2024-09-27,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 71.05},ST24,92.47,34.62,Oxford Nanopore,Middlebrook agar,Ligation Sequencing Kit,35
+2024-10-01,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 848.8},ST31,91.96,36.46,Oxford Nanopore,7H9 broth,Nextera XT,20
+2024-04-18,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 195.28},ST27,93.79,34.27,PacBio,Lowenstein-Jensen,TruSeq DNA,18
+2024-04-01,Lung Biopsy,Klebsiella pneumoniae,KPN-R16,['blaKPC'],{'blaKPC': 989.51},ST32,90.6,32.8,Oxford Nanopore,Lowenstein-Jensen,Ligation Sequencing Kit,33
+2024-08-12,Blood,Pseudomonas aeruginosa,PAE-18,"['mexA', 'oprD']","{'mexA': 109.13, 'oprD': 660.3}",ST13,92.17,38.96,Illumina MiSeq,7H9 broth,TruSeq DNA,37
+2024-09-21,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 948.08},ST46,93.55,35.92,PacBio,Lowenstein-Jensen,Ligation Sequencing Kit,40
+2024-09-27,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 918.72},ST22,95.96,30.2,Illumina MiSeq,7H9 broth,Nextera XT,25
+2024-05-14,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 960.95},ST33,91.4,31.11,Illumina MiSeq,Middlebrook agar,Ligation Sequencing Kit,47
+2024-09-03,Blood,Pseudomonas aeruginosa,PAE-R19,['oprD'],{'oprD': 313.75},ST18,94.82,33.17,PacBio,Lowenstein-Jensen,Ligation Sequencing Kit,48
+2024-06-22,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 87.03},ST32,95.6,39.37,Oxford Nanopore,Middlebrook agar,Nextera XT,38
+2024-03-25,Blood,Escherichia coli,ECOLI-R22,"['blaCTX-M', 'blaKPC']","{'blaCTX-M': 443.84, 'blaKPC': 425.46}",ST36,90.67,32.57,Oxford Nanopore,7H9 broth,Nextera XT,40
+2024-10-25,CSF,Escherichia coli,ECOLI-R23,['blaCTX-M'],{'blaCTX-M': 348.39},ST20,91.61,30.74,PacBio,Middlebrook agar,Ligation Sequencing Kit,25
+2024-03-26,CSF,Escherichia coli,ECOLI-R24,"['aac(3)-IIa', 'blaCTX-M']","{'aac(3)-IIa': 304.43, 'blaCTX-M': 104.96}",ST45,98.81,31.57,Oxford Nanopore,Middlebrook agar,Nextera XT,37
+2024-04-05,Sputum,Klebsiella pneumoniae,KPN-17,['blaOXA-48'],{'blaOXA-48': 845.33},ST35,94.76,30.97,Oxford Nanopore,Middlebrook agar,Ligation Sequencing Kit,37
+2024-09-16,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 275.88},ST13,90.44,34.4,Oxford Nanopore,Lowenstein-Jensen,Nextera XT,32
+2024-03-20,Blood,Methicillin-Resistant Staphylococcus aureus,MRSA-R17,"['mecA', 'blaZ']","{'mecA': 305.86, 'blaZ': 400.86}",ST12,90.6,33.87,Oxford Nanopore,Middlebrook agar,Nextera XT,35
+2024-07-23,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 824.34},ST19,94.19,39.88,Illumina MiSeq,7H9 broth,Nextera XT,19
+2024-06-09,CSF,Methicillin-Resistant Staphylococcus aureus,MRSA-18,['mecA'],{'mecA': 567.06},ST28,94.54,38.73,PacBio,Lowenstein-Jensen,TruSeq DNA,34
+2024-08-03,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 48.39},ST31,93.99,36.18,Oxford Nanopore,7H9 broth,Nextera XT,26
+2024-04-20,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 235.68},ST29,94.87,36.96,Oxford Nanopore,Lowenstein-Jensen,TruSeq DNA,44
+2024-09-24,CSF,Methicillin-Resistant Staphylococcus aureus,MRSA-R19,['mecA'],{'mecA': 74.96},ST35,99.04,34.07,Illumina MiSeq,7H9 broth,TruSeq DNA,24
+2024-06-06,Lung Biopsy,Pseudomonas aeruginosa,PAE-R20,"['mexA', 'oprD']","{'mexA': 249.52, 'oprD': 493.9}",ST40,99.09,37.05,Illumina MiSeq,7H9 broth,TruSeq DNA,19
+2024-07-18,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 650.91},ST23,90.49,38.54,Illumina MiSeq,Lowenstein-Jensen,Nextera XT,30
+2024-03-11,Sputum,Pseudomonas aeruginosa,PAE-R21,"['oprD', 'mexA']","{'oprD': 853.07, 'mexA': 464.41}",ST29,90.08,32.52,PacBio,7H9 broth,Ligation Sequencing Kit,43
+2024-07-22,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 644.19},ST27,96.78,34.82,PacBio,Middlebrook agar,TruSeq DNA,27
+2024-08-27,Lung Biopsy,Methicillin-Resistant Staphylococcus aureus,MRSA-R20,"['mecA', 'blaZ']","{'mecA': 424.38, 'blaZ': 394.39}",ST46,91.39,30.25,Oxford Nanopore,Middlebrook agar,TruSeq DNA,39
+2024-08-31,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 136.66},ST26,96.51,35.58,PacBio,Lowenstein-Jensen,Nextera XT,44
+2024-10-27,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 867.73},ST47,92.58,32.94,Oxford Nanopore,Lowenstein-Jensen,TruSeq DNA,29
+2024-04-12,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 349.24},ST46,90.54,38.54,Oxford Nanopore,Middlebrook agar,TruSeq DNA,31
+2024-09-27,Lung Biopsy,Methicillin-Resistant Staphylococcus aureus,MRSA-R21,['mecA'],{'mecA': 494.68},ST15,93.1,30.58,Oxford Nanopore,Lowenstein-Jensen,Ligation Sequencing Kit,23
+2024-11-30,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 535.72},ST11,97.23,39.5,Illumina MiSeq,7H9 broth,Ligation Sequencing Kit,24
+2024-06-10,Blood,Escherichia coli,ECOLI-R25,"['blaCTX-M', 'blaKPC']","{'blaCTX-M': 730.55, 'blaKPC': 600.41}",ST18,93.03,30.65,Illumina MiSeq,Lowenstein-Jensen,Ligation Sequencing Kit,36
+2024-07-25,Lung Biopsy,Escherichia coli,ECOLI-R26,"['blaCTX-M', 'blaKPC']","{'blaCTX-M': 372.93, 'blaKPC': 654.03}",ST50,99.75,32.11,Illumina MiSeq,7H9 broth,Nextera XT,41
+2024-11-28,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 161.6},ST50,94.4,31.24,Illumina MiSeq,Middlebrook agar,Nextera XT,31
+2024-08-21,Sputum,Escherichia coli,ECOLI-R27,"['blaCTX-M', 'aac(3)-IIa']","{'blaCTX-M': 502.76, 'aac(3)-IIa': 612.91}",ST43,91.36,38.31,Oxford Nanopore,Middlebrook agar,Ligation Sequencing Kit,40
+2024-03-25,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 907.81},ST46,94.76,32.35,Oxford Nanopore,7H9 broth,Ligation Sequencing Kit,47
+2024-04-28,Sputum,Pseudomonas aeruginosa,PAE-R22,"['mexA', 'oprD']","{'mexA': 182.95, 'oprD': 49.05}",ST30,94.52,39.77,Illumina MiSeq,Lowenstein-Jensen,Ligation Sequencing Kit,25
+2024-06-10,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 735.74},ST33,93.54,34.38,PacBio,Middlebrook agar,Nextera XT,28
+2024-09-12,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 699.21},ST13,94.18,38.86,Oxford Nanopore,Middlebrook agar,TruSeq DNA,43
+2024-03-30,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 881.15},ST18,93.76,33.59,PacBio,Lowenstein-Jensen,Nextera XT,37
+2024-09-17,CSF,Klebsiella pneumoniae,KPN-R18,"['blaKPC', 'blaOXA-48']","{'blaKPC': 665.1, 'blaOXA-48': 256.09}",ST34,96.98,36.78,Oxford Nanopore,Middlebrook agar,TruSeq DNA,18
+2024-03-22,Lung Biopsy,Pseudomonas aeruginosa,PAE-23,"['oprD', 'mexA']","{'oprD': 88.04, 'mexA': 449.75}",ST15,94.87,32.41,Oxford Nanopore,7H9 broth,Nextera XT,42
+2024-04-14,CSF,Escherichia coli,ECOLI-R28,"['blaCTX-M', 'aac(3)-IIa']","{'blaCTX-M': 950.85, 'aac(3)-IIa': 369.71}",ST24,90.35,35.49,Illumina MiSeq,7H9 broth,TruSeq DNA,31
+2024-10-09,Blood,Pseudomonas aeruginosa,PAE-R24,['mexA'],{'mexA': 897.91},ST36,90.02,33.55,Illumina MiSeq,7H9 broth,Ligation Sequencing Kit,25
+2024-09-25,Sputum,Escherichia coli,ECOLI-R29,['aac(3)-IIa'],{'aac(3)-IIa': 462.81},ST42,93.35,37.57,Illumina MiSeq,Lowenstein-Jensen,Nextera XT,40
+2024-05-20,Sputum,Klebsiella pneumoniae,KPN-R19,"['blaCTX-M', 'blaKPC']","{'blaCTX-M': 393.53, 'blaKPC': 604.54}",ST42,99.12,31.77,PacBio,Lowenstein-Jensen,Ligation Sequencing Kit,42
+2024-09-02,CSF,Pseudomonas aeruginosa,PAE-R25,"['mexA', 'oprD']","{'mexA': 217.62, 'oprD': 717.24}",ST18,95.96,38.86,Oxford Nanopore,7H9 broth,Nextera XT,31
+2024-03-10,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 848.83},ST10,94.13,37.48,PacBio,Middlebrook agar,Ligation Sequencing Kit,40
+2024-08-10,Lung Biopsy,Pseudomonas aeruginosa,PAE-26,"['mexA', 'oprD']","{'mexA': 365.1, 'oprD': 458.07}",ST45,97.78,39.84,Illumina MiSeq,7H9 broth,TruSeq DNA,42
+2024-08-21,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 63.26},ST26,99.47,39.76,Illumina MiSeq,Lowenstein-Jensen,TruSeq DNA,31
+2024-05-23,Blood,Pseudomonas aeruginosa,PAE-R27,['mexA'],{'mexA': 962.85},ST17,97.68,39.64,PacBio,Middlebrook agar,Ligation Sequencing Kit,24
+2024-07-01,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 329.4},ST13,94.62,39.37,PacBio,Lowenstein-Jensen,Nextera XT,28
+2024-06-16,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 355.91},ST23,95.0,34.16,Illumina MiSeq,Middlebrook agar,Nextera XT,43
+2024-07-31,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 451.21},ST49,97.45,36.49,PacBio,Lowenstein-Jensen,Ligation Sequencing Kit,44
+2024-11-10,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 513.65},ST41,99.02,38.22,PacBio,Middlebrook agar,TruSeq DNA,18
+2024-08-19,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 429.97},ST16,90.65,36.7,PacBio,Middlebrook agar,Nextera XT,38
+2024-04-25,Lung Biopsy,Pseudomonas aeruginosa,PAE-R28,['oprD'],{'oprD': 413.56},ST35,90.73,31.78,PacBio,Lowenstein-Jensen,Nextera XT,20
+2024-10-09,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 364.12},ST42,97.48,35.86,PacBio,Middlebrook agar,Ligation Sequencing Kit,20
+2024-07-04,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 798.8},ST44,94.69,35.33,Oxford Nanopore,Lowenstein-Jensen,Ligation Sequencing Kit,18
+2024-06-09,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 94.28},ST23,90.05,35.97,PacBio,7H9 broth,Nextera XT,19
+2024-03-28,Lung Biopsy,Escherichia coli,ECOLI-R30,"['blaCTX-M', 'aac(3)-IIa']","{'blaCTX-M': 674.97, 'aac(3)-IIa': 258.18}",ST47,91.13,36.71,Illumina MiSeq,Middlebrook agar,TruSeq DNA,24
+2024-11-30,Lung Biopsy,Pseudomonas aeruginosa,PAE-R29,"['mexA', 'oprD']","{'mexA': 571.19, 'oprD': 809.62}",ST20,94.81,33.28,PacBio,7H9 broth,Nextera XT,28
+2024-06-29,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 468.22},ST32,93.56,36.8,PacBio,Lowenstein-Jensen,TruSeq DNA,44
+2024-07-22,Sputum,Escherichia coli,ECOLI-R31,['aac(3)-IIa'],{'aac(3)-IIa': 771.51},ST12,97.26,36.27,Illumina MiSeq,Middlebrook agar,Nextera XT,26
+2024-09-09,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 666.05},ST49,94.96,30.91,PacBio,Lowenstein-Jensen,Nextera XT,32
+2024-05-27,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 239.43},ST26,94.79,33.59,PacBio,7H9 broth,Ligation Sequencing Kit,41
+2024-03-13,Lung Biopsy,Pseudomonas aeruginosa,PAE-30,"['oprD', 'mexA']","{'oprD': 382.89, 'mexA': 384.73}",ST14,90.46,39.81,Oxford Nanopore,Lowenstein-Jensen,TruSeq DNA,46
+2024-08-16,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 519.4},ST27,94.97,31.39,Oxford Nanopore,Lowenstein-Jensen,Ligation Sequencing Kit,18
+2024-09-11,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 484.23},ST47,98.03,37.2,Illumina MiSeq,Middlebrook agar,Nextera XT,31
+2024-03-13,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 265.68},ST21,95.08,38.91,PacBio,7H9 broth,Nextera XT,38
+2024-10-28,Blood,Methicillin-Resistant Staphylococcus aureus,MRSA-R22,['blaZ'],{'blaZ': 176.04},ST39,94.77,32.19,Oxford Nanopore,Middlebrook agar,TruSeq DNA,45
+2024-12-02,Lung Biopsy,Escherichia coli,ECOLI-32,['blaCTX-M'],{'blaCTX-M': 102.26},ST48,94.16,31.5,Illumina MiSeq,Middlebrook agar,Ligation Sequencing Kit,39
+2024-10-13,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 806.57},ST46,99.29,34.82,PacBio,Middlebrook agar,TruSeq DNA,25
+2024-03-10,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 791.53},ST46,95.38,32.58,Illumina MiSeq,Lowenstein-Jensen,Ligation Sequencing Kit,46
+2024-05-29,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 856.43},ST37,91.06,34.26,PacBio,Lowenstein-Jensen,TruSeq DNA,29
+2024-10-12,Lung Biopsy,Pseudomonas aeruginosa,PAE-R31,"['mexA', 'oprD']","{'mexA': 750.34, 'oprD': 452.13}",ST20,95.54,34.84,PacBio,Lowenstein-Jensen,Nextera XT,29
+2024-04-05,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 100.18},ST19,90.52,33.89,PacBio,Middlebrook agar,Ligation Sequencing Kit,40
+2024-07-09,Blood,Pseudomonas aeruginosa,PAE-R32,['oprD'],{'oprD': 444.58},ST43,93.8,39.84,Illumina MiSeq,Middlebrook agar,Nextera XT,41
+2024-10-17,Lung Biopsy,Escherichia coli,ECOLI-R33,"['aac(3)-IIa', 'blaCTX-M']","{'aac(3)-IIa': 590.22, 'blaCTX-M': 522.57}",ST14,96.48,39.76,PacBio,7H9 broth,TruSeq DNA,25
+2024-05-23,Blood,Escherichia coli,ECOLI-R34,"['blaCTX-M', 'aac(3)-IIa']","{'blaCTX-M': 877.35, 'aac(3)-IIa': 815.02}",ST38,90.05,31.75,Illumina MiSeq,Lowenstein-Jensen,TruSeq DNA,36
+2024-08-07,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 790.77},ST24,90.27,31.16,PacBio,Lowenstein-Jensen,Ligation Sequencing Kit,45
+2024-06-04,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 186.7},ST30,96.67,38.21,Illumina MiSeq,Lowenstein-Jensen,Nextera XT,30
+2024-11-29,Lung Biopsy,Klebsiella pneumoniae,KPN-R20,"['blaKPC', 'blaOXA-48']","{'blaKPC': 128.68, 'blaOXA-48': 87.7}",ST41,98.64,32.07,Illumina MiSeq,7H9 broth,Ligation Sequencing Kit,25
+2024-04-30,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 136.96},ST43,99.07,32.8,Oxford Nanopore,Lowenstein-Jensen,Nextera XT,42
+2024-07-21,Blood,Escherichia coli,ECOLI-35,['aac(3)-IIa'],{'aac(3)-IIa': 367.99},ST21,95.13,33.16,Illumina MiSeq,Lowenstein-Jensen,Nextera XT,40
+2024-08-07,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 188.09},ST18,96.94,33.72,Oxford Nanopore,Lowenstein-Jensen,Nextera XT,31
+2024-09-10,Lung Biopsy,Escherichia coli,ECOLI-36,"['aac(3)-IIa', 'blaCTX-M']","{'aac(3)-IIa': 258.46, 'blaCTX-M': 859.92}",ST16,99.5,31.5,Oxford Nanopore,7H9 broth,Nextera XT,43
+2024-05-06,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 265.14},ST11,92.57,33.6,Illumina MiSeq,Lowenstein-Jensen,Ligation Sequencing Kit,28
+2024-10-23,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 492.62},ST38,99.7,32.85,PacBio,Middlebrook agar,Ligation Sequencing Kit,23
+2024-06-23,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 350.19},ST30,96.06,34.05,PacBio,Lowenstein-Jensen,TruSeq DNA,38
+2024-08-17,CSF,Klebsiella pneumoniae,KPN-R21,"['blaCTX-M', 'blaKPC']","{'blaCTX-M': 242.28, 'blaKPC': 259.13}",ST15,99.56,34.14,Oxford Nanopore,Middlebrook agar,Ligation Sequencing Kit,34
+2024-05-17,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 621.92},ST15,93.93,37.65,PacBio,7H9 broth,Nextera XT,42
+2024-04-07,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 331.95},ST40,91.69,30.35,Illumina MiSeq,7H9 broth,Ligation Sequencing Kit,44
+2024-03-31,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 316.56},ST32,98.69,34.35,Oxford Nanopore,Middlebrook agar,Ligation Sequencing Kit,38
+2024-04-26,Blood,Klebsiella pneumoniae,KPN-R22,['blaOXA-48'],{'blaOXA-48': 947.49},ST10,90.0,38.15,Oxford Nanopore,7H9 broth,TruSeq DNA,18
+2024-07-16,Sputum,Methicillin-Resistant Staphylococcus aureus,MRSA-R23,"['mecA', 'blaZ']","{'mecA': 88.42, 'blaZ': 629.07}",ST49,93.91,31.63,Illumina MiSeq,Lowenstein-Jensen,Ligation Sequencing Kit,31
+2024-07-11,Lung Biopsy,Pseudomonas aeruginosa,PAE-R33,"['mexA', 'oprD']","{'mexA': 59.14, 'oprD': 539.62}",ST16,96.31,36.18,Illumina MiSeq,7H9 broth,TruSeq DNA,21
+2024-04-09,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 503.41},ST33,94.89,33.42,Illumina MiSeq,7H9 broth,Nextera XT,18
+2024-07-28,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 829.97},ST17,91.8,38.96,Oxford Nanopore,7H9 broth,Ligation Sequencing Kit,33
+2024-11-11,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 936.85},ST20,99.72,34.73,PacBio,7H9 broth,Ligation Sequencing Kit,39
+2024-04-03,Blood,Escherichia coli,ECOLI-37,['aac(3)-IIa'],{'aac(3)-IIa': 791.25},ST12,92.34,34.34,Illumina MiSeq,Middlebrook agar,Nextera XT,21
+2024-10-09,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 361.96},ST19,93.35,39.7,Oxford Nanopore,7H9 broth,Ligation Sequencing Kit,37
+2024-08-27,Blood,Klebsiella pneumoniae,KPN-R23,"['blaCTX-M', 'blaKPC']","{'blaCTX-M': 709.56, 'blaKPC': 563.43}",ST41,90.21,33.78,Oxford Nanopore,Lowenstein-Jensen,Ligation Sequencing Kit,24
+2024-03-18,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 459.54},ST50,91.53,32.96,PacBio,7H9 broth,Nextera XT,34
+2024-09-15,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 686.39},ST45,96.52,35.39,Illumina MiSeq,Lowenstein-Jensen,Ligation Sequencing Kit,20
+2024-11-16,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 490.52},ST16,98.27,31.3,PacBio,Middlebrook agar,Nextera XT,19
+2024-04-07,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 890.87},ST15,90.13,39.21,Illumina MiSeq,Middlebrook agar,Ligation Sequencing Kit,20
+2024-10-14,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 223.74},ST43,95.24,37.34,PacBio,7H9 broth,Ligation Sequencing Kit,26
+2024-06-02,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 114.46},ST50,96.19,31.79,PacBio,Middlebrook agar,Nextera XT,36
+2024-06-19,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 358.8},ST30,96.51,35.34,PacBio,Lowenstein-Jensen,Ligation Sequencing Kit,28
+2024-11-29,CSF,Pseudomonas aeruginosa,PAE-R34,"['mexA', 'oprD']","{'mexA': 983.13, 'oprD': 599.81}",ST29,95.4,33.75,Oxford Nanopore,Middlebrook agar,Nextera XT,36
+2024-07-24,Blood,Escherichia coli,ECOLI-38,['aac(3)-IIa'],{'aac(3)-IIa': 373.41},ST24,95.65,35.72,Oxford Nanopore,Middlebrook agar,Ligation Sequencing Kit,35
+2024-07-02,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 821.32},ST16,97.85,31.73,PacBio,7H9 broth,Ligation Sequencing Kit,28
+2024-09-17,Sputum,Klebsiella pneumoniae,KPN-R24,['blaOXA-48'],{'blaOXA-48': 63.59},ST30,98.59,38.7,Oxford Nanopore,Lowenstein-Jensen,TruSeq DNA,47
+2024-09-18,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 296.89},ST35,97.45,35.75,PacBio,Middlebrook agar,TruSeq DNA,32
+2024-08-23,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 143.52},ST45,90.84,35.02,Illumina MiSeq,Middlebrook agar,TruSeq DNA,26
+2024-05-05,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 580.26},ST17,90.71,37.77,PacBio,Middlebrook agar,Nextera XT,25
+2024-10-06,Lung Biopsy,Methicillin-Resistant Staphylococcus aureus,MRSA-R24,['mecA'],{'mecA': 688.51},ST15,93.02,39.88,PacBio,Middlebrook agar,Nextera XT,42
+2024-08-20,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 742.61},ST23,91.1,34.5,Illumina MiSeq,Lowenstein-Jensen,Ligation Sequencing Kit,43
+2024-06-01,Lung Biopsy,Pseudomonas aeruginosa,PAE-35,"['mexA', 'oprD']","{'mexA': 658.21, 'oprD': 18.25}",ST27,98.97,35.27,PacBio,7H9 broth,TruSeq DNA,36
+2024-11-21,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 206.89},ST39,93.12,38.67,PacBio,Middlebrook agar,Nextera XT,46
+2024-07-12,Blood,Pseudomonas aeruginosa,PAE-R36,"['mexA', 'oprD']","{'mexA': 879.89, 'oprD': 891.5}",ST11,93.43,33.52,Oxford Nanopore,Middlebrook agar,Nextera XT,18
+2024-08-21,CSF,Klebsiella pneumoniae,KPN-R25,"['blaOXA-48', 'blaKPC']","{'blaOXA-48': 454.68, 'blaKPC': 140.45}",ST47,99.51,36.12,Illumina MiSeq,Middlebrook agar,TruSeq DNA,34
+2024-11-17,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 841.13},ST19,90.67,35.33,PacBio,Middlebrook agar,Nextera XT,28
+2024-09-25,Blood,Klebsiella pneumoniae,KPN-26,"['blaKPC', 'blaOXA-48']","{'blaKPC': 238.6, 'blaOXA-48': 35.82}",ST40,97.71,31.07,PacBio,Middlebrook agar,TruSeq DNA,22
+2024-03-27,CSF,Escherichia coli,ECOLI-R39,['blaCTX-M'],{'blaCTX-M': 760.2},ST38,90.32,37.65,Illumina MiSeq,7H9 broth,Nextera XT,25
+2024-03-11,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 529.98},ST12,93.1,36.12,PacBio,Middlebrook agar,TruSeq DNA,41
+2024-05-13,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 197.95},ST38,95.52,35.16,PacBio,Lowenstein-Jensen,Ligation Sequencing Kit,19
+2024-09-01,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 725.42},ST17,98.95,34.64,PacBio,7H9 broth,Ligation Sequencing Kit,34
+2024-05-31,Blood,Methicillin-Resistant Staphylococcus aureus,MRSA-25,['mecA'],{'mecA': 100.28},ST50,97.06,32.02,Illumina MiSeq,Lowenstein-Jensen,Ligation Sequencing Kit,46
+2024-05-02,CSF,Pseudomonas aeruginosa,PAE-R37,['mexA'],{'mexA': 870.13},ST13,93.77,37.68,PacBio,7H9 broth,TruSeq DNA,35
+2024-11-30,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 502.65},ST41,92.01,36.23,Illumina MiSeq,7H9 broth,Nextera XT,48
+2024-11-07,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 561.97},ST23,90.07,38.82,Oxford Nanopore,7H9 broth,Ligation Sequencing Kit,37
+2024-09-03,Blood,Escherichia coli,ECOLI-40,['blaCTX-M'],{'blaCTX-M': 675.37},ST48,95.97,33.31,Illumina MiSeq,Middlebrook agar,Ligation Sequencing Kit,44
+2024-07-15,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 476.11},ST17,90.67,34.27,Oxford Nanopore,Lowenstein-Jensen,TruSeq DNA,44
+2024-04-28,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 691.77},ST28,97.22,36.29,PacBio,7H9 broth,Nextera XT,36
+2024-10-03,Blood,Klebsiella pneumoniae,KPN-R27,"['blaCTX-M', 'blaKPC']","{'blaCTX-M': 297.58, 'blaKPC': 201.62}",ST39,96.26,34.93,PacBio,Lowenstein-Jensen,Ligation Sequencing Kit,41
+2024-11-18,Sputum,Pseudomonas aeruginosa,PAE-R38,"['mexA', 'oprD']","{'mexA': 688.98, 'oprD': 347.95}",ST49,96.34,36.9,PacBio,Middlebrook agar,Nextera XT,18
+2024-11-04,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 467.85},ST36,94.77,36.27,Oxford Nanopore,7H9 broth,Ligation Sequencing Kit,22
+2024-09-09,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 381.49},ST44,99.6,32.8,PacBio,Lowenstein-Jensen,TruSeq DNA,20
+2024-08-14,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 831.16},ST29,92.69,30.87,PacBio,Lowenstein-Jensen,Ligation Sequencing Kit,19
+2024-03-09,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 346.71},ST40,90.25,34.83,Illumina MiSeq,7H9 broth,TruSeq DNA,34
+2024-10-19,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 317.87},ST12,90.36,33.88,PacBio,7H9 broth,Nextera XT,41
+2024-06-22,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 200.62},ST27,97.51,36.39,PacBio,Lowenstein-Jensen,Nextera XT,36
+2024-07-30,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 278.34},ST28,95.09,32.07,Illumina MiSeq,7H9 broth,Ligation Sequencing Kit,35
+2024-04-18,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 432.2},ST21,98.94,30.5,Illumina MiSeq,7H9 broth,Nextera XT,33
+2024-05-30,Lung Biopsy,Methicillin-Resistant Staphylococcus aureus,MRSA-26,"['blaZ', 'mecA']","{'blaZ': 947.97, 'mecA': 152.28}",ST26,91.3,38.13,PacBio,7H9 broth,TruSeq DNA,36
+2024-10-09,Blood,Methicillin-Resistant Staphylococcus aureus,MRSA-R27,"['mecA', 'blaZ']","{'mecA': 355.13, 'blaZ': 578.93}",ST35,94.71,33.51,Oxford Nanopore,Lowenstein-Jensen,Nextera XT,20
+2024-03-28,Blood,Methicillin-Resistant Staphylococcus aureus,MRSA-R28,"['blaZ', 'mecA']","{'blaZ': 549.08, 'mecA': 243.79}",ST14,96.15,35.48,Oxford Nanopore,Middlebrook agar,TruSeq DNA,25
+2024-11-01,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 385.12},ST41,95.92,36.86,Illumina MiSeq,Lowenstein-Jensen,TruSeq DNA,20
+2024-10-18,Lung Biopsy,Methicillin-Resistant Staphylococcus aureus,MRSA-29,"['blaZ', 'mecA']","{'blaZ': 919.32, 'mecA': 937.31}",ST32,94.48,32.92,Illumina MiSeq,7H9 broth,Ligation Sequencing Kit,22
+2024-06-23,Lung Biopsy,Pseudomonas aeruginosa,PAE-39,['mexA'],{'mexA': 437.4},ST50,90.53,37.03,Illumina MiSeq,Lowenstein-Jensen,Ligation Sequencing Kit,48
+2024-09-25,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 162.72},ST18,91.86,33.85,PacBio,7H9 broth,TruSeq DNA,22
+2024-08-09,Sputum,Methicillin-Resistant Staphylococcus aureus,MRSA-R30,"['mecA', 'blaZ']","{'mecA': 514.32, 'blaZ': 556.53}",ST32,90.84,36.42,Oxford Nanopore,Middlebrook agar,TruSeq DNA,22
+2024-03-30,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 978.45},ST46,92.67,39.27,PacBio,7H9 broth,Ligation Sequencing Kit,34
+2024-06-26,CSF,Pseudomonas aeruginosa,PAE-R40,"['mexA', 'oprD']","{'mexA': 891.02, 'oprD': 97.56}",ST14,99.74,39.84,Illumina MiSeq,Middlebrook agar,Ligation Sequencing Kit,34
+2024-07-22,Sputum,Pseudomonas aeruginosa,PAE-R41,"['mexA', 'oprD']","{'mexA': 923.64, 'oprD': 751.93}",ST46,93.28,33.53,PacBio,Lowenstein-Jensen,Ligation Sequencing Kit,41
+2024-09-04,Lung Biopsy,Klebsiella pneumoniae,KPN-R28,"['blaOXA-48', 'blaKPC']","{'blaOXA-48': 619.64, 'blaKPC': 282.46}",ST17,90.27,34.85,PacBio,Lowenstein-Jensen,Ligation Sequencing Kit,37
+2024-03-24,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 599.59},ST19,95.22,30.33,Illumina MiSeq,Lowenstein-Jensen,Nextera XT,43
+2024-08-05,CSF,Pseudomonas aeruginosa,PAE-R42,"['mexA', 'oprD']","{'mexA': 175.92, 'oprD': 404.76}",ST44,98.33,30.54,Illumina MiSeq,7H9 broth,Ligation Sequencing Kit,41
+2024-10-14,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 686.05},ST12,97.89,33.82,Oxford Nanopore,7H9 broth,TruSeq DNA,47
+2024-08-25,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 736.97},ST47,95.78,34.61,Oxford Nanopore,7H9 broth,TruSeq DNA,38
+2024-11-15,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 290.46},ST22,95.2,36.85,Illumina MiSeq,7H9 broth,TruSeq DNA,21
+2024-10-07,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 651.43},ST21,98.48,31.3,Illumina MiSeq,Middlebrook agar,Nextera XT,20
+2024-11-01,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 782.92},ST27,94.23,39.03,PacBio,Lowenstein-Jensen,TruSeq DNA,42
+2024-04-26,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 497.14},ST19,99.7,32.01,Illumina MiSeq,Lowenstein-Jensen,Nextera XT,33
+2024-05-16,Blood,Methicillin-Resistant Staphylococcus aureus,MRSA-31,"['mexA', 'oprD']","{'mexA': 933.56, 'oprD': 667.96}",ST31,92.48,34.46,Illumina MiSeq,7H9 broth,Ligation Sequencing Kit,41
+2024-10-17,CSF,Methicillin-Resistant Staphylococcus aureus,MRSA-32,"['mexA', 'oprD']","{'mexA': 991.69, 'oprD': 340.11}",ST13,92.24,33.84,Oxford Nanopore,Middlebrook agar,Nextera XT,35
+2024-06-02,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 396.2},ST16,90.39,33.84,PacBio,7H9 broth,Nextera XT,35
+2024-11-11,CSF,Methicillin-Resistant Staphylococcus aureus,MRSA-R33,"['blaZ', 'mecA']","{'blaZ': 966.91, 'mecA': 26.25}",ST31,97.13,35.93,Illumina MiSeq,7H9 broth,Nextera XT,18
+2024-11-09,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 28.87},ST49,99.16,30.37,Illumina MiSeq,Middlebrook agar,Ligation Sequencing Kit,25
+2024-08-12,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 599.03},ST49,91.69,35.91,Oxford Nanopore,7H9 broth,TruSeq DNA,37
+2024-07-15,Blood,Klebsiella pneumoniae,KPN-R29,['blaKPC'],{'blaKPC': 597.15},ST17,99.66,35.76,PacBio,Lowenstein-Jensen,TruSeq DNA,21
+2024-07-10,Blood,Methicillin-Resistant Staphylococcus aureus,MRSA-R34,"['mecA', 'blaZ']","{'mecA': 492.1, 'blaZ': 16.29}",ST15,91.32,37.91,Oxford Nanopore,7H9 broth,Ligation Sequencing Kit,19
+2024-08-26,Lung Biopsy,Escherichia coli,ECOLI-R41,['aac(3)-IIa'],{'aac(3)-IIa': 354.38},ST25,94.08,39.38,PacBio,Lowenstein-Jensen,Ligation Sequencing Kit,32
+2024-03-23,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 798.65},ST40,96.2,32.08,PacBio,7H9 broth,TruSeq DNA,42
+2024-09-03,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 743.01},ST44,92.49,36.17,Oxford Nanopore,Lowenstein-Jensen,Nextera XT,31
+2024-06-19,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 237.76},ST17,93.23,31.99,PacBio,Lowenstein-Jensen,Ligation Sequencing Kit,36
+2024-07-17,CSF,Methicillin-Resistant Staphylococcus aureus,MRSA-35,"['mecA', 'blaZ']","{'mecA': 379.75, 'blaZ': 463.16}",ST32,95.79,30.54,Oxford Nanopore,7H9 broth,Nextera XT,33
+2024-09-13,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 227.66},ST28,98.43,34.59,Illumina MiSeq,Lowenstein-Jensen,Nextera XT,21
+2024-04-24,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 254.19},ST30,98.29,32.79,Oxford Nanopore,7H9 broth,Ligation Sequencing Kit,33
+2024-05-08,Sputum,Methicillin-Resistant Staphylococcus aureus,MRSA-R36,['blaZ'],{'blaZ': 500.33},ST10,94.99,34.26,Illumina MiSeq,Lowenstein-Jensen,Ligation Sequencing Kit,42
+2024-04-09,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 34.17},ST39,93.02,37.03,Illumina MiSeq,7H9 broth,TruSeq DNA,39
+2024-07-17,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 42.39},ST37,96.21,33.85,PacBio,Middlebrook agar,Nextera XT,45
+2024-06-14,Blood,Methicillin-Resistant Staphylococcus aureus,MRSA-R37,['mecA'],{'mecA': 565.15},ST18,90.51,33.83,PacBio,Middlebrook agar,TruSeq DNA,46
+2024-10-31,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 428.7},ST13,92.23,33.53,PacBio,7H9 broth,Ligation Sequencing Kit,42
+2024-05-16,CSF,Pseudomonas aeruginosa,PAE-R43,['mexA'],{'mexA': 892.98},ST15,96.72,35.33,Illumina MiSeq,Lowenstein-Jensen,Ligation Sequencing Kit,35
+2024-09-26,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 422.37},ST44,91.49,32.04,Illumina MiSeq,Middlebrook agar,Nextera XT,33
+2024-06-18,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 417.57},ST31,90.22,38.02,Illumina MiSeq,Lowenstein-Jensen,Nextera XT,20
+2024-09-18,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 772.05},ST13,97.81,32.27,PacBio,7H9 broth,TruSeq DNA,23
+2024-08-03,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 796.51},ST20,99.63,38.39,PacBio,Middlebrook agar,TruSeq DNA,23
+2024-09-19,Lung Biopsy,Pseudomonas aeruginosa,PAE-44,['oprD'],{'oprD': 130.28},ST41,97.0,36.66,Oxford Nanopore,7H9 broth,Nextera XT,35
+2024-06-12,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 801.58},ST38,92.93,38.96,PacBio,Lowenstein-Jensen,Ligation Sequencing Kit,40
+2024-03-08,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 64.48},ST22,96.11,32.2,Illumina MiSeq,Lowenstein-Jensen,Nextera XT,30
+2024-11-04,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 607.14},ST42,90.87,35.12,Oxford Nanopore,Middlebrook agar,Ligation Sequencing Kit,48
+2024-09-22,CSF,Escherichia coli,ECOLI-R42,"['aac(3)-IIa', 'blaCTX-M']","{'aac(3)-IIa': 172.15, 'blaCTX-M': 730.72}",ST36,93.48,39.78,Oxford Nanopore,7H9 broth,TruSeq DNA,29
+2024-04-10,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 420.37},ST45,93.72,30.07,Oxford Nanopore,7H9 broth,Ligation Sequencing Kit,42
+2024-07-21,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 793.31},ST19,95.79,34.94,Oxford Nanopore,7H9 broth,TruSeq DNA,44
+2024-03-31,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 76.06},ST33,90.28,37.65,Oxford Nanopore,Middlebrook agar,Ligation Sequencing Kit,25
+2024-06-03,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 326.48},ST18,90.17,32.6,Oxford Nanopore,Middlebrook agar,Ligation Sequencing Kit,36
+2024-09-08,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 631.75},ST16,95.24,39.36,Oxford Nanopore,7H9 broth,TruSeq DNA,27
+2024-03-20,Blood,Klebsiella pneumoniae,KPN-30,"['blaOXA-48', 'blaKPC']","{'blaOXA-48': 346.91, 'blaKPC': 911.68}",ST19,95.29,33.52,PacBio,Middlebrook agar,TruSeq DNA,21
+2024-08-08,Sputum,Pseudomonas aeruginosa,PAE-45,"['mexA', 'oprD']","{'mexA': 38.47, 'oprD': 816.43}",ST19,90.17,33.48,Illumina MiSeq,7H9 broth,Nextera XT,47
+2024-07-01,Lung Biopsy,Escherichia coli,ECOLI-43,['aac(3)-IIa'],{'aac(3)-IIa': 127.73},ST14,97.67,37.57,PacBio,7H9 broth,Nextera XT,18
+2024-03-21,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 354.36},ST20,93.48,30.91,PacBio,7H9 broth,Nextera XT,39
+2024-03-19,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 728.1},ST23,91.9,32.82,Illumina MiSeq,Middlebrook agar,Nextera XT,40
+2024-04-08,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 984.77},ST17,94.2,35.14,Illumina MiSeq,7H9 broth,TruSeq DNA,30
+2024-10-28,CSF,Escherichia coli,ECOLI-R44,"['aac(3)-IIa', 'blaCTX-M']","{'aac(3)-IIa': 558.38, 'blaCTX-M': 297.68}",ST22,90.4,33.28,PacBio,Lowenstein-Jensen,Ligation Sequencing Kit,41
+2024-10-11,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 406.62},ST47,95.17,36.77,PacBio,7H9 broth,TruSeq DNA,32
+2024-07-16,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 768.31},ST47,98.3,37.25,PacBio,Lowenstein-Jensen,Nextera XT,25
+2024-11-05,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 143.26},ST16,91.21,34.89,Oxford Nanopore,7H9 broth,TruSeq DNA,21
+2024-04-08,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 524.75},ST41,93.0,36.23,PacBio,Middlebrook agar,TruSeq DNA,22
+2024-05-20,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 881.32},ST17,98.51,35.47,Oxford Nanopore,Middlebrook agar,TruSeq DNA,43
+2024-05-17,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 436.37},ST29,96.53,37.79,Illumina MiSeq,7H9 broth,Nextera XT,35
+2024-05-23,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 270.76},ST47,94.71,38.54,PacBio,Middlebrook agar,Ligation Sequencing Kit,33
+2024-06-03,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 106.38},ST32,98.01,35.84,Illumina MiSeq,7H9 broth,TruSeq DNA,29
+2024-07-19,Lung Biopsy,Pseudomonas aeruginosa,PAE-46,"['mexA', 'oprD']","{'mexA': 661.19, 'oprD': 428.25}",ST36,99.01,30.66,PacBio,Lowenstein-Jensen,Ligation Sequencing Kit,20
+2024-06-12,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 342.61},ST42,90.97,34.88,PacBio,Lowenstein-Jensen,TruSeq DNA,36
+2024-10-15,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 233.63},ST15,92.84,30.48,PacBio,7H9 broth,Ligation Sequencing Kit,24
+2024-05-11,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 320.22},ST36,92.99,38.04,Oxford Nanopore,7H9 broth,Ligation Sequencing Kit,44
+2024-04-24,Lung Biopsy,Methicillin-Resistant Staphylococcus aureus,MRSA-R38,"['mecA', 'blaZ']","{'mecA': 370.63, 'blaZ': 156.27}",ST29,94.94,36.61,PacBio,Middlebrook agar,Nextera XT,36
+2024-11-18,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 122.42},ST22,91.59,36.87,Oxford Nanopore,Lowenstein-Jensen,TruSeq DNA,38
+2024-11-22,CSF,Pseudomonas aeruginosa,PAE-R47,"['mexA', 'oprD']","{'mexA': 555.2, 'oprD': 647.85}",ST41,91.58,31.36,Oxford Nanopore,Middlebrook agar,Nextera XT,24
+2024-10-02,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 575.26},ST42,98.77,33.97,Oxford Nanopore,Lowenstein-Jensen,Ligation Sequencing Kit,39
+2024-07-25,Lung Biopsy,Klebsiella pneumoniae,KPN-R31,"['blaCTX-M', 'blaKPC']","{'blaCTX-M': 115.75, 'blaKPC': 221.97}",ST36,93.86,37.48,Oxford Nanopore,Lowenstein-Jensen,Ligation Sequencing Kit,41
+2024-07-26,Blood,Klebsiella pneumoniae,KPN-R32,"['blaKPC', 'blaOXA-48']","{'blaKPC': 843.06, 'blaOXA-48': 665.6}",ST25,96.76,39.63,Oxford Nanopore,Middlebrook agar,TruSeq DNA,33
+2024-06-23,Blood,Methicillin-Resistant Staphylococcus aureus,MRSA-R39,"['mecA', 'blaZ']","{'mecA': 304.45, 'blaZ': 860.82}",ST38,94.38,30.08,Illumina MiSeq,Middlebrook agar,Nextera XT,45
+2024-06-18,Sputum,Escherichia coli,ECOLI-R45,['aac(3)-IIa'],{'aac(3)-IIa': 426.66},ST45,98.33,37.17,Oxford Nanopore,Middlebrook agar,TruSeq DNA,47
+2024-10-07,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 320.58},ST15,96.35,30.03,Illumina MiSeq,Middlebrook agar,TruSeq DNA,43
+2024-08-10,Lung Biopsy,Pseudomonas aeruginosa,PAE-48,"['oprD', 'mexA']","{'oprD': 93.55, 'mexA': 373.92}",ST34,94.74,37.35,PacBio,Lowenstein-Jensen,TruSeq DNA,32
+2024-03-08,Lung Biopsy,Methicillin-Resistant Staphylococcus aureus,MRSA-R40,"['mecA', 'blaZ']","{'mecA': 958.45, 'blaZ': 178.42}",ST10,91.67,34.01,Illumina MiSeq,Lowenstein-Jensen,Ligation Sequencing Kit,45
+2024-09-01,CSF,Pseudomonas aeruginosa,PAE-R49,"['mexA', 'oprD']","{'mexA': 995.26, 'oprD': 290.14}",ST36,98.53,37.82,PacBio,7H9 broth,Nextera XT,48
+2024-05-13,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 141.87},ST30,95.77,36.47,PacBio,Lowenstein-Jensen,Nextera XT,29
+2024-11-09,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 360.76},ST48,90.58,33.33,Oxford Nanopore,7H9 broth,Nextera XT,35
+2024-10-04,CSF,Klebsiella pneumoniae,KPN-R33,"['blaOXA-48', 'blaKPC']","{'blaOXA-48': 98.75, 'blaKPC': 713.15}",ST26,98.83,30.41,PacBio,Lowenstein-Jensen,Nextera XT,48
+2024-06-24,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 441.42},ST20,98.94,32.63,PacBio,Lowenstein-Jensen,TruSeq DNA,27
+2024-10-06,CSF,Methicillin-Resistant Staphylococcus aureus,MRSA-R41,"['mecA', 'blaZ']","{'mecA': 362.95, 'blaZ': 711.94}",ST41,90.36,32.6,Illumina MiSeq,7H9 broth,Nextera XT,23
+2024-03-08,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 587.71},ST10,98.14,35.63,Illumina MiSeq,7H9 broth,Ligation Sequencing Kit,34
+2024-06-20,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 594.44},ST16,92.81,39.81,PacBio,7H9 broth,TruSeq DNA,18
+2024-09-27,CSF,Escherichia coli,ECOLI-R46,"['blaCTX-M', 'blaKPC']","{'blaCTX-M': 626.14, 'blaKPC': 458.57}",ST46,99.46,35.94,PacBio,Lowenstein-Jensen,TruSeq DNA,38
+2024-05-18,Blood,Pseudomonas aeruginosa,PAE-50,"['blaCTX-M', 'blaKPC']","{'blaCTX-M': 866.86, 'blaKPC': 98.3}",ST20,95.96,30.93,PacBio,7H9 broth,Ligation Sequencing Kit,48
+2024-04-03,Lung Biopsy,Klebsiella pneumoniae,KPN-R34,"['blaCTX-M', 'blaKPC']","{'blaCTX-M': 373.78, 'blaKPC': 207.87}",ST34,99.12,39.04,Oxford Nanopore,Lowenstein-Jensen,Ligation Sequencing Kit,43
+2024-03-24,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 679.68},ST19,94.22,30.4,PacBio,7H9 broth,TruSeq DNA,38
+2024-10-24,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 572.85},ST45,98.94,38.42,Oxford Nanopore,7H9 broth,Nextera XT,39
+2024-04-10,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 508.41},ST17,98.05,33.55,Oxford Nanopore,Middlebrook agar,Ligation Sequencing Kit,36
+2024-08-29,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 809.76},ST31,95.81,34.55,Oxford Nanopore,Middlebrook agar,TruSeq DNA,28
+2024-03-28,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 465.56},ST35,90.06,31.17,Illumina MiSeq,Lowenstein-Jensen,Ligation Sequencing Kit,18
+2024-03-31,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 860.42},ST23,91.89,38.16,Illumina MiSeq,7H9 broth,Nextera XT,18
+2024-05-16,Lung Biopsy,Klebsiella pneumoniae,KPN-R35,"['blaOXA-48', 'blaKPC']","{'blaOXA-48': 861.2, 'blaKPC': 589.37}",ST46,90.22,31.66,Oxford Nanopore,7H9 broth,TruSeq DNA,31
+2024-03-28,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 405.68},ST42,95.73,37.31,Oxford Nanopore,Lowenstein-Jensen,TruSeq DNA,41
+2024-04-17,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 626.47},ST32,98.84,34.17,Oxford Nanopore,Middlebrook agar,Nextera XT,26
+2024-04-05,Blood,Pseudomonas aeruginosa,PAE-R51,"['mexA', 'oprD']","{'mexA': 725.77, 'oprD': 396.47}",ST33,95.03,35.88,Oxford Nanopore,Lowenstein-Jensen,TruSeq DNA,25
+2024-07-22,Sputum,Methicillin-Resistant Staphylococcus aureus,MRSA-R42,['mecA'],{'mecA': 561.26},ST32,96.0,31.01,Illumina MiSeq,7H9 broth,Nextera XT,23
+2024-10-10,Sputum,Methicillin-Resistant Staphylococcus aureus,MRSA-R43,"['mecA', 'blaZ']","{'mecA': 897.35, 'blaZ': 854.87}",ST48,92.24,35.62,Oxford Nanopore,Lowenstein-Jensen,Nextera XT,37
+2024-10-03,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 114.36},ST50,98.5,31.02,Illumina MiSeq,Middlebrook agar,Ligation Sequencing Kit,43
+2024-07-30,Blood,Pseudomonas aeruginosa,PAE-R52,"['mexA', 'oprD']","{'mexA': 209.87, 'oprD': 969.94}",ST10,90.98,36.47,PacBio,Lowenstein-Jensen,Ligation Sequencing Kit,45
+2024-05-05,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 235.9},ST37,96.23,32.45,Oxford Nanopore,Middlebrook agar,TruSeq DNA,29
+2024-04-24,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 982.13},ST20,95.12,30.7,Illumina MiSeq,7H9 broth,Ligation Sequencing Kit,43
+2024-05-10,Sputum,Pseudomonas aeruginosa,PAE-R53,"['oprD', 'mexA']","{'oprD': 17.82, 'mexA': 286.98}",ST19,99.7,37.99,Illumina MiSeq,Middlebrook agar,Nextera XT,38
+2024-03-11,CSF,Pseudomonas aeruginosa,PAE-R54,['oprD'],{'oprD': 221.6},ST29,92.99,30.37,PacBio,Lowenstein-Jensen,Nextera XT,46
+2024-07-23,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 69.35},ST33,97.66,37.27,PacBio,Lowenstein-Jensen,Nextera XT,44
+2024-03-11,Sputum,Klebsiella pneumoniae,KPN-R36,"['blaCTX-M', 'blaKPC']","{'blaCTX-M': 786.94, 'blaKPC': 717.71}",ST34,93.36,32.36,PacBio,Middlebrook agar,Nextera XT,32
+2024-08-15,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 889.62},ST40,94.21,34.12,Oxford Nanopore,7H9 broth,Nextera XT,40
+2024-09-10,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 948.34},ST36,94.94,34.23,PacBio,Lowenstein-Jensen,TruSeq DNA,36
+2024-05-27,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 749.03},ST45,95.24,36.94,Illumina MiSeq,Middlebrook agar,Ligation Sequencing Kit,45
+2024-07-10,Sputum,Pseudomonas aeruginosa,PAE-R55,['mexA'],{'mexA': 785.95},ST29,91.17,33.05,Oxford Nanopore,7H9 broth,Ligation Sequencing Kit,22
+2024-04-03,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 901.28},ST34,90.44,34.81,PacBio,Lowenstein-Jensen,Nextera XT,45
+2024-06-27,CSF,Methicillin-Resistant Staphylococcus aureus,MRSA-R44,"['mecA', 'blaZ']","{'mecA': 738.55, 'blaZ': 649.46}",ST11,97.21,30.89,PacBio,Lowenstein-Jensen,Nextera XT,45
+2024-07-30,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 28.78},ST23,90.18,36.58,Illumina MiSeq,Lowenstein-Jensen,Ligation Sequencing Kit,46
+2024-10-13,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 264.61},ST17,94.33,34.15,Illumina MiSeq,Lowenstein-Jensen,Nextera XT,28
+2024-05-17,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 716.17},ST29,91.67,36.14,Illumina MiSeq,Lowenstein-Jensen,TruSeq DNA,39
+2024-10-05,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 754.87},ST34,92.37,35.97,Oxford Nanopore,7H9 broth,Nextera XT,24
+2024-06-30,CSF,Escherichia coli,ECOLI-R47,['blaCTX-M'],{'blaCTX-M': 765.35},ST18,96.27,39.14,Illumina MiSeq,Lowenstein-Jensen,Nextera XT,31
+2024-07-07,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 10.99},ST39,92.43,39.53,Oxford Nanopore,Middlebrook agar,Nextera XT,43
+2024-10-28,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 169.8},ST44,98.34,32.13,Oxford Nanopore,Middlebrook agar,TruSeq DNA,29
+2024-06-17,Sputum,Pseudomonas aeruginosa,PAE-R56,"['oprD', 'mexA']","{'oprD': 253.47, 'mexA': 983.19}",ST39,94.28,36.1,PacBio,Middlebrook agar,TruSeq DNA,46
+2024-09-30,Sputum,Methicillin-Resistant Staphylococcus aureus,MRSA-R45,['mecA'],{'mecA': 893.65},ST38,94.09,38.95,Illumina MiSeq,7H9 broth,Ligation Sequencing Kit,23
+2024-06-02,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 29.58},ST27,93.67,31.93,PacBio,7H9 broth,Nextera XT,32
+2024-05-14,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 217.0},ST22,93.59,32.81,Illumina MiSeq,7H9 broth,TruSeq DNA,48
+2024-09-28,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 136.96},ST14,96.65,36.03,Illumina MiSeq,Middlebrook agar,Ligation Sequencing Kit,36
+2024-06-20,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 432.84},ST13,96.08,36.81,Illumina MiSeq,Middlebrook agar,Ligation Sequencing Kit,35
+2024-08-09,Sputum,Klebsiella pneumoniae,KPN-37,"['blaOXA-48', 'blaKPC']","{'blaOXA-48': 397.94, 'blaKPC': 341.36}",ST11,97.51,38.84,Oxford Nanopore,Lowenstein-Jensen,TruSeq DNA,34
+2024-06-15,Lung Biopsy,Escherichia coli,ECOLI-R48,"['aac(3)-IIa', 'blaCTX-M']","{'aac(3)-IIa': 116.76, 'blaCTX-M': 245.98}",ST13,90.96,34.8,Oxford Nanopore,7H9 broth,Ligation Sequencing Kit,38
+2024-09-28,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 891.18},ST14,90.85,30.61,PacBio,Lowenstein-Jensen,Ligation Sequencing Kit,21
+2024-08-05,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 621.13},ST36,90.55,30.52,Oxford Nanopore,7H9 broth,Nextera XT,39
+2024-10-08,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 334.91},ST22,96.44,36.76,PacBio,Middlebrook agar,Nextera XT,28
+2024-06-02,Sputum,Methicillin-Resistant Staphylococcus aureus,MRSA-46,['mecA'],{'mecA': 136.4},ST42,92.54,34.21,PacBio,7H9 broth,Ligation Sequencing Kit,34
+2024-11-05,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 512.04},ST45,95.13,36.58,Oxford Nanopore,Lowenstein-Jensen,TruSeq DNA,18
+2024-06-14,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 337.83},ST47,94.71,36.92,Illumina MiSeq,Lowenstein-Jensen,Nextera XT,39
+2024-06-16,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 221.01},ST40,90.04,32.23,Illumina MiSeq,Lowenstein-Jensen,Nextera XT,47
+2024-09-04,Lung Biopsy,Pseudomonas aeruginosa,PAE-R57,"['mexA', 'oprD']","{'mexA': 207.13, 'oprD': 291.26}",ST26,90.3,31.15,Oxford Nanopore,7H9 broth,Nextera XT,29
+2024-08-02,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 218.14},ST39,96.71,33.79,Oxford Nanopore,7H9 broth,Nextera XT,44
+2024-06-23,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 384.41},ST33,91.43,39.24,Oxford Nanopore,Middlebrook agar,Nextera XT,21
+2024-03-17,Lung Biopsy,Klebsiella pneumoniae,KPN-R38,"['blaKPC', 'blaOXA-48']","{'blaKPC': 786.82, 'blaOXA-48': 793.09}",ST20,90.53,37.96,Oxford Nanopore,7H9 broth,TruSeq DNA,25
+2024-11-14,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 585.37},ST50,95.2,34.83,Illumina MiSeq,Lowenstein-Jensen,Ligation Sequencing Kit,29
+2024-11-11,CSF,Pseudomonas aeruginosa,PAE-R58,"['mexA', 'oprD']","{'mexA': 754.11, 'oprD': 302.1}",ST24,98.8,35.71,Oxford Nanopore,7H9 broth,TruSeq DNA,31
+2024-10-25,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 447.27},ST26,97.96,33.17,Oxford Nanopore,Lowenstein-Jensen,TruSeq DNA,29
+2024-07-15,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 335.95},ST29,93.57,35.46,Illumina MiSeq,7H9 broth,Nextera XT,20
+2024-04-04,Blood,Escherichia coli,ECOLI-R49,['aac(3)-IIa'],{'aac(3)-IIa': 235.3},ST23,94.02,35.8,Oxford Nanopore,Lowenstein-Jensen,TruSeq DNA,48
+2024-11-28,CSF,Methicillin-Resistant Staphylococcus aureus,MRSA-R47,['blaZ'],{'blaZ': 147.56},ST29,91.86,37.7,Oxford Nanopore,7H9 broth,TruSeq DNA,45
+2024-06-16,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 922.92},ST19,92.97,35.87,PacBio,Lowenstein-Jensen,Ligation Sequencing Kit,35
+2024-08-29,CSF,Pseudomonas aeruginosa,PAE-59,['mexA'],{'mexA': 828.21},ST11,93.26,39.62,Oxford Nanopore,7H9 broth,TruSeq DNA,21
+2024-05-16,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 861.11},ST36,94.5,33.69,Oxford Nanopore,Middlebrook agar,Ligation Sequencing Kit,20
+2024-08-21,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 607.67},ST29,98.62,33.1,Illumina MiSeq,Lowenstein-Jensen,Nextera XT,22
+2024-07-03,Sputum,Methicillin-Resistant Staphylococcus aureus,MRSA-R48,['blaZ'],{'blaZ': 649.84},ST32,92.44,33.29,Illumina MiSeq,Lowenstein-Jensen,Ligation Sequencing Kit,43
+2024-10-29,Lung Biopsy,Escherichia coli,ECOLI-R50,['blaCTX-M'],{'blaCTX-M': 281.04},ST28,99.02,31.83,PacBio,Lowenstein-Jensen,TruSeq DNA,30
+2024-04-10,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 36.45},ST50,94.46,32.53,Illumina MiSeq,Middlebrook agar,TruSeq DNA,31
+2024-10-29,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 469.6},ST39,91.14,39.17,Oxford Nanopore,7H9 broth,Nextera XT,26
+2024-10-24,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 744.03},ST20,90.18,31.01,Oxford Nanopore,7H9 broth,Nextera XT,44
+2024-11-30,CSF,Escherichia coli,ECOLI-R51,['aac(3)-IIa'],{'aac(3)-IIa': 693.44},ST48,96.68,32.16,Illumina MiSeq,Middlebrook agar,Nextera XT,46
+2024-08-12,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 683.16},ST14,94.17,39.89,Illumina MiSeq,7H9 broth,Nextera XT,18
+2024-10-02,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 401.11},ST37,95.56,31.9,PacBio,7H9 broth,TruSeq DNA,28
+2024-10-11,Blood,Klebsiella pneumoniae,KPN-39,"['blaKPC', 'blaOXA-48']","{'blaKPC': 886.61, 'blaOXA-48': 416.99}",ST41,90.12,32.13,Illumina MiSeq,Lowenstein-Jensen,Ligation Sequencing Kit,28
+2024-10-29,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 853.04},ST40,93.29,36.35,Oxford Nanopore,Middlebrook agar,Ligation Sequencing Kit,22
+2024-06-27,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 761.35},ST17,95.82,39.88,PacBio,Middlebrook agar,Nextera XT,34
+2024-04-19,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 245.68},ST48,92.94,31.52,Illumina MiSeq,7H9 broth,TruSeq DNA,33
+2024-07-28,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 213.76},ST13,92.86,30.24,PacBio,Lowenstein-Jensen,Ligation Sequencing Kit,44
+2024-09-29,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 150.12},ST23,94.87,39.54,PacBio,7H9 broth,Nextera XT,45
+2024-10-23,Lung Biopsy,Klebsiella pneumoniae,KPN-R40,"['blaOXA-48', 'blaKPC']","{'blaOXA-48': 968.05, 'blaKPC': 209.39}",ST40,93.08,37.22,Illumina MiSeq,Lowenstein-Jensen,Ligation Sequencing Kit,32
+2024-07-02,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 387.61},ST15,94.29,31.56,Oxford Nanopore,Middlebrook agar,Ligation Sequencing Kit,41
+2024-11-30,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 203.76},ST22,96.0,30.72,Oxford Nanopore,Lowenstein-Jensen,TruSeq DNA,35
+2024-04-23,Blood,Escherichia coli,ECOLI-R52,"['blaCTX-M', 'blaKPC']","{'blaCTX-M': 922.39, 'blaKPC': 390.98}",ST22,93.8,33.08,Oxford Nanopore,Lowenstein-Jensen,Ligation Sequencing Kit,29
+2024-07-22,CSF,Klebsiella pneumoniae,KPN-R41,"['blaCTX-M', 'blaKPC']","{'blaCTX-M': 815.0, 'blaKPC': 634.64}",ST19,93.81,34.24,Oxford Nanopore,Middlebrook agar,Nextera XT,38
+2024-03-12,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 590.3},ST15,97.63,36.44,PacBio,7H9 broth,Nextera XT,21
+2024-10-08,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 925.08},ST15,98.78,35.86,Oxford Nanopore,Middlebrook agar,Ligation Sequencing Kit,39
+2024-07-08,Lung Biopsy,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 423.66},ST36,98.08,30.02,PacBio,Lowenstein-Jensen,Nextera XT,23
+2024-08-31,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 193.78},ST13,94.98,31.1,Illumina MiSeq,7H9 broth,TruSeq DNA,23
+2024-08-04,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 348.73},ST47,90.79,30.86,PacBio,7H9 broth,Ligation Sequencing Kit,23
+2024-03-11,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 17.19},ST48,97.81,30.42,Oxford Nanopore,7H9 broth,Ligation Sequencing Kit,36
+2024-11-03,Blood,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 668.43},ST34,93.4,33.15,Oxford Nanopore,Lowenstein-Jensen,Ligation Sequencing Kit,46
+2024-05-28,Sputum,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 535.32},ST25,98.79,31.39,PacBio,Lowenstein-Jensen,Ligation Sequencing Kit,44
+2024-05-12,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 241.22},ST41,96.27,38.73,Illumina MiSeq,Middlebrook agar,TruSeq DNA,18
+2024-11-16,CSF,Mycobacterium tuberculosis var. bovis AF2122/97,bTB-R1,['aac(2\\)-Ic'],{'aac(2\\)-Ic': 787.01},ST42,96.01,37.12,Illumina MiSeq,Middlebrook agar,TruSeq DNA,27

@@ -1,0 +1,5 @@
+baseURL = "https://yourusername.github.io/lsi-website/"
+languageCode = "en-us"
+title = "Life Sciences Initiative at Tufts"
+theme = "gallery"
+canonifyURLs = true

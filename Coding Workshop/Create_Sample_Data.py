@@ -12,10 +12,10 @@ random.seed(42)
 # ------------------------------------------------------------------------------------------------
 
 # Configuration
-NUM_PATIENTS = 500
-OUTBREAK_CASES = 300
+NUM_PATIENTS = 800
+OUTBREAK_CASES = 600
 START_DATE = datetime(2025, 1, 1)
-DURATION = 180
+DURATION = 200
 NON_RESISTANT_RATE = 0.2 # 20% of background cases will be non-resistant 
 
 # --------------- PATHOGEN DATA ---------------
@@ -30,7 +30,7 @@ OUTBREAK_PATHOGEN = 'Mycobacterium tuberculosis var. bovis AF2122/97'
 
 # --------------- RESISTANCE GENE PROFILES ---------------
 RESISTANCE_GENES = {
-    'Mycobacterium tuberculosis var. bovis AF2122/97': ['aac(2\)-Ic'],
+    'Mycobacterium tuberculosis var. bovis AF2122/97': ['aac(2)-Ic'],
     'Escherichia coli': ['blaCTX-M', 'aac(3)-IIa'],
     'Klebsiella pneumoniae': ['blaKPC', 'blaOXA-48'],
     'Pseudomonas aeruginosa': ['mexA', 'oprD'],
@@ -68,6 +68,21 @@ Strain_Counters = {
     'MRSA': 1
 }
 
+
+# Simulate two-wave outbreak: peaks around day 45 and day 120
+Day_Weights = []
+for d in range(DURATION):
+    Wave1 = max(0, 80 - abs(d - 45))  # Peak at day 45
+    Wave2 = max(0, 100 - abs(d - 120))  # Peak at day 120
+    weight = Wave1 + Wave2
+    Day_Weights.append(weight if weight > 0 else 1)  # Ensure nonzero
+
+# Sample day with weighted probability
+OUTBREAK_DAY = random.choices(range(DURATION), weights=Day_Weights, k=1)[0]
+Collection_Date = START_DATE + timedelta(days = OUTBREAK_DAY)
+
+
+
 print('Processing Clinical and Laboratory Dataset .........')
 
 # Data generation
@@ -98,13 +113,18 @@ for i in tqdm(range(NUM_PATIENTS)):
         Diagnosis = 'Drug-resistant TB'
         Genes = RESISTANCE_GENES[OUTBREAK_PATHOGEN]
         MLST = 'ST42'
-        Collection_Date = START_DATE + timedelta(days=random.randint(0, DURATION))
+        Collection_Date = START_DATE + timedelta(days = OUTBREAK_DAY)
+
         Expression_Levels = {gene: round(random.uniform(450.0, 1000.0), 2) for gene in Genes}
         Strain_ID = 'bTB-R1'
 
     else:
         # Background infection
         Strain = random.choice(BACKGROUND_PATHOGENS)
+        # For background infections over a wide time window (before + during)
+        Offset = random.randint(-200, DURATION - 1)
+        Collection_Date = START_DATE + timedelta(days=Offset)
+
         Diagnosis = f'Infection - {Strain}'
         # Decide if its a non-resistant strain 
         Non_Resistant = random.random() < NON_RESISTANT_RATE
@@ -138,11 +158,11 @@ for i in tqdm(range(NUM_PATIENTS)):
             Num_Genes = random.randint(1, len(Available_Genes))
             Genes = random.sample(Available_Genes, Num_Genes)
         
-        Expression_Levels = {gene: round(random.uniform(10.0, 1000.0), 2) for gene in Genes}
+        Expression_Levels = {gene: round(random.uniform(10.0, 600.00), 2) for gene in Genes}
 
     Avg_Expression = sum(Expression_Levels.values()) / len(Expression_Levels)
     if Avg_Expression > 700:
-        Outcome = random.choices(OUTCOMES, weights=[0.3, 0.7, 0.1])[0]
+        Outcome = random.choices(OUTCOMES, weights=[0.2, 0.7, 0.1])[0]
     elif Avg_Expression > 500:
         Outcome = random.choices(OUTCOMES, weights=[0.10, 0.45, 0.45])[0]
     else:
@@ -150,7 +170,6 @@ for i in tqdm(range(NUM_PATIENTS)):
 
 
     MLST = f'ST{random.randint(10, 50)}'
-    Collection_Date = START_DATE - timedelta(days=random.randint(30, 300))
 
 
     Clinical_Data.append({ 
@@ -193,8 +212,8 @@ print('Laboratory Dataset saved as "Lab_Processing_Data.csv"')
 # Combined resistance protein sequences (FASTA format)
 print('Processing Resistance Data .........')
 Resistance_Data = {
-    "aac(2/)-Ic": (
-        ">aac(2/)-Ic | Mycobacterium tuberculosis variant bovis AF2122/97\n"
+    "aac(2)-Ic": (
+        ">aac(2)-Ic | Mycobacterium tuberculosis variant bovis AF2122/97\n"
         "MHTQVHTARLVHTADLDSETRQDIRQMVTGAFAGDFTETDWEHTLGGMHALIWHHGAIIAHAAVIQRRLIYRGNALRCGYVEGVAVRADWRGQRL"
         "VSALLDAVEQVMRGAYQLGALSSSARARRLYASRGWLPWHGPTSVLAPTGPVRTPDDDGTVFVLPIDISLDTSAELMCDWRAGDVW"
     ),
@@ -268,7 +287,7 @@ for Farm_ID in tqdm(FARMS):
             Test_Type = random.choice(TEST_TYPES)
             Test_Date = START_DATE - timedelta(days=random.randint(0, 60))
 
-            Gene_Tested = "aac(2/)-Ic"
+            Gene_Tested = "aac(2)-Ic"
             aac_Present = False
             Expression = None
             Cow_Strain_ID = None
@@ -334,8 +353,8 @@ for Farm_ID in tqdm(FARMS):
                 'Diagnosis': Diagnosis,
                 'Strain ID': Cow_Strain_ID,
                 'Gene Target Tested': Gene_Tested,
-                'aac(2/)-Ic Present': aac_Present,
-                'aac(2/)-Ic Expression': Expression,
+                'aac(2)-Ic Present': aac_Present,
+                'aac(2)-Ic Expression': Expression,
                 'Follow-up Needed': Follow_Up,
                 'Notes': Notes
                 })

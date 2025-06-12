@@ -99,8 +99,7 @@ for i in tqdm(range(NUM_PATIENTS)):
         Genes = RESISTANCE_GENES[OUTBREAK_PATHOGEN]
         MLST = 'ST42'
         Collection_Date = START_DATE + timedelta(days=random.randint(0, DURATION))
-        Outcome = random.choices(OUTCOMES, weights=[0.6, 0.3, 0.1])[0]  
-        Expression_Levels = {gene: round(random.uniform(10.0, 1000.0), 2) for gene in Genes}
+        Expression_Levels = {gene: round(random.uniform(450.0, 1000.0), 2) for gene in Genes}
         Strain_ID = 'bTB-R1'
 
     else:
@@ -114,7 +113,6 @@ for i in tqdm(range(NUM_PATIENTS)):
         if Non_Resistant: 
             Genes = [] 
             Expression_Levels = {} 
-            Outcome = random.choices(OUTCOMES, weights=[0.85, 0.1, 0.05])[0]
 
             Strain_ID = f"{Prefix}-{Strain_Counters[Prefix]}"
         else: 
@@ -139,16 +137,16 @@ for i in tqdm(range(NUM_PATIENTS)):
         else:
             Num_Genes = random.randint(1, len(Available_Genes))
             Genes = random.sample(Available_Genes, Num_Genes)
-
-        # Expression levels
+        
         Expression_Levels = {gene: round(random.uniform(10.0, 1000.0), 2) for gene in Genes}
-        Avg_Expression = sum(Expression_Levels.values()) / len(Expression_Levels)
-        if Avg_Expression > 800:
-            Outcome = random.choices(OUTCOMES, weights=[0.5, 0.4, 0.1])[0]
-        elif Avg_Expression > 500:
-            Outcome = random.choices(OUTCOMES, weights=[0.4, 0.4, 0.2])[0]
-        else:
-            Outcome = random.choices(OUTCOMES, weights=[0.7, 0.2, 0.1])[0]
+
+    Avg_Expression = sum(Expression_Levels.values()) / len(Expression_Levels)
+    if Avg_Expression > 700:
+        Outcome = random.choices(OUTCOMES, weights=[0.3, 0.7, 0.1])[0]
+    elif Avg_Expression > 500:
+        Outcome = random.choices(OUTCOMES, weights=[0.10, 0.45, 0.45])[0]
+    else:
+        Outcome = random.choices(OUTCOMES, weights=[0.7, 0.1, 0.2])[0]
 
 
     MLST = f'ST{random.randint(10, 50)}'
@@ -167,6 +165,7 @@ for i in tqdm(range(NUM_PATIENTS)):
     })
 
     Laboratory_Data.append({
+        'Patient ID': Patient_ID, 
         'Collection Date': Collection_Date, 
         'Sample Site': Sample_Site, 
         'Strain': Strain, 
@@ -275,12 +274,12 @@ for Farm_ID in tqdm(FARMS):
             Cow_Strain_ID = None
             Zoonotic_Risk = 'No'
 
-            # TB-positive? (10% chance)
-            TB_Postive = random.random() < 0.1
+            if Farm_ID in RESISTANT_TB_FARMS:
+                # TB-positive? (45% chance)
+                TB_Postive = random.random() < 0.45
 
-            # TB-positive logic
-            if TB_Postive:
-                if Farm_ID in RESISTANT_TB_FARMS:
+                # TB-positive logic
+                if TB_Postive:
 
                     # 60% get resistant gene
                     if random.random() < 0.6:
@@ -293,6 +292,8 @@ for Farm_ID in tqdm(FARMS):
                 else:
                     Cow_Strain_ID = 'bTB-WT'
             else:
+                # TB-positive? (5% chance)
+                TB_Postive = random.random() < 0.05
                 # Possible false-positive detection in healthy animals
                 if random.random() < 0.01:
                     aac_Present = True

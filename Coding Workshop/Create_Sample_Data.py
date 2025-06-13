@@ -13,7 +13,7 @@ random.seed(42)
 
 # Configuration
 NUM_PATIENTS = 800
-OUTBREAK_CASES = 600
+OUTBREAK_CASES = 700
 START_DATE = datetime(2025, 1, 1)
 DURATION = 200
 NON_RESISTANT_RATE = 0.2 # 20% of background cases will be non-resistant 
@@ -73,7 +73,7 @@ Strain_Counters = {
 Day_Weights = []
 for day in range(DURATION):
     Wave1 = max(0, 30 - abs(day - 45))  # Gradual rise/fall over 30 days before/after
-    Wave2 = max(0, 30 - abs(day - 120))
+    Wave2 = max(0, 60 - abs(day - 120))
     Total_Weight = Wave1 + Wave2
     Day_Weights.append(Total_Weight)
 
@@ -162,7 +162,7 @@ for i in tqdm(range(NUM_PATIENTS)):
             Num_Genes = random.randint(1, len(Available_Genes))
             Genes = random.sample(Available_Genes, Num_Genes)
         
-        Expression_Levels = {gene: round(random.uniform(10.0, 600.00), 2) for gene in Genes}
+        Expression_Levels = {gene: round(random.uniform(10.0, 300.00), 2) for gene in Genes}
 
     Avg_Expression = sum(Expression_Levels.values()) / len(Expression_Levels)
     if Avg_Expression > 700:

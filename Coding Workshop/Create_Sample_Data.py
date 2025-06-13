@@ -73,7 +73,7 @@ Strain_Counters = {
 Day_Weights = []
 for day in range(DURATION):
     Wave1 = max(0, 30 - abs(day - 45))  # Gradual rise/fall over 30 days before/after
-    Wave2 = max(0, 60 - abs(day - 120))
+    Wave2 = max(0, 45 - abs(day - 120))
     Total_Weight = Wave1 + Wave2
     Day_Weights.append(Total_Weight)
 

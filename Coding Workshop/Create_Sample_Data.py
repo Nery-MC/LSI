@@ -68,20 +68,22 @@ Strain_Counters = {
     'MRSA': 1
 }
 
-
+# ---------------------------------- OUTBREAK TIMING -----------------------------------
 # Simulate two-wave outbreak: peaks around day 45 and day 120
 Day_Weights = []
-for d in range(DURATION):
-    Wave1 = max(0, 80 - abs(d - 45))  # Peak at day 45
-    Wave2 = max(0, 100 - abs(d - 120))  # Peak at day 120
-    weight = Wave1 + Wave2
-    Day_Weights.append(weight if weight > 0 else 1)  # Ensure nonzero
+for day in range(DURATION):
+    Wave1 = max(0, 30 - abs(day - 45))  # Gradual rise/fall over 30 days before/after
+    Wave2 = max(0, 30 - abs(day - 120))
+    Total_Weight = Wave1 + Wave2
+    Day_Weights.append(Total_Weight)
 
-# Sample day with weighted probability
-OUTBREAK_DAY = random.choices(range(DURATION), weights=Day_Weights, k=1)[0]
-Collection_Date = START_DATE + timedelta(days = OUTBREAK_DAY)
-
-
+# Generate outbreak collection days for each outbreak case
+Outbreak_Collection_Days = random.choices(
+    population = range(DURATION),
+    weights = Day_Weights,
+    k = OUTBREAK_CASES
+)
+# ---------------------------------- DATA GENERATION -----------------------------------
 
 print('Processing Clinical and Laboratory Dataset .........')
 
@@ -91,6 +93,7 @@ Laboratory_Data = []
 
 # Randomly select indices for outbreak cases
 Random_Indicies = set(random.sample(range(NUM_PATIENTS), OUTBREAK_CASES))
+Outbreak_Day_Iterator = iter(Outbreak_Collection_Days)
 
 for i in tqdm(range(NUM_PATIENTS)):
     Patient_ID = 2200 + i
@@ -113,7 +116,8 @@ for i in tqdm(range(NUM_PATIENTS)):
         Diagnosis = 'Drug-resistant TB'
         Genes = RESISTANCE_GENES[OUTBREAK_PATHOGEN]
         MLST = 'ST42'
-        Collection_Date = START_DATE + timedelta(days = OUTBREAK_DAY)
+        Outbreak_Day = next(Outbreak_Day_Iterator)
+        Collection_Date = START_DATE + timedelta(days=Outbreak_Day)
 
         Expression_Levels = {gene: round(random.uniform(450.0, 1000.0), 2) for gene in Genes}
         Strain_ID = 'bTB-R1'
@@ -122,8 +126,8 @@ for i in tqdm(range(NUM_PATIENTS)):
         # Background infection
         Strain = random.choice(BACKGROUND_PATHOGENS)
         # For background infections over a wide time window (before + during)
-        Offset = random.randint(-200, DURATION - 1)
-        Collection_Date = START_DATE + timedelta(days=Offset)
+        Offset = random.randint(0, DURATION - 1)
+        Collection_Date = START_DATE + timedelta(days = Offset)
 
         Diagnosis = f'Infection - {Strain}'
         # Decide if its a non-resistant strain 

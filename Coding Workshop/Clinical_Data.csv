@@ -1,801 +1,801 @@
 Patient ID,Sex,Age,Unit,Diagnosis,Treatment,Outcome,Hospital_Duration
-2200,Female,75,ICU-2,Drug-resistant TB,Ethambutol,Deceased,33
-2201,Male,52,ICU-3,Drug-resistant TB,Isoniazid,Recovered,39
-2202,Female,71,ICU-1,Drug-resistant TB,Streptomycin,Recovered,58
-2203,Female,67,PCU,Drug-resistant TB,None,Recovered,39
-2204,Female,39,PCU,Drug-resistant TB,Kanamycin,Recovered,13
-2205,Male,24,ICU-3,Infection - Methicillin-Resistant Staphylococcus aureus,Rifampicin,Recovered,25
-2206,Male,49,ICU-2,Drug-resistant TB,Rifampicin,Deceased,44
-2207,Male,32,PCU,Drug-resistant TB,Isoniazid,Ongoing,24
-2208,Male,31,CCU,Infection - Pseudomonas aeruginosa,None,Ongoing,59
-2209,Male,73,ICU-2,Infection - Klebsiella pneumoniae,Kanamycin,Recovered,44
-2210,Female,51,ICU-3,Infection - Methicillin-Resistant Staphylococcus aureus,None,Recovered,43
-2211,Male,55,ICU-2,Drug-resistant TB,Rifampicin,Ongoing,49
-2212,Female,76,ICU-3,Drug-resistant TB,Rifampicin,Recovered,21
-2213,Female,53,CCU,Infection - Klebsiella pneumoniae,Rifampicin,Ongoing,11
-2214,Female,31,PCU,Drug-resistant TB,Ethambutol,Deceased,41
-2215,Female,80,ICU-1,Drug-resistant TB,Rifampicin,Deceased,14
-2216,Female,75,ED,Infection - Escherichia coli,Kanamycin,Recovered,60
-2217,Male,70,ED,Infection - Klebsiella pneumoniae,Isoniazid,Recovered,23
-2218,Female,36,ICU-1,Drug-resistant TB,Ethambutol,Deceased,15
-2219,Female,74,ICU-1,Drug-resistant TB,None,Deceased,32
-2220,Female,23,PCU,Drug-resistant TB,Kanamycin,Ongoing,35
-2221,Female,70,ICU-3,Drug-resistant TB,Isoniazid,Ongoing,47
-2222,Female,29,ICU-3,Drug-resistant TB,Isoniazid,Recovered,25
-2223,Female,74,PCU,Infection - Escherichia coli,Ethambutol,Recovered,18
-2224,Male,32,ED,Infection - Methicillin-Resistant Staphylococcus aureus,Rifampicin,Deceased,46
-2225,Female,82,ICU-3,Drug-resistant TB,None,Deceased,23
-2226,Female,76,ICU-3,Drug-resistant TB,Rifampicin,Deceased,49
-2227,Female,37,ED,Drug-resistant TB,Kanamycin,Recovered,13
-2228,Female,37,ICU-1,Infection - Methicillin-Resistant Staphylococcus aureus,Ethambutol,Recovered,55
-2229,Male,73,ICU-1,Drug-resistant TB,Rifampicin,Deceased,33
-2230,Female,41,ICU-2,Drug-resistant TB,Kanamycin,Ongoing,10
-2231,Female,19,PCU,Drug-resistant TB,None,Ongoing,23
-2232,Female,56,ICU-2,Drug-resistant TB,Streptomycin,Recovered,59
-2233,Female,19,Med-Surg,Infection - Klebsiella pneumoniae,None,Ongoing,43
-2234,Female,22,Med-Surg,Drug-resistant TB,Rifampicin,Deceased,51
-2235,Female,39,ICU-3,Drug-resistant TB,Ethambutol,Deceased,56
-2236,Female,29,PCU,Infection - Methicillin-Resistant Staphylococcus aureus,Ethambutol,Ongoing,5
-2237,Female,46,CCU,Drug-resistant TB,Streptomycin,Ongoing,45
-2238,Male,48,Med-Surg,Drug-resistant TB,Streptomycin,Recovered,29
-2239,Male,80,Med-Surg,Infection - Pseudomonas aeruginosa,Isoniazid,Ongoing,22
-2240,Male,45,CCU,Infection - Klebsiella pneumoniae,Ethambutol,Ongoing,8
-2241,Female,40,ICU-1,Drug-resistant TB,Isoniazid,Deceased,13
-2242,Male,78,ED,Infection - Pseudomonas aeruginosa,Kanamycin,Deceased,37
-2243,Female,74,ICU-1,Drug-resistant TB,Kanamycin,Deceased,25
-2244,Female,76,Med-Surg,Drug-resistant TB,None,Deceased,11
-2245,Female,61,PCU,Drug-resistant TB,Streptomycin,Deceased,30
-2246,Male,29,PCU,Drug-resistant TB,Streptomycin,Deceased,10
-2247,Male,70,ICU-3,Drug-resistant TB,None,Ongoing,60
-2248,Male,62,PCU,Drug-resistant TB,Ethambutol,Deceased,12
-2249,Male,52,ICU-1,Drug-resistant TB,None,Recovered,22
-2250,Male,29,CCU,Infection - Escherichia coli,Streptomycin,Recovered,29
-2251,Female,80,Med-Surg,Drug-resistant TB,Ethambutol,Deceased,31
-2252,Male,46,ED,Drug-resistant TB,Rifampicin,Deceased,5
-2253,Male,66,Med-Surg,Drug-resistant TB,Kanamycin,Ongoing,37
-2254,Female,69,CCU,Drug-resistant TB,Isoniazid,Ongoing,23
-2255,Female,31,ICU-2,Drug-resistant TB,Streptomycin,Deceased,42
-2256,Male,85,Med-Surg,Drug-resistant TB,Ethambutol,Deceased,54
-2257,Male,40,PCU,Drug-resistant TB,Kanamycin,Deceased,34
-2258,Female,37,ED,Infection - Pseudomonas aeruginosa,Streptomycin,Ongoing,35
-2259,Female,77,Med-Surg,Drug-resistant TB,Kanamycin,Recovered,33
-2260,Male,82,CCU,Drug-resistant TB,Rifampicin,Deceased,7
-2261,Female,24,PCU,Drug-resistant TB,Ethambutol,Ongoing,9
-2262,Female,28,Med-Surg,Drug-resistant TB,Ethambutol,Recovered,27
-2263,Male,85,ICU-1,Drug-resistant TB,Ethambutol,Recovered,37
-2264,Male,27,ICU-3,Infection - Klebsiella pneumoniae,Kanamycin,Ongoing,37
-2265,Female,23,ED,Drug-resistant TB,None,Deceased,48
-2266,Male,65,CCU,Drug-resistant TB,Ethambutol,Recovered,34
-2267,Male,79,PCU,Drug-resistant TB,Isoniazid,Deceased,40
-2268,Male,46,PCU,Drug-resistant TB,Isoniazid,Recovered,27
-2269,Male,60,PCU,Drug-resistant TB,Isoniazid,Recovered,13
-2270,Male,50,ICU-2,Drug-resistant TB,None,Deceased,40
-2271,Female,26,ICU-1,Drug-resistant TB,Kanamycin,Ongoing,43
-2272,Female,41,CCU,Drug-resistant TB,Ethambutol,Ongoing,38
-2273,Female,65,ICU-3,Drug-resistant TB,Isoniazid,Deceased,27
-2274,Female,61,PCU,Infection - Methicillin-Resistant Staphylococcus aureus,None,Ongoing,58
-2275,Female,78,ICU-3,Drug-resistant TB,None,Deceased,53
-2276,Female,69,CCU,Drug-resistant TB,Ethambutol,Recovered,29
-2277,Male,73,Med-Surg,Drug-resistant TB,Ethambutol,Deceased,39
-2278,Female,75,ICU-1,Infection - Klebsiella pneumoniae,Streptomycin,Recovered,44
-2279,Male,64,ICU-3,Drug-resistant TB,Isoniazid,Deceased,41
-2280,Female,68,ICU-3,Drug-resistant TB,Isoniazid,Ongoing,20
-2281,Male,54,CCU,Drug-resistant TB,Isoniazid,Recovered,17
-2282,Female,26,Med-Surg,Drug-resistant TB,Rifampicin,Ongoing,24
-2283,Male,81,ICU-1,Drug-resistant TB,Kanamycin,Ongoing,40
-2284,Female,70,PCU,Infection - Klebsiella pneumoniae,Ethambutol,Recovered,13
-2285,Female,46,ICU-3,Infection - Pseudomonas aeruginosa,Isoniazid,Recovered,59
-2286,Female,23,PCU,Drug-resistant TB,Isoniazid,Recovered,10
-2287,Female,56,ED,Drug-resistant TB,None,Deceased,56
-2288,Male,58,PCU,Infection - Methicillin-Resistant Staphylococcus aureus,Ethambutol,Recovered,51
-2289,Female,49,PCU,Drug-resistant TB,Ethambutol,Deceased,57
-2290,Female,20,ICU-1,Drug-resistant TB,Streptomycin,Deceased,37
-2291,Female,19,PCU,Drug-resistant TB,Rifampicin,Recovered,32
-2292,Female,27,ED,Infection - Methicillin-Resistant Staphylococcus aureus,Kanamycin,Recovered,53
-2293,Male,60,PCU,Drug-resistant TB,Streptomycin,Ongoing,38
-2294,Female,82,PCU,Drug-resistant TB,Kanamycin,Deceased,50
-2295,Male,78,ICU-3,Drug-resistant TB,Isoniazid,Recovered,51
-2296,Male,32,ICU-2,Drug-resistant TB,Ethambutol,Deceased,33
-2297,Male,84,ICU-2,Drug-resistant TB,Streptomycin,Deceased,47
-2298,Female,42,ICU-2,Drug-resistant TB,Ethambutol,Deceased,40
-2299,Female,33,Med-Surg,Drug-resistant TB,Ethambutol,Deceased,30
-2300,Male,43,PCU,Drug-resistant TB,None,Ongoing,40
-2301,Male,24,ICU-1,Drug-resistant TB,None,Recovered,26
-2302,Female,43,PCU,Drug-resistant TB,Ethambutol,Ongoing,25
-2303,Female,40,ICU-1,Drug-resistant TB,Streptomycin,Ongoing,55
-2304,Female,76,CCU,Drug-resistant TB,Kanamycin,Deceased,13
-2305,Male,61,PCU,Infection - Methicillin-Resistant Staphylococcus aureus,None,Deceased,41
-2306,Male,51,ED,Drug-resistant TB,Ethambutol,Deceased,33
-2307,Female,57,ICU-2,Drug-resistant TB,Kanamycin,Deceased,48
-2308,Female,37,ED,Drug-resistant TB,None,Ongoing,31
-2309,Female,85,CCU,Drug-resistant TB,Kanamycin,Deceased,9
-2310,Female,32,CCU,Infection - Methicillin-Resistant Staphylococcus aureus,Kanamycin,Recovered,50
-2311,Male,72,ICU-3,Drug-resistant TB,Isoniazid,Ongoing,39
-2312,Female,66,ED,Drug-resistant TB,Isoniazid,Deceased,29
-2313,Male,46,PCU,Drug-resistant TB,Isoniazid,Deceased,53
-2314,Male,53,ICU-2,Drug-resistant TB,None,Recovered,7
-2315,Male,23,ED,Drug-resistant TB,Kanamycin,Deceased,19
-2316,Female,48,ICU-3,Drug-resistant TB,Kanamycin,Ongoing,47
-2317,Female,81,ICU-1,Drug-resistant TB,None,Ongoing,46
-2318,Male,46,ICU-3,Drug-resistant TB,Streptomycin,Deceased,56
-2319,Male,75,PCU,Infection - Escherichia coli,Kanamycin,Ongoing,10
-2320,Male,45,ICU-2,Drug-resistant TB,Streptomycin,Deceased,52
-2321,Female,63,ICU-3,Drug-resistant TB,Kanamycin,Ongoing,28
-2322,Female,70,ICU-1,Drug-resistant TB,Rifampicin,Deceased,52
-2323,Female,49,ED,Drug-resistant TB,Streptomycin,Deceased,21
-2324,Female,41,Med-Surg,Infection - Klebsiella pneumoniae,Isoniazid,Recovered,38
-2325,Female,80,ICU-1,Drug-resistant TB,Kanamycin,Deceased,39
-2326,Male,31,ICU-1,Drug-resistant TB,Rifampicin,Ongoing,20
-2327,Male,46,ICU-3,Drug-resistant TB,None,Deceased,46
-2328,Female,73,CCU,Drug-resistant TB,Isoniazid,Deceased,41
-2329,Female,22,ICU-2,Infection - Klebsiella pneumoniae,Rifampicin,Ongoing,6
-2330,Female,24,ICU-1,Drug-resistant TB,Isoniazid,Ongoing,19
-2331,Female,47,ICU-3,Drug-resistant TB,Rifampicin,Deceased,32
-2332,Female,37,ED,Drug-resistant TB,Streptomycin,Deceased,52
-2333,Male,41,ED,Drug-resistant TB,Kanamycin,Deceased,40
-2334,Male,55,ED,Drug-resistant TB,Isoniazid,Deceased,54
-2335,Female,36,ICU-1,Drug-resistant TB,Ethambutol,Ongoing,32
-2336,Male,76,ICU-1,Drug-resistant TB,Isoniazid,Ongoing,24
-2337,Male,56,ICU-3,Infection - Klebsiella pneumoniae,Ethambutol,Ongoing,35
-2338,Male,77,CCU,Infection - Klebsiella pneumoniae,Ethambutol,Recovered,33
-2339,Female,22,PCU,Drug-resistant TB,Kanamycin,Ongoing,49
-2340,Female,60,PCU,Infection - Klebsiella pneumoniae,Isoniazid,Deceased,11
-2341,Female,28,ICU-1,Drug-resistant TB,Ethambutol,Ongoing,27
-2342,Male,56,ICU-1,Drug-resistant TB,Ethambutol,Deceased,6
-2343,Female,72,ED,Drug-resistant TB,Streptomycin,Deceased,56
-2344,Female,67,ICU-1,Drug-resistant TB,Ethambutol,Deceased,18
-2345,Female,80,Med-Surg,Drug-resistant TB,Streptomycin,Deceased,43
-2346,Male,35,ICU-3,Drug-resistant TB,Ethambutol,Deceased,20
-2347,Male,80,CCU,Drug-resistant TB,Rifampicin,Recovered,40
-2348,Female,35,ICU-2,Infection - Methicillin-Resistant Staphylococcus aureus,Kanamycin,Recovered,40
-2349,Female,39,PCU,Infection - Pseudomonas aeruginosa,None,Ongoing,41
-2350,Male,56,PCU,Infection - Klebsiella pneumoniae,Ethambutol,Ongoing,33
-2351,Female,53,Med-Surg,Drug-resistant TB,None,Deceased,25
-2352,Female,25,ICU-3,Drug-resistant TB,Rifampicin,Deceased,49
-2353,Female,71,ED,Drug-resistant TB,None,Ongoing,9
-2354,Male,29,CCU,Drug-resistant TB,None,Deceased,45
-2355,Female,54,ICU-3,Drug-resistant TB,Streptomycin,Recovered,41
-2356,Female,76,ICU-1,Drug-resistant TB,None,Deceased,17
-2357,Female,39,ICU-1,Drug-resistant TB,Ethambutol,Recovered,45
-2358,Male,84,CCU,Drug-resistant TB,Isoniazid,Recovered,5
-2359,Male,58,ICU-3,Drug-resistant TB,Streptomycin,Recovered,13
-2360,Male,37,ED,Drug-resistant TB,Rifampicin,Deceased,60
-2361,Male,53,CCU,Drug-resistant TB,Kanamycin,Ongoing,20
-2362,Male,84,Med-Surg,Infection - Methicillin-Resistant Staphylococcus aureus,Streptomycin,Deceased,52
-2363,Female,64,Med-Surg,Drug-resistant TB,Streptomycin,Ongoing,53
-2364,Female,82,PCU,Drug-resistant TB,None,Recovered,32
-2365,Male,59,ED,Drug-resistant TB,None,Ongoing,24
-2366,Female,40,ICU-1,Drug-resistant TB,Rifampicin,Deceased,50
-2367,Female,34,CCU,Drug-resistant TB,Isoniazid,Deceased,51
-2368,Female,83,ICU-3,Drug-resistant TB,Kanamycin,Recovered,36
-2369,Male,23,PCU,Drug-resistant TB,Isoniazid,Deceased,20
-2370,Male,59,ICU-2,Drug-resistant TB,Ethambutol,Recovered,51
-2371,Male,69,ICU-1,Drug-resistant TB,Ethambutol,Ongoing,60
-2372,Male,77,ICU-3,Infection - Klebsiella pneumoniae,Rifampicin,Recovered,54
-2373,Male,44,Med-Surg,Infection - Methicillin-Resistant Staphylococcus aureus,Streptomycin,Recovered,31
-2374,Male,25,ED,Infection - Methicillin-Resistant Staphylococcus aureus,Ethambutol,Recovered,20
-2375,Female,70,ICU-1,Drug-resistant TB,Rifampicin,Deceased,54
-2376,Male,45,PCU,Drug-resistant TB,Isoniazid,Ongoing,14
-2377,Female,75,Med-Surg,Infection - Klebsiella pneumoniae,Streptomycin,Ongoing,11
-2378,Male,43,CCU,Drug-resistant TB,Rifampicin,Deceased,56
-2379,Female,21,ED,Drug-resistant TB,Ethambutol,Deceased,16
-2380,Female,70,Med-Surg,Infection - Klebsiella pneumoniae,Isoniazid,Recovered,8
-2381,Female,62,Med-Surg,Drug-resistant TB,Ethambutol,Recovered,29
-2382,Female,47,ICU-2,Drug-resistant TB,None,Ongoing,20
-2383,Female,63,PCU,Drug-resistant TB,Rifampicin,Deceased,16
-2384,Male,42,PCU,Drug-resistant TB,Ethambutol,Recovered,39
-2385,Male,34,ICU-3,Infection - Escherichia coli,Ethambutol,Ongoing,56
-2386,Female,58,ICU-2,Drug-resistant TB,None,Recovered,19
-2387,Female,22,ICU-2,Drug-resistant TB,Kanamycin,Deceased,56
-2388,Male,29,PCU,Infection - Escherichia coli,Isoniazid,Deceased,33
-2389,Female,66,ICU-1,Drug-resistant TB,Kanamycin,Recovered,55
-2390,Male,27,ICU-3,Infection - Methicillin-Resistant Staphylococcus aureus,Rifampicin,Recovered,29
-2391,Male,70,CCU,Infection - Methicillin-Resistant Staphylococcus aureus,Ethambutol,Ongoing,47
-2392,Female,43,ICU-1,Drug-resistant TB,Rifampicin,Deceased,18
-2393,Male,67,ICU-2,Drug-resistant TB,Ethambutol,Deceased,29
-2394,Male,28,CCU,Drug-resistant TB,Kanamycin,Ongoing,56
-2395,Male,78,ICU-3,Drug-resistant TB,None,Recovered,30
-2396,Male,39,ICU-2,Drug-resistant TB,Isoniazid,Ongoing,13
-2397,Male,29,ED,Drug-resistant TB,Ethambutol,Deceased,40
-2398,Male,71,ICU-2,Infection - Pseudomonas aeruginosa,Kanamycin,Recovered,41
-2399,Male,68,ICU-3,Drug-resistant TB,None,Ongoing,8
-2400,Male,35,ICU-3,Infection - Klebsiella pneumoniae,Ethambutol,Recovered,54
-2401,Male,40,ICU-2,Infection - Pseudomonas aeruginosa,Isoniazid,Recovered,58
-2402,Male,78,Med-Surg,Drug-resistant TB,Rifampicin,Ongoing,27
-2403,Male,46,CCU,Drug-resistant TB,None,Ongoing,22
-2404,Male,46,ICU-3,Drug-resistant TB,None,Deceased,50
-2405,Female,31,ICU-1,Drug-resistant TB,None,Deceased,40
-2406,Female,51,CCU,Drug-resistant TB,Rifampicin,Deceased,17
-2407,Male,81,ICU-3,Drug-resistant TB,Streptomycin,Ongoing,31
-2408,Female,63,Med-Surg,Drug-resistant TB,Rifampicin,Ongoing,59
-2409,Female,29,ICU-2,Drug-resistant TB,None,Deceased,19
-2410,Male,78,ICU-2,Drug-resistant TB,None,Deceased,60
-2411,Female,36,ICU-3,Drug-resistant TB,Isoniazid,Deceased,54
-2412,Male,80,PCU,Infection - Escherichia coli,Kanamycin,Recovered,13
-2413,Male,49,ICU-2,Infection - Escherichia coli,Rifampicin,Recovered,24
-2414,Male,69,ICU-1,Drug-resistant TB,None,Ongoing,19
-2415,Female,50,PCU,Drug-resistant TB,Isoniazid,Deceased,43
-2416,Female,78,CCU,Drug-resistant TB,None,Deceased,18
-2417,Female,31,Med-Surg,Drug-resistant TB,Isoniazid,Deceased,23
-2418,Female,38,ICU-1,Drug-resistant TB,None,Ongoing,18
-2419,Male,29,PCU,Drug-resistant TB,None,Recovered,51
-2420,Male,55,ICU-3,Drug-resistant TB,None,Deceased,32
-2421,Female,29,ICU-3,Infection - Methicillin-Resistant Staphylococcus aureus,Isoniazid,Recovered,16
-2422,Male,71,Med-Surg,Drug-resistant TB,Kanamycin,Recovered,56
-2423,Female,80,ICU-1,Drug-resistant TB,Isoniazid,Deceased,33
-2424,Male,61,Med-Surg,Drug-resistant TB,None,Ongoing,32
-2425,Male,19,CCU,Drug-resistant TB,Streptomycin,Recovered,37
-2426,Female,69,PCU,Drug-resistant TB,Streptomycin,Deceased,10
-2427,Male,69,ED,Drug-resistant TB,Kanamycin,Deceased,40
-2428,Female,64,PCU,Drug-resistant TB,Rifampicin,Deceased,57
-2429,Male,46,ICU-1,Infection - Klebsiella pneumoniae,None,Ongoing,27
-2430,Male,76,PCU,Drug-resistant TB,Ethambutol,Ongoing,50
-2431,Male,81,ICU-1,Infection - Klebsiella pneumoniae,Streptomycin,Recovered,40
-2432,Female,49,ICU-3,Infection - Pseudomonas aeruginosa,Ethambutol,Deceased,26
-2433,Male,40,Med-Surg,Drug-resistant TB,Isoniazid,Ongoing,50
-2434,Female,72,PCU,Drug-resistant TB,Isoniazid,Recovered,38
-2435,Female,36,PCU,Drug-resistant TB,Ethambutol,Deceased,49
-2436,Female,48,Med-Surg,Infection - Pseudomonas aeruginosa,None,Ongoing,49
-2437,Male,42,ICU-3,Infection - Methicillin-Resistant Staphylococcus aureus,None,Recovered,16
-2438,Male,37,ICU-3,Drug-resistant TB,None,Deceased,54
-2439,Male,41,Med-Surg,Infection - Klebsiella pneumoniae,Kanamycin,Ongoing,55
-2440,Male,62,ED,Drug-resistant TB,Kanamycin,Recovered,46
-2441,Female,21,Med-Surg,Infection - Escherichia coli,Kanamycin,Recovered,37
-2442,Female,31,ICU-2,Drug-resistant TB,Isoniazid,Recovered,46
-2443,Male,47,ICU-3,Drug-resistant TB,Streptomycin,Deceased,29
-2444,Male,23,CCU,Drug-resistant TB,Kanamycin,Deceased,27
-2445,Female,38,Med-Surg,Drug-resistant TB,None,Ongoing,13
-2446,Male,36,ICU-1,Drug-resistant TB,Kanamycin,Ongoing,5
-2447,Male,70,CCU,Infection - Escherichia coli,Rifampicin,Recovered,15
-2448,Female,34,CCU,Drug-resistant TB,Ethambutol,Deceased,11
-2449,Female,58,ED,Drug-resistant TB,Ethambutol,Ongoing,5
-2450,Female,77,ED,Drug-resistant TB,Ethambutol,Ongoing,54
-2451,Male,51,CCU,Drug-resistant TB,Isoniazid,Deceased,51
-2452,Female,78,CCU,Drug-resistant TB,Streptomycin,Deceased,28
-2453,Male,48,PCU,Drug-resistant TB,Kanamycin,Recovered,53
-2454,Female,23,ICU-2,Drug-resistant TB,Isoniazid,Deceased,19
-2455,Male,23,CCU,Drug-resistant TB,None,Deceased,11
-2456,Female,27,Med-Surg,Infection - Methicillin-Resistant Staphylococcus aureus,Rifampicin,Recovered,29
-2457,Male,37,ICU-2,Drug-resistant TB,Kanamycin,Ongoing,28
-2458,Male,38,CCU,Drug-resistant TB,Rifampicin,Recovered,6
-2459,Male,51,ICU-2,Drug-resistant TB,Kanamycin,Recovered,43
-2460,Female,39,ICU-2,Drug-resistant TB,Rifampicin,Ongoing,43
-2461,Male,47,ED,Drug-resistant TB,Isoniazid,Deceased,13
-2462,Female,22,PCU,Infection - Methicillin-Resistant Staphylococcus aureus,Streptomycin,Recovered,10
-2463,Male,72,ICU-2,Infection - Escherichia coli,Rifampicin,Recovered,35
-2464,Female,70,ICU-3,Infection - Pseudomonas aeruginosa,Streptomycin,Recovered,14
-2465,Female,79,ICU-3,Infection - Klebsiella pneumoniae,Ethambutol,Deceased,41
-2466,Male,38,ED,Drug-resistant TB,Isoniazid,Ongoing,56
-2467,Female,84,ICU-3,Drug-resistant TB,Rifampicin,Deceased,54
-2468,Male,39,CCU,Drug-resistant TB,Rifampicin,Deceased,28
-2469,Male,84,ICU-1,Drug-resistant TB,Kanamycin,Deceased,10
-2470,Female,69,Med-Surg,Drug-resistant TB,Rifampicin,Deceased,21
-2471,Female,74,ED,Drug-resistant TB,Rifampicin,Deceased,54
-2472,Male,47,PCU,Infection - Escherichia coli,Ethambutol,Recovered,31
-2473,Female,41,CCU,Drug-resistant TB,None,Deceased,36
-2474,Female,37,PCU,Drug-resistant TB,Isoniazid,Deceased,12
-2475,Female,81,Med-Surg,Drug-resistant TB,Rifampicin,Deceased,36
-2476,Male,82,ICU-3,Drug-resistant TB,None,Recovered,60
-2477,Male,59,ICU-3,Infection - Klebsiella pneumoniae,Kanamycin,Recovered,16
-2478,Male,30,CCU,Drug-resistant TB,Rifampicin,Ongoing,56
-2479,Female,81,ICU-2,Drug-resistant TB,Streptomycin,Recovered,55
-2480,Female,30,ED,Infection - Methicillin-Resistant Staphylococcus aureus,Ethambutol,Deceased,21
-2481,Female,75,ICU-1,Drug-resistant TB,Ethambutol,Ongoing,44
-2482,Female,27,ICU-1,Drug-resistant TB,Rifampicin,Ongoing,26
-2483,Female,70,ICU-2,Drug-resistant TB,Isoniazid,Deceased,59
-2484,Male,30,ICU-1,Drug-resistant TB,Isoniazid,Recovered,40
-2485,Female,47,ICU-2,Drug-resistant TB,None,Ongoing,33
-2486,Female,52,Med-Surg,Drug-resistant TB,None,Deceased,13
-2487,Female,62,ED,Drug-resistant TB,Isoniazid,Ongoing,56
-2488,Female,54,ED,Drug-resistant TB,Streptomycin,Recovered,49
-2489,Male,70,Med-Surg,Drug-resistant TB,Rifampicin,Deceased,30
-2490,Female,54,CCU,Infection - Methicillin-Resistant Staphylococcus aureus,Rifampicin,Recovered,31
-2491,Female,52,ICU-2,Drug-resistant TB,Isoniazid,Ongoing,51
-2492,Female,22,ICU-3,Drug-resistant TB,Rifampicin,Deceased,58
-2493,Male,33,PCU,Infection - Klebsiella pneumoniae,Streptomycin,Recovered,29
-2494,Female,43,ICU-3,Infection - Pseudomonas aeruginosa,None,Ongoing,60
-2495,Male,65,PCU,Drug-resistant TB,Rifampicin,Recovered,20
-2496,Male,31,ICU-2,Drug-resistant TB,Ethambutol,Recovered,19
-2497,Female,23,ED,Drug-resistant TB,Ethambutol,Deceased,40
-2498,Male,26,Med-Surg,Drug-resistant TB,Ethambutol,Deceased,33
-2499,Female,48,ICU-3,Drug-resistant TB,Kanamycin,Deceased,47
-2500,Male,30,Med-Surg,Drug-resistant TB,Rifampicin,Deceased,7
-2501,Female,24,ICU-3,Infection - Escherichia coli,None,Recovered,43
-2502,Male,52,Med-Surg,Infection - Klebsiella pneumoniae,Isoniazid,Ongoing,51
-2503,Female,31,PCU,Drug-resistant TB,Streptomycin,Deceased,48
-2504,Female,63,ICU-3,Drug-resistant TB,Ethambutol,Deceased,59
-2505,Female,64,ED,Drug-resistant TB,Isoniazid,Recovered,30
-2506,Male,58,ICU-1,Drug-resistant TB,Kanamycin,Deceased,40
-2507,Male,47,ICU-3,Infection - Methicillin-Resistant Staphylococcus aureus,Kanamycin,Ongoing,10
-2508,Male,25,PCU,Drug-resistant TB,Streptomycin,Deceased,27
-2509,Male,57,Med-Surg,Drug-resistant TB,Kanamycin,Ongoing,25
-2510,Male,46,ED,Drug-resistant TB,Streptomycin,Deceased,55
-2511,Female,34,PCU,Drug-resistant TB,Kanamycin,Deceased,35
-2512,Male,52,PCU,Infection - Klebsiella pneumoniae,None,Recovered,25
-2513,Female,23,PCU,Drug-resistant TB,None,Ongoing,17
-2514,Female,19,ICU-3,Drug-resistant TB,Streptomycin,Deceased,24
-2515,Female,36,CCU,Infection - Pseudomonas aeruginosa,Kanamycin,Recovered,29
-2516,Male,20,ICU-3,Drug-resistant TB,Streptomycin,Recovered,19
-2517,Female,20,ICU-1,Drug-resistant TB,Ethambutol,Ongoing,38
-2518,Female,25,CCU,Drug-resistant TB,Isoniazid,Ongoing,29
-2519,Male,71,ICU-2,Drug-resistant TB,Ethambutol,Deceased,32
-2520,Male,57,CCU,Drug-resistant TB,Rifampicin,Recovered,32
-2521,Male,58,ED,Drug-resistant TB,Streptomycin,Recovered,24
-2522,Female,47,Med-Surg,Drug-resistant TB,None,Deceased,19
-2523,Male,67,ED,Drug-resistant TB,Rifampicin,Deceased,13
-2524,Male,26,ICU-2,Drug-resistant TB,Kanamycin,Recovered,60
-2525,Female,68,Med-Surg,Infection - Methicillin-Resistant Staphylococcus aureus,Isoniazid,Recovered,38
-2526,Female,39,ED,Drug-resistant TB,Isoniazid,Recovered,44
-2527,Male,68,ED,Drug-resistant TB,Isoniazid,Deceased,33
-2528,Male,29,ICU-1,Drug-resistant TB,Ethambutol,Recovered,45
-2529,Female,23,PCU,Drug-resistant TB,Kanamycin,Recovered,26
-2530,Female,41,ICU-1,Drug-resistant TB,Isoniazid,Deceased,17
-2531,Male,45,Med-Surg,Drug-resistant TB,Streptomycin,Ongoing,34
-2532,Male,41,ICU-2,Drug-resistant TB,Ethambutol,Recovered,46
-2533,Female,40,ICU-2,Drug-resistant TB,None,Deceased,44
-2534,Male,56,ICU-3,Drug-resistant TB,Isoniazid,Deceased,29
-2535,Male,44,Med-Surg,Drug-resistant TB,Kanamycin,Ongoing,11
-2536,Female,58,ICU-3,Drug-resistant TB,Kanamycin,Ongoing,13
-2537,Male,18,ICU-1,Drug-resistant TB,None,Recovered,34
-2538,Male,19,CCU,Drug-resistant TB,Ethambutol,Recovered,49
-2539,Female,21,PCU,Drug-resistant TB,Ethambutol,Deceased,17
-2540,Female,77,PCU,Drug-resistant TB,Isoniazid,Recovered,52
-2541,Female,26,ICU-2,Drug-resistant TB,Isoniazid,Ongoing,58
-2542,Female,22,ICU-3,Drug-resistant TB,Streptomycin,Deceased,10
-2543,Male,29,ED,Drug-resistant TB,Streptomycin,Deceased,56
-2544,Male,84,CCU,Drug-resistant TB,None,Recovered,18
-2545,Male,60,ED,Drug-resistant TB,Kanamycin,Deceased,11
-2546,Female,53,Med-Surg,Drug-resistant TB,Streptomycin,Deceased,54
-2547,Male,62,Med-Surg,Drug-resistant TB,Rifampicin,Deceased,22
-2548,Male,21,ED,Drug-resistant TB,Streptomycin,Deceased,11
-2549,Female,57,ICU-3,Drug-resistant TB,None,Deceased,50
-2550,Female,77,ED,Drug-resistant TB,Rifampicin,Ongoing,19
-2551,Female,80,ICU-1,Drug-resistant TB,Isoniazid,Recovered,35
-2552,Female,31,ICU-3,Drug-resistant TB,Ethambutol,Ongoing,55
-2553,Male,61,ICU-2,Drug-resistant TB,Streptomycin,Ongoing,55
-2554,Female,32,Med-Surg,Infection - Escherichia coli,Kanamycin,Recovered,25
-2555,Male,36,CCU,Infection - Pseudomonas aeruginosa,Kanamycin,Recovered,33
-2556,Female,34,PCU,Drug-resistant TB,Ethambutol,Deceased,8
-2557,Male,73,CCU,Infection - Klebsiella pneumoniae,Ethambutol,Recovered,45
-2558,Male,27,CCU,Infection - Methicillin-Resistant Staphylococcus aureus,None,Recovered,14
-2559,Male,41,ED,Infection - Pseudomonas aeruginosa,Streptomycin,Deceased,41
-2560,Female,77,Med-Surg,Drug-resistant TB,Kanamycin,Recovered,38
-2561,Female,24,ICU-3,Drug-resistant TB,Streptomycin,Deceased,35
-2562,Male,56,CCU,Drug-resistant TB,None,Deceased,8
-2563,Female,28,ICU-2,Drug-resistant TB,Ethambutol,Deceased,59
-2564,Male,75,ICU-3,Drug-resistant TB,None,Ongoing,21
-2565,Male,81,PCU,Infection - Pseudomonas aeruginosa,Streptomycin,Recovered,54
-2566,Female,47,ED,Drug-resistant TB,Ethambutol,Deceased,35
-2567,Male,30,Med-Surg,Drug-resistant TB,Streptomycin,Ongoing,59
-2568,Male,42,Med-Surg,Infection - Escherichia coli,None,Deceased,48
-2569,Male,22,ICU-1,Drug-resistant TB,Kanamycin,Recovered,8
-2570,Male,32,CCU,Drug-resistant TB,Ethambutol,Deceased,21
-2571,Female,38,PCU,Drug-resistant TB,Isoniazid,Recovered,22
-2572,Female,40,CCU,Drug-resistant TB,Rifampicin,Recovered,11
-2573,Male,50,PCU,Drug-resistant TB,Streptomycin,Ongoing,6
-2574,Male,83,CCU,Infection - Methicillin-Resistant Staphylococcus aureus,Streptomycin,Ongoing,35
-2575,Female,61,ICU-1,Infection - Klebsiella pneumoniae,Ethambutol,Recovered,53
-2576,Male,21,CCU,Infection - Methicillin-Resistant Staphylococcus aureus,Streptomycin,Recovered,36
-2577,Male,84,ED,Infection - Methicillin-Resistant Staphylococcus aureus,Kanamycin,Recovered,52
-2578,Male,76,Med-Surg,Drug-resistant TB,Kanamycin,Recovered,58
-2579,Female,59,ICU-1,Drug-resistant TB,Rifampicin,Recovered,25
-2580,Male,74,ICU-2,Drug-resistant TB,Isoniazid,Recovered,13
-2581,Female,71,CCU,Infection - Klebsiella pneumoniae,Rifampicin,Recovered,49
-2582,Male,64,PCU,Drug-resistant TB,None,Ongoing,34
-2583,Female,40,ICU-2,Infection - Methicillin-Resistant Staphylococcus aureus,None,Recovered,8
-2584,Male,27,ICU-2,Drug-resistant TB,Kanamycin,Deceased,42
-2585,Male,70,PCU,Infection - Klebsiella pneumoniae,Rifampicin,Recovered,29
-2586,Male,60,ICU-2,Infection - Klebsiella pneumoniae,Kanamycin,Ongoing,49
-2587,Male,29,ED,Drug-resistant TB,Rifampicin,Deceased,60
-2588,Male,37,Med-Surg,Drug-resistant TB,Isoniazid,Ongoing,31
-2589,Female,81,ICU-2,Drug-resistant TB,Isoniazid,Ongoing,40
-2590,Female,57,ICU-2,Drug-resistant TB,Kanamycin,Recovered,59
-2591,Female,18,PCU,Infection - Klebsiella pneumoniae,None,Recovered,29
-2592,Male,32,ED,Infection - Klebsiella pneumoniae,Kanamycin,Ongoing,34
-2593,Male,46,ICU-3,Infection - Methicillin-Resistant Staphylococcus aureus,Kanamycin,Recovered,22
-2594,Female,65,PCU,Drug-resistant TB,Streptomycin,Recovered,17
-2595,Male,81,ICU-2,Infection - Pseudomonas aeruginosa,None,Ongoing,38
-2596,Female,70,Med-Surg,Drug-resistant TB,None,Deceased,46
-2597,Female,39,PCU,Drug-resistant TB,Streptomycin,Ongoing,19
-2598,Female,41,ICU-2,Drug-resistant TB,Rifampicin,Ongoing,15
-2599,Female,62,ICU-2,Drug-resistant TB,Kanamycin,Recovered,33
-2600,Female,37,ICU-1,Infection - Klebsiella pneumoniae,None,Recovered,46
-2601,Male,69,Med-Surg,Infection - Klebsiella pneumoniae,Ethambutol,Ongoing,33
-2602,Female,42,ED,Drug-resistant TB,Kanamycin,Deceased,43
-2603,Female,62,ICU-3,Infection - Methicillin-Resistant Staphylococcus aureus,Kanamycin,Recovered,33
-2604,Female,85,ICU-3,Infection - Methicillin-Resistant Staphylococcus aureus,Streptomycin,Deceased,42
-2605,Male,56,PCU,Drug-resistant TB,Kanamycin,Ongoing,36
-2606,Female,33,CCU,Infection - Methicillin-Resistant Staphylococcus aureus,Rifampicin,Recovered,31
-2607,Female,83,CCU,Drug-resistant TB,Ethambutol,Deceased,59
-2608,Female,71,CCU,Drug-resistant TB,Ethambutol,Deceased,8
-2609,Male,59,PCU,Drug-resistant TB,None,Deceased,57
-2610,Male,84,ICU-3,Drug-resistant TB,Streptomycin,Deceased,54
-2611,Male,71,ED,Infection - Methicillin-Resistant Staphylococcus aureus,Rifampicin,Ongoing,12
-2612,Male,36,CCU,Drug-resistant TB,Rifampicin,Deceased,24
-2613,Male,43,ICU-1,Drug-resistant TB,None,Recovered,55
-2614,Male,44,Med-Surg,Drug-resistant TB,None,Deceased,16
-2615,Male,82,Med-Surg,Infection - Escherichia coli,Kanamycin,Recovered,11
-2616,Male,41,PCU,Drug-resistant TB,Streptomycin,Deceased,29
-2617,Female,64,CCU,Drug-resistant TB,None,Deceased,40
-2618,Male,70,ICU-3,Drug-resistant TB,Isoniazid,Deceased,17
-2619,Male,33,ICU-2,Infection - Pseudomonas aeruginosa,None,Recovered,30
-2620,Female,69,ICU-3,Drug-resistant TB,Kanamycin,Deceased,47
-2621,Male,21,ICU-1,Drug-resistant TB,Isoniazid,Ongoing,58
-2622,Male,84,PCU,Drug-resistant TB,Streptomycin,Ongoing,55
-2623,Male,22,ED,Infection - Pseudomonas aeruginosa,Streptomycin,Recovered,29
-2624,Female,78,Med-Surg,Infection - Pseudomonas aeruginosa,Isoniazid,Recovered,37
-2625,Male,61,ED,Drug-resistant TB,Ethambutol,Deceased,32
-2626,Female,32,ICU-3,Drug-resistant TB,Kanamycin,Deceased,6
-2627,Male,58,ED,Drug-resistant TB,Kanamycin,Deceased,25
-2628,Male,56,ICU-3,Drug-resistant TB,Streptomycin,Deceased,17
-2629,Male,30,Med-Surg,Drug-resistant TB,Isoniazid,Deceased,22
-2630,Female,58,ICU-2,Drug-resistant TB,Ethambutol,Deceased,30
-2631,Female,45,CCU,Infection - Klebsiella pneumoniae,None,Ongoing,22
-2632,Female,26,CCU,Drug-resistant TB,Streptomycin,Deceased,59
-2633,Male,49,PCU,Drug-resistant TB,Streptomycin,Recovered,34
-2634,Male,23,CCU,Drug-resistant TB,Isoniazid,Deceased,55
-2635,Female,35,ICU-2,Drug-resistant TB,None,Deceased,41
-2636,Male,33,PCU,Drug-resistant TB,Kanamycin,Deceased,26
-2637,Female,70,ICU-3,Infection - Klebsiella pneumoniae,Kanamycin,Ongoing,36
-2638,Male,24,CCU,Drug-resistant TB,Kanamycin,Deceased,21
-2639,Female,67,ICU-1,Infection - Methicillin-Resistant Staphylococcus aureus,Ethambutol,Ongoing,21
-2640,Female,60,CCU,Infection - Pseudomonas aeruginosa,Isoniazid,Recovered,57
-2641,Male,57,ICU-3,Drug-resistant TB,Rifampicin,Deceased,12
-2642,Female,79,PCU,Drug-resistant TB,Rifampicin,Deceased,21
-2643,Male,20,ICU-1,Infection - Methicillin-Resistant Staphylococcus aureus,Streptomycin,Recovered,10
-2644,Female,76,PCU,Drug-resistant TB,Rifampicin,Deceased,12
-2645,Female,44,Med-Surg,Drug-resistant TB,Ethambutol,Ongoing,57
-2646,Female,49,ICU-3,Infection - Methicillin-Resistant Staphylococcus aureus,Isoniazid,Recovered,10
-2647,Female,63,Med-Surg,Drug-resistant TB,Ethambutol,Ongoing,5
-2648,Male,51,ICU-2,Drug-resistant TB,Streptomycin,Recovered,26
-2649,Female,53,CCU,Drug-resistant TB,Ethambutol,Ongoing,32
-2650,Female,24,ICU-2,Drug-resistant TB,Rifampicin,Ongoing,8
-2651,Male,74,ICU-3,Drug-resistant TB,Streptomycin,Ongoing,34
-2652,Female,45,Med-Surg,Infection - Pseudomonas aeruginosa,Kanamycin,Ongoing,38
-2653,Female,37,ICU-1,Drug-resistant TB,None,Ongoing,34
-2654,Female,59,CCU,Infection - Methicillin-Resistant Staphylococcus aureus,Isoniazid,Recovered,18
-2655,Male,67,PCU,Drug-resistant TB,None,Deceased,23
-2656,Male,63,CCU,Drug-resistant TB,Ethambutol,Deceased,58
-2657,Female,41,ED,Drug-resistant TB,Isoniazid,Deceased,10
-2658,Male,55,ED,Infection - Methicillin-Resistant Staphylococcus aureus,Streptomycin,Recovered,10
-2659,Female,63,ICU-3,Drug-resistant TB,Kanamycin,Recovered,54
-2660,Female,58,Med-Surg,Drug-resistant TB,None,Deceased,53
-2661,Female,31,ED,Drug-resistant TB,Streptomycin,Ongoing,5
-2662,Female,56,Med-Surg,Drug-resistant TB,None,Recovered,49
-2663,Male,21,ICU-2,Infection - Klebsiella pneumoniae,Rifampicin,Deceased,46
-2664,Female,78,ICU-1,Drug-resistant TB,Rifampicin,Recovered,42
-2665,Female,81,CCU,Drug-resistant TB,Streptomycin,Deceased,7
-2666,Male,85,ICU-1,Drug-resistant TB,Ethambutol,Ongoing,41
-2667,Female,73,ICU-1,Infection - Pseudomonas aeruginosa,None,Recovered,23
-2668,Female,38,Med-Surg,Drug-resistant TB,None,Recovered,23
-2669,Female,56,ICU-2,Drug-resistant TB,Isoniazid,Deceased,40
-2670,Female,73,ICU-1,Drug-resistant TB,Kanamycin,Deceased,12
-2671,Male,24,ED,Drug-resistant TB,Isoniazid,Deceased,58
-2672,Male,44,ICU-3,Drug-resistant TB,Ethambutol,Deceased,51
-2673,Male,43,ED,Drug-resistant TB,Isoniazid,Ongoing,54
-2674,Male,37,PCU,Drug-resistant TB,Rifampicin,Deceased,55
-2675,Male,74,ICU-2,Infection - Methicillin-Resistant Staphylococcus aureus,Kanamycin,Recovered,50
-2676,Female,71,ED,Drug-resistant TB,None,Deceased,51
-2677,Male,74,CCU,Drug-resistant TB,None,Deceased,56
-2678,Female,45,ICU-1,Drug-resistant TB,Ethambutol,Ongoing,38
-2679,Female,82,ICU-1,Drug-resistant TB,Ethambutol,Deceased,58
-2680,Male,76,ICU-3,Drug-resistant TB,None,Deceased,56
-2681,Female,35,CCU,Drug-resistant TB,None,Recovered,38
-2682,Female,28,ICU-1,Drug-resistant TB,Rifampicin,Deceased,32
-2683,Female,81,CCU,Infection - Methicillin-Resistant Staphylococcus aureus,None,Recovered,33
-2684,Female,33,Med-Surg,Drug-resistant TB,Isoniazid,Deceased,12
-2685,Female,21,PCU,Drug-resistant TB,Kanamycin,Recovered,14
-2686,Female,26,PCU,Drug-resistant TB,Streptomycin,Deceased,31
-2687,Male,35,Med-Surg,Infection - Methicillin-Resistant Staphylococcus aureus,Streptomycin,Recovered,53
-2688,Male,57,Med-Surg,Infection - Klebsiella pneumoniae,Kanamycin,Ongoing,46
-2689,Male,49,PCU,Drug-resistant TB,Kanamycin,Recovered,10
-2690,Male,85,ICU-3,Drug-resistant TB,Isoniazid,Recovered,21
-2691,Male,25,Med-Surg,Drug-resistant TB,Isoniazid,Deceased,16
-2692,Male,43,ICU-2,Drug-resistant TB,Kanamycin,Deceased,36
-2693,Male,20,ICU-3,Drug-resistant TB,Kanamycin,Deceased,20
-2694,Female,39,PCU,Drug-resistant TB,Streptomycin,Deceased,39
-2695,Male,25,ED,Drug-resistant TB,Ethambutol,Recovered,43
-2696,Male,56,ICU-1,Infection - Pseudomonas aeruginosa,Isoniazid,Recovered,49
-2697,Female,20,CCU,Drug-resistant TB,Isoniazid,Deceased,46
-2698,Female,28,PCU,Drug-resistant TB,Isoniazid,Deceased,39
-2699,Male,33,ED,Drug-resistant TB,Streptomycin,Recovered,17
-2700,Female,46,ICU-2,Drug-resistant TB,Isoniazid,Deceased,28
-2701,Female,82,ED,Infection - Escherichia coli,Rifampicin,Recovered,40
-2702,Female,42,PCU,Drug-resistant TB,None,Deceased,49
-2703,Female,73,PCU,Drug-resistant TB,Isoniazid,Deceased,22
-2704,Female,75,ICU-3,Drug-resistant TB,Rifampicin,Deceased,30
-2705,Male,43,ICU-2,Drug-resistant TB,Isoniazid,Deceased,24
-2706,Female,49,ICU-1,Infection - Methicillin-Resistant Staphylococcus aureus,Ethambutol,Deceased,20
-2707,Male,25,PCU,Infection - Escherichia coli,Ethambutol,Recovered,8
-2708,Male,61,CCU,Infection - Escherichia coli,Kanamycin,Recovered,34
-2709,Female,74,ICU-2,Infection - Pseudomonas aeruginosa,Isoniazid,Recovered,13
-2710,Female,19,Med-Surg,Drug-resistant TB,Rifampicin,Deceased,8
-2711,Female,42,CCU,Drug-resistant TB,None,Deceased,49
-2712,Male,31,ED,Drug-resistant TB,Rifampicin,Ongoing,36
-2713,Female,44,ED,Drug-resistant TB,Isoniazid,Deceased,57
-2714,Female,23,ICU-1,Drug-resistant TB,Ethambutol,Deceased,17
-2715,Female,30,ICU-1,Infection - Pseudomonas aeruginosa,None,Deceased,29
-2716,Female,65,ICU-3,Drug-resistant TB,Rifampicin,Deceased,45
-2717,Female,34,PCU,Drug-resistant TB,None,Deceased,18
-2718,Female,81,Med-Surg,Drug-resistant TB,Ethambutol,Deceased,16
-2719,Male,44,ICU-2,Drug-resistant TB,Rifampicin,Deceased,33
-2720,Male,35,PCU,Infection - Pseudomonas aeruginosa,Streptomycin,Recovered,23
-2721,Male,63,ICU-1,Drug-resistant TB,Kanamycin,Recovered,58
-2722,Male,60,ICU-2,Drug-resistant TB,Ethambutol,Deceased,21
-2723,Female,19,PCU,Infection - Klebsiella pneumoniae,Ethambutol,Recovered,23
-2724,Female,77,ICU-3,Infection - Escherichia coli,Rifampicin,Recovered,25
-2725,Female,46,ED,Drug-resistant TB,Streptomycin,Recovered,48
-2726,Female,66,ICU-2,Drug-resistant TB,Kanamycin,Deceased,9
-2727,Male,40,ICU-1,Infection - Escherichia coli,Rifampicin,Ongoing,6
-2728,Male,32,ICU-2,Infection - Methicillin-Resistant Staphylococcus aureus,None,Recovered,35
-2729,Female,26,PCU,Drug-resistant TB,Rifampicin,Recovered,43
-2730,Female,56,ED,Drug-resistant TB,Rifampicin,Ongoing,31
-2731,Male,48,PCU,Drug-resistant TB,None,Ongoing,22
-2732,Male,65,ICU-1,Infection - Escherichia coli,Ethambutol,Recovered,37
-2733,Female,32,CCU,Drug-resistant TB,None,Ongoing,25
-2734,Female,53,PCU,Drug-resistant TB,Isoniazid,Ongoing,15
-2735,Female,37,ED,Drug-resistant TB,Rifampicin,Deceased,16
-2736,Female,57,ED,Infection - Klebsiella pneumoniae,Isoniazid,Recovered,43
-2737,Male,30,PCU,Drug-resistant TB,Rifampicin,Deceased,51
-2738,Female,72,ICU-1,Drug-resistant TB,Isoniazid,Deceased,18
-2739,Female,65,ICU-1,Drug-resistant TB,Streptomycin,Deceased,18
-2740,Male,59,CCU,Drug-resistant TB,None,Deceased,48
-2741,Female,20,Med-Surg,Drug-resistant TB,Kanamycin,Ongoing,29
-2742,Female,48,CCU,Drug-resistant TB,Rifampicin,Deceased,53
-2743,Male,74,CCU,Drug-resistant TB,Ethambutol,Deceased,13
-2744,Female,61,ICU-2,Infection - Methicillin-Resistant Staphylococcus aureus,Isoniazid,Recovered,39
-2745,Male,36,ICU-2,Drug-resistant TB,Rifampicin,Recovered,10
-2746,Male,72,ICU-2,Drug-resistant TB,Ethambutol,Ongoing,24
-2747,Female,39,ED,Drug-resistant TB,Kanamycin,Deceased,32
-2748,Male,56,Med-Surg,Drug-resistant TB,None,Deceased,40
-2749,Male,78,ICU-2,Drug-resistant TB,Isoniazid,Deceased,17
-2750,Female,80,ICU-3,Drug-resistant TB,Isoniazid,Ongoing,31
-2751,Female,65,CCU,Drug-resistant TB,Streptomycin,Ongoing,46
-2752,Male,51,Med-Surg,Drug-resistant TB,Rifampicin,Deceased,48
-2753,Female,28,Med-Surg,Drug-resistant TB,Rifampicin,Deceased,32
-2754,Male,31,CCU,Drug-resistant TB,Rifampicin,Recovered,57
-2755,Male,30,ICU-1,Drug-resistant TB,Streptomycin,Recovered,38
-2756,Male,75,Med-Surg,Drug-resistant TB,Rifampicin,Deceased,16
-2757,Male,39,ICU-1,Infection - Methicillin-Resistant Staphylococcus aureus,Streptomycin,Recovered,10
-2758,Male,45,Med-Surg,Drug-resistant TB,Kanamycin,Ongoing,29
-2759,Female,48,ICU-3,Drug-resistant TB,Kanamycin,Deceased,29
-2760,Male,33,PCU,Infection - Methicillin-Resistant Staphylococcus aureus,Rifampicin,Ongoing,49
-2761,Female,23,PCU,Drug-resistant TB,Streptomycin,Ongoing,48
-2762,Male,67,ICU-3,Drug-resistant TB,Rifampicin,Ongoing,50
-2763,Female,39,ED,Infection - Escherichia coli,None,Ongoing,35
-2764,Female,78,CCU,Drug-resistant TB,Rifampicin,Ongoing,47
-2765,Male,61,ED,Drug-resistant TB,None,Deceased,46
-2766,Male,32,Med-Surg,Drug-resistant TB,Ethambutol,Deceased,13
-2767,Female,64,PCU,Drug-resistant TB,None,Recovered,38
-2768,Male,81,CCU,Drug-resistant TB,Kanamycin,Recovered,14
-2769,Male,53,PCU,Drug-resistant TB,Rifampicin,Ongoing,45
-2770,Male,24,PCU,Drug-resistant TB,Streptomycin,Deceased,59
-2771,Female,78,ICU-3,Infection - Methicillin-Resistant Staphylococcus aureus,Isoniazid,Recovered,30
-2772,Female,79,ICU-3,Drug-resistant TB,Rifampicin,Deceased,18
-2773,Female,72,CCU,Drug-resistant TB,Isoniazid,Deceased,8
-2774,Female,49,ICU-1,Drug-resistant TB,Streptomycin,Ongoing,20
-2775,Female,66,ICU-3,Drug-resistant TB,Isoniazid,Recovered,28
-2776,Female,53,CCU,Infection - Klebsiella pneumoniae,Kanamycin,Recovered,55
-2777,Female,26,Med-Surg,Infection - Methicillin-Resistant Staphylococcus aureus,Rifampicin,Recovered,53
-2778,Male,28,ICU-1,Infection - Pseudomonas aeruginosa,Kanamycin,Ongoing,28
-2779,Male,30,CCU,Infection - Klebsiella pneumoniae,Isoniazid,Recovered,20
-2780,Male,69,ED,Drug-resistant TB,None,Ongoing,21
-2781,Female,83,Med-Surg,Drug-resistant TB,Rifampicin,Deceased,31
-2782,Female,26,ICU-3,Drug-resistant TB,Ethambutol,Deceased,28
-2783,Male,40,Med-Surg,Infection - Pseudomonas aeruginosa,Streptomycin,Deceased,42
-2784,Female,69,ED,Infection - Pseudomonas aeruginosa,Isoniazid,Ongoing,21
-2785,Female,53,ED,Drug-resistant TB,None,Deceased,24
-2786,Male,25,ICU-1,Drug-resistant TB,Streptomycin,Deceased,40
-2787,Male,69,ICU-1,Drug-resistant TB,None,Deceased,58
-2788,Male,75,ICU-2,Infection - Methicillin-Resistant Staphylococcus aureus,Isoniazid,Recovered,16
-2789,Female,56,ED,Drug-resistant TB,Rifampicin,Ongoing,21
-2790,Male,77,Med-Surg,Infection - Pseudomonas aeruginosa,Ethambutol,Recovered,8
-2791,Male,70,ICU-1,Drug-resistant TB,Rifampicin,Deceased,5
-2792,Male,74,CCU,Infection - Klebsiella pneumoniae,Rifampicin,Deceased,15
-2793,Male,43,ED,Infection - Methicillin-Resistant Staphylococcus aureus,Streptomycin,Deceased,12
-2794,Male,48,ICU-1,Drug-resistant TB,Kanamycin,Deceased,32
-2795,Male,49,ICU-3,Drug-resistant TB,Ethambutol,Recovered,60
-2796,Male,42,PCU,Infection - Methicillin-Resistant Staphylococcus aureus,Isoniazid,Recovered,19
-2797,Male,46,ICU-3,Drug-resistant TB,Isoniazid,Deceased,35
-2798,Male,58,ICU-1,Drug-resistant TB,Isoniazid,Recovered,7
-2799,Female,80,ICU-3,Drug-resistant TB,Isoniazid,Ongoing,24
-2800,Female,48,CCU,Drug-resistant TB,Kanamycin,Ongoing,18
-2801,Male,75,ICU-1,Drug-resistant TB,Kanamycin,Recovered,39
-2802,Female,50,PCU,Drug-resistant TB,Streptomycin,Ongoing,28
-2803,Male,53,CCU,Drug-resistant TB,Isoniazid,Deceased,23
-2804,Male,74,PCU,Drug-resistant TB,Streptomycin,Ongoing,40
-2805,Female,82,CCU,Drug-resistant TB,Rifampicin,Deceased,24
-2806,Male,53,ICU-2,Infection - Pseudomonas aeruginosa,Isoniazid,Deceased,60
-2807,Female,59,ICU-1,Infection - Escherichia coli,Ethambutol,Recovered,57
-2808,Male,75,ICU-2,Infection - Klebsiella pneumoniae,Rifampicin,Recovered,28
-2809,Female,42,ICU-1,Drug-resistant TB,Streptomycin,Deceased,9
-2810,Male,66,ED,Drug-resistant TB,Isoniazid,Deceased,12
-2811,Male,61,PCU,Infection - Klebsiella pneumoniae,Rifampicin,Recovered,17
-2812,Female,36,ICU-1,Drug-resistant TB,Rifampicin,Deceased,6
-2813,Female,39,ICU-1,Drug-resistant TB,Ethambutol,Deceased,11
-2814,Male,40,ED,Drug-resistant TB,Rifampicin,Deceased,43
-2815,Female,81,CCU,Drug-resistant TB,None,Ongoing,21
-2816,Male,32,Med-Surg,Drug-resistant TB,Ethambutol,Deceased,51
-2817,Female,35,PCU,Drug-resistant TB,Streptomycin,Recovered,29
-2818,Male,29,ICU-2,Drug-resistant TB,Rifampicin,Recovered,5
-2819,Female,76,ICU-2,Infection - Klebsiella pneumoniae,Rifampicin,Recovered,20
-2820,Male,21,ICU-2,Infection - Klebsiella pneumoniae,Isoniazid,Recovered,14
-2821,Female,32,ICU-2,Drug-resistant TB,Isoniazid,Deceased,46
-2822,Female,82,ICU-3,Drug-resistant TB,Rifampicin,Ongoing,32
-2823,Female,41,PCU,Drug-resistant TB,None,Ongoing,57
-2824,Male,52,ICU-1,Drug-resistant TB,Ethambutol,Recovered,9
-2825,Male,43,CCU,Infection - Escherichia coli,Ethambutol,Ongoing,20
-2826,Male,58,PCU,Drug-resistant TB,Ethambutol,Deceased,51
-2827,Male,66,ED,Infection - Klebsiella pneumoniae,Rifampicin,Recovered,23
-2828,Female,73,ICU-1,Drug-resistant TB,Rifampicin,Deceased,20
-2829,Female,29,ED,Infection - Escherichia coli,Ethambutol,Deceased,34
-2830,Male,80,ICU-1,Drug-resistant TB,Ethambutol,Deceased,59
-2831,Female,28,CCU,Drug-resistant TB,Streptomycin,Deceased,37
-2832,Male,37,PCU,Infection - Methicillin-Resistant Staphylococcus aureus,Streptomycin,Recovered,23
-2833,Female,43,ED,Drug-resistant TB,Ethambutol,Recovered,9
-2834,Female,36,CCU,Drug-resistant TB,Kanamycin,Deceased,25
-2835,Male,20,PCU,Drug-resistant TB,Ethambutol,Ongoing,22
-2836,Male,51,ICU-2,Drug-resistant TB,Streptomycin,Deceased,10
-2837,Female,63,CCU,Drug-resistant TB,Isoniazid,Ongoing,57
-2838,Male,37,ED,Infection - Methicillin-Resistant Staphylococcus aureus,Ethambutol,Ongoing,36
-2839,Male,66,ICU-2,Drug-resistant TB,Rifampicin,Deceased,18
-2840,Female,76,ED,Drug-resistant TB,Ethambutol,Deceased,27
-2841,Male,73,ED,Infection - Escherichia coli,None,Recovered,59
-2842,Male,74,Med-Surg,Drug-resistant TB,Ethambutol,Deceased,47
-2843,Female,77,ED,Drug-resistant TB,Ethambutol,Deceased,5
-2844,Male,18,ED,Drug-resistant TB,Isoniazid,Ongoing,5
-2845,Male,68,ICU-2,Drug-resistant TB,Isoniazid,Ongoing,58
-2846,Male,73,ICU-2,Drug-resistant TB,Rifampicin,Deceased,50
-2847,Male,59,ICU-2,Drug-resistant TB,Isoniazid,Ongoing,10
-2848,Female,21,CCU,Infection - Klebsiella pneumoniae,None,Recovered,34
-2849,Male,32,ED,Drug-resistant TB,Rifampicin,Deceased,11
-2850,Female,20,ED,Drug-resistant TB,None,Deceased,36
-2851,Female,19,ICU-2,Drug-resistant TB,Ethambutol,Ongoing,12
-2852,Male,20,Med-Surg,Drug-resistant TB,Ethambutol,Recovered,18
-2853,Female,43,ICU-1,Drug-resistant TB,Kanamycin,Ongoing,50
-2854,Male,43,CCU,Infection - Methicillin-Resistant Staphylococcus aureus,Isoniazid,Recovered,30
-2855,Male,75,ICU-2,Drug-resistant TB,Ethambutol,Deceased,37
-2856,Male,41,PCU,Infection - Pseudomonas aeruginosa,Rifampicin,Recovered,32
-2857,Male,26,ED,Infection - Escherichia coli,Rifampicin,Recovered,43
-2858,Female,71,ICU-1,Drug-resistant TB,Rifampicin,Deceased,33
-2859,Male,77,ICU-3,Drug-resistant TB,Streptomycin,Deceased,58
-2860,Female,53,ICU-3,Drug-resistant TB,Isoniazid,Deceased,30
-2861,Female,31,ICU-1,Drug-resistant TB,Isoniazid,Deceased,8
-2862,Male,24,ICU-3,Infection - Methicillin-Resistant Staphylococcus aureus,Isoniazid,Recovered,12
-2863,Female,33,Med-Surg,Drug-resistant TB,Streptomycin,Ongoing,41
-2864,Female,49,CCU,Drug-resistant TB,Isoniazid,Recovered,49
-2865,Female,44,PCU,Drug-resistant TB,Ethambutol,Ongoing,53
-2866,Female,83,ICU-2,Infection - Escherichia coli,Isoniazid,Recovered,17
-2867,Male,78,CCU,Infection - Methicillin-Resistant Staphylococcus aureus,Ethambutol,Recovered,27
-2868,Male,69,ICU-2,Drug-resistant TB,Kanamycin,Deceased,38
-2869,Male,52,ICU-2,Infection - Escherichia coli,Isoniazid,Recovered,39
-2870,Female,18,ICU-1,Drug-resistant TB,None,Ongoing,37
-2871,Male,60,ED,Drug-resistant TB,None,Recovered,5
-2872,Female,78,Med-Surg,Infection - Pseudomonas aeruginosa,Rifampicin,Recovered,36
-2873,Female,80,CCU,Drug-resistant TB,Ethambutol,Deceased,39
-2874,Female,32,ICU-3,Drug-resistant TB,Streptomycin,Ongoing,14
-2875,Male,29,ICU-2,Drug-resistant TB,Isoniazid,Deceased,45
-2876,Female,60,ED,Infection - Escherichia coli,Ethambutol,Recovered,22
-2877,Male,84,ICU-3,Drug-resistant TB,Streptomycin,Recovered,24
-2878,Female,18,ED,Infection - Klebsiella pneumoniae,Isoniazid,Ongoing,47
-2879,Male,22,ED,Infection - Pseudomonas aeruginosa,None,Ongoing,20
-2880,Male,50,ICU-2,Infection - Klebsiella pneumoniae,Rifampicin,Recovered,40
-2881,Female,77,ICU-3,Drug-resistant TB,Streptomycin,Ongoing,34
-2882,Female,49,Med-Surg,Drug-resistant TB,Kanamycin,Recovered,13
-2883,Female,24,ICU-1,Drug-resistant TB,None,Deceased,22
-2884,Male,44,Med-Surg,Drug-resistant TB,None,Deceased,40
-2885,Female,43,ICU-1,Drug-resistant TB,Rifampicin,Recovered,5
-2886,Male,33,ICU-3,Drug-resistant TB,Rifampicin,Recovered,35
-2887,Male,41,ICU-2,Infection - Escherichia coli,Kanamycin,Recovered,15
-2888,Female,33,Med-Surg,Drug-resistant TB,Kanamycin,Ongoing,5
-2889,Female,76,ICU-3,Drug-resistant TB,Ethambutol,Recovered,15
-2890,Female,61,ED,Drug-resistant TB,None,Deceased,22
-2891,Female,34,CCU,Drug-resistant TB,Kanamycin,Recovered,42
-2892,Male,81,CCU,Drug-resistant TB,Rifampicin,Ongoing,25
-2893,Male,50,ICU-1,Drug-resistant TB,None,Deceased,59
-2894,Female,35,CCU,Drug-resistant TB,Ethambutol,Deceased,17
-2895,Male,21,CCU,Drug-resistant TB,Isoniazid,Recovered,18
-2896,Female,42,PCU,Infection - Escherichia coli,Streptomycin,Recovered,41
-2897,Male,81,ICU-2,Drug-resistant TB,Kanamycin,Ongoing,43
-2898,Male,54,ICU-1,Drug-resistant TB,Kanamycin,Deceased,59
-2899,Male,22,ICU-3,Drug-resistant TB,Rifampicin,Deceased,21
-2900,Male,81,ICU-1,Drug-resistant TB,Isoniazid,Recovered,27
-2901,Male,22,ED,Drug-resistant TB,Ethambutol,Recovered,46
-2902,Female,20,Med-Surg,Infection - Escherichia coli,Streptomycin,Recovered,8
-2903,Male,47,ED,Infection - Pseudomonas aeruginosa,Isoniazid,Recovered,56
-2904,Male,27,ICU-3,Infection - Pseudomonas aeruginosa,None,Ongoing,36
-2905,Female,28,ICU-2,Drug-resistant TB,Kanamycin,Recovered,58
-2906,Female,76,ICU-1,Drug-resistant TB,Isoniazid,Ongoing,36
-2907,Female,20,PCU,Drug-resistant TB,Streptomycin,Recovered,29
-2908,Female,21,Med-Surg,Drug-resistant TB,Ethambutol,Deceased,58
-2909,Male,67,CCU,Drug-resistant TB,Kanamycin,Deceased,59
-2910,Male,19,ICU-3,Drug-resistant TB,Rifampicin,Ongoing,10
-2911,Male,33,ICU-3,Infection - Pseudomonas aeruginosa,Ethambutol,Recovered,58
-2912,Female,41,ICU-3,Drug-resistant TB,Streptomycin,Recovered,21
-2913,Male,82,PCU,Infection - Pseudomonas aeruginosa,Ethambutol,Recovered,42
-2914,Male,48,ICU-2,Drug-resistant TB,Ethambutol,Recovered,41
-2915,Female,70,CCU,Drug-resistant TB,Ethambutol,Recovered,35
-2916,Male,58,Med-Surg,Drug-resistant TB,Streptomycin,Ongoing,18
-2917,Female,33,PCU,Infection - Pseudomonas aeruginosa,Streptomycin,Recovered,43
-2918,Female,64,ICU-1,Drug-resistant TB,Kanamycin,Ongoing,40
-2919,Male,70,CCU,Infection - Klebsiella pneumoniae,Ethambutol,Recovered,43
-2920,Female,51,PCU,Drug-resistant TB,Isoniazid,Ongoing,52
-2921,Female,63,ICU-2,Drug-resistant TB,Kanamycin,Ongoing,49
-2922,Male,27,CCU,Drug-resistant TB,Streptomycin,Deceased,33
-2923,Male,37,ICU-1,Drug-resistant TB,None,Ongoing,48
-2924,Female,81,ICU-3,Drug-resistant TB,Kanamycin,Ongoing,41
-2925,Male,44,ED,Infection - Methicillin-Resistant Staphylococcus aureus,Kanamycin,Recovered,41
-2926,Male,53,ICU-2,Drug-resistant TB,Kanamycin,Deceased,18
-2927,Female,21,ICU-3,Infection - Escherichia coli,Kanamycin,Ongoing,23
-2928,Female,28,CCU,Drug-resistant TB,Isoniazid,Deceased,51
-2929,Male,73,ICU-1,Drug-resistant TB,Kanamycin,Deceased,17
-2930,Male,51,ED,Drug-resistant TB,Rifampicin,Deceased,36
-2931,Male,73,ICU-1,Infection - Methicillin-Resistant Staphylococcus aureus,Kanamycin,Ongoing,40
-2932,Female,63,Med-Surg,Drug-resistant TB,Isoniazid,Recovered,23
-2933,Female,32,ICU-3,Drug-resistant TB,Rifampicin,Deceased,50
-2934,Male,59,ICU-3,Infection - Klebsiella pneumoniae,Streptomycin,Ongoing,31
-2935,Male,32,Med-Surg,Infection - Pseudomonas aeruginosa,Kanamycin,Recovered,13
-2936,Female,47,ICU-3,Drug-resistant TB,Ethambutol,Deceased,28
-2937,Male,82,ED,Infection - Escherichia coli,Rifampicin,Ongoing,7
-2938,Male,82,CCU,Drug-resistant TB,Isoniazid,Recovered,6
-2939,Female,59,ED,Drug-resistant TB,Ethambutol,Deceased,24
-2940,Female,53,ED,Drug-resistant TB,Kanamycin,Deceased,49
-2941,Female,46,Med-Surg,Drug-resistant TB,Rifampicin,Ongoing,30
-2942,Male,39,ICU-2,Drug-resistant TB,Rifampicin,Deceased,42
-2943,Female,50,ED,Drug-resistant TB,Ethambutol,Recovered,52
-2944,Female,81,ICU-3,Infection - Escherichia coli,Streptomycin,Recovered,25
-2945,Male,43,ED,Drug-resistant TB,Streptomycin,Deceased,7
-2946,Female,33,ED,Drug-resistant TB,None,Deceased,51
-2947,Female,84,Med-Surg,Drug-resistant TB,Streptomycin,Ongoing,35
-2948,Male,58,ED,Drug-resistant TB,Streptomycin,Deceased,14
-2949,Female,38,ICU-1,Infection - Methicillin-Resistant Staphylococcus aureus,Kanamycin,Deceased,45
-2950,Male,51,Med-Surg,Drug-resistant TB,Kanamycin,Ongoing,13
-2951,Female,44,ICU-2,Drug-resistant TB,Rifampicin,Recovered,55
-2952,Male,83,PCU,Drug-resistant TB,None,Ongoing,32
-2953,Female,57,PCU,Drug-resistant TB,Isoniazid,Deceased,38
-2954,Female,50,CCU,Drug-resistant TB,Streptomycin,Deceased,40
-2955,Male,42,ED,Drug-resistant TB,None,Recovered,16
-2956,Female,82,ICU-1,Infection - Pseudomonas aeruginosa,None,Ongoing,7
-2957,Male,78,CCU,Drug-resistant TB,Ethambutol,Recovered,7
-2958,Male,74,CCU,Drug-resistant TB,Isoniazid,Deceased,25
-2959,Male,64,Med-Surg,Drug-resistant TB,Streptomycin,Deceased,47
-2960,Male,74,ICU-1,Infection - Escherichia coli,Rifampicin,Recovered,43
-2961,Male,29,ICU-2,Drug-resistant TB,None,Ongoing,42
-2962,Male,34,ICU-3,Drug-resistant TB,None,Deceased,29
-2963,Male,55,ICU-3,Drug-resistant TB,Isoniazid,Ongoing,21
-2964,Male,67,ICU-2,Drug-resistant TB,Streptomycin,Deceased,49
-2965,Male,83,PCU,Drug-resistant TB,Rifampicin,Deceased,21
-2966,Female,65,Med-Surg,Drug-resistant TB,Kanamycin,Recovered,47
-2967,Female,30,ICU-2,Drug-resistant TB,Rifampicin,Deceased,24
-2968,Female,78,PCU,Infection - Klebsiella pneumoniae,None,Recovered,21
-2969,Male,35,ICU-2,Drug-resistant TB,Isoniazid,Deceased,55
-2970,Male,56,ICU-3,Drug-resistant TB,Rifampicin,Deceased,16
-2971,Male,62,ICU-1,Drug-resistant TB,None,Deceased,40
-2972,Female,34,ICU-3,Infection - Escherichia coli,Ethambutol,Deceased,30
-2973,Female,64,ICU-3,Drug-resistant TB,Kanamycin,Deceased,44
-2974,Female,41,ED,Infection - Klebsiella pneumoniae,Ethambutol,Recovered,23
-2975,Female,19,ICU-2,Infection - Methicillin-Resistant Staphylococcus aureus,Kanamycin,Deceased,13
-2976,Female,32,PCU,Drug-resistant TB,Kanamycin,Deceased,32
-2977,Female,73,ICU-1,Drug-resistant TB,Isoniazid,Deceased,23
-2978,Male,52,ICU-2,Drug-resistant TB,Streptomycin,Recovered,27
-2979,Male,40,ICU-1,Infection - Methicillin-Resistant Staphylococcus aureus,None,Recovered,13
-2980,Male,66,Med-Surg,Drug-resistant TB,None,Ongoing,26
-2981,Female,32,PCU,Drug-resistant TB,Ethambutol,Deceased,41
-2982,Male,73,ICU-3,Drug-resistant TB,Kanamycin,Deceased,22
-2983,Female,34,ICU-3,Drug-resistant TB,Kanamycin,Ongoing,34
-2984,Female,71,CCU,Infection - Methicillin-Resistant Staphylococcus aureus,Streptomycin,Recovered,39
-2985,Male,80,Med-Surg,Drug-resistant TB,Rifampicin,Recovered,10
-2986,Male,63,Med-Surg,Drug-resistant TB,Isoniazid,Deceased,31
-2987,Male,68,ICU-2,Drug-resistant TB,Kanamycin,Deceased,12
-2988,Female,53,ICU-3,Drug-resistant TB,Isoniazid,Deceased,45
-2989,Female,77,ICU-3,Drug-resistant TB,Rifampicin,Deceased,15
-2990,Female,71,ED,Drug-resistant TB,None,Recovered,17
-2991,Male,59,Med-Surg,Drug-resistant TB,Kanamycin,Deceased,15
-2992,Male,38,ED,Drug-resistant TB,Rifampicin,Recovered,51
-2993,Female,76,ICU-2,Drug-resistant TB,Rifampicin,Ongoing,20
-2994,Female,26,ICU-1,Drug-resistant TB,None,Deceased,48
-2995,Male,21,ED,Drug-resistant TB,None,Ongoing,57
-2996,Female,72,PCU,Drug-resistant TB,Rifampicin,Ongoing,11
-2997,Male,51,ICU-1,Drug-resistant TB,None,Ongoing,46
-2998,Female,51,Med-Surg,Drug-resistant TB,Isoniazid,Deceased,43
-2999,Male,57,ED,Drug-resistant TB,Ethambutol,Ongoing,48
+2200,Male,19,ICU-3,Drug-resistant TB,Ethambutol,Recovered,42
+2201,Female,83,Med-Surg,Drug-resistant TB,Kanamycin,Deceased,33
+2202,Male,79,PCU,Drug-resistant TB,None,Deceased,32
+2203,Female,59,ED,Infection - Klebsiella pneumoniae,Kanamycin,Recovered,34
+2204,Female,72,ICU-3,Drug-resistant TB,Rifampicin,Ongoing,28
+2205,Male,60,CCU,Drug-resistant TB,Ethambutol,Ongoing,31
+2206,Male,79,ICU-2,Drug-resistant TB,Kanamycin,Deceased,27
+2207,Male,52,ICU-1,Drug-resistant TB,None,Recovered,22
+2208,Male,29,CCU,Infection - Escherichia coli,Streptomycin,Recovered,29
+2209,Female,80,Med-Surg,Infection - Methicillin-Resistant Staphylococcus aureus,Ethambutol,Recovered,31
+2210,Male,35,PCU,Infection - Klebsiella pneumoniae,Ethambutol,Recovered,23
+2211,Female,72,Med-Surg,Drug-resistant TB,None,Deceased,50
+2212,Male,73,PCU,Drug-resistant TB,Streptomycin,Deceased,20
+2213,Male,83,CCU,Infection - Klebsiella pneumoniae,Kanamycin,Recovered,38
+2214,Female,77,PCU,Drug-resistant TB,Kanamycin,Recovered,48
+2215,Female,53,Med-Surg,Drug-resistant TB,Kanamycin,Ongoing,27
+2216,Female,77,Med-Surg,Drug-resistant TB,Kanamycin,Recovered,33
+2217,Male,82,CCU,Drug-resistant TB,Rifampicin,Deceased,7
+2218,Female,24,PCU,Drug-resistant TB,Ethambutol,Ongoing,9
+2219,Female,28,Med-Surg,Drug-resistant TB,Ethambutol,Recovered,27
+2220,Male,85,ICU-1,Drug-resistant TB,Ethambutol,Recovered,37
+2221,Male,27,ICU-3,Drug-resistant TB,Kanamycin,Deceased,37
+2222,Male,39,CCU,Drug-resistant TB,Streptomycin,Deceased,7
+2223,Male,57,PCU,Drug-resistant TB,Rifampicin,Deceased,58
+2224,Male,35,PCU,Infection - Escherichia coli,None,Recovered,8
+2225,Male,46,PCU,Drug-resistant TB,Isoniazid,Recovered,27
+2226,Male,60,PCU,Drug-resistant TB,Isoniazid,Recovered,13
+2227,Male,50,ICU-2,Infection - Escherichia coli,None,Recovered,40
+2228,Male,36,ICU-3,Drug-resistant TB,Kanamycin,Deceased,5
+2229,Male,67,PCU,Drug-resistant TB,None,Ongoing,7
+2230,Male,60,ICU-2,Infection - Methicillin-Resistant Staphylococcus aureus,Kanamycin,Ongoing,27
+2231,Female,43,ICU-1,Drug-resistant TB,Ethambutol,Recovered,7
+2232,Male,60,ICU-3,Drug-resistant TB,Ethambutol,Deceased,56
+2233,Female,84,ICU-3,Drug-resistant TB,Streptomycin,Deceased,51
+2234,Female,75,Med-Surg,Infection - Methicillin-Resistant Staphylococcus aureus,None,Recovered,15
+2235,Male,21,ICU-2,Drug-resistant TB,Rifampicin,Recovered,7
+2236,Female,65,ED,Infection - Escherichia coli,Rifampicin,Recovered,41
+2237,Female,80,ICU-2,Drug-resistant TB,Isoniazid,Ongoing,13
+2238,Male,55,ICU-3,Drug-resistant TB,None,Deceased,50
+2239,Female,21,ICU-3,Infection - Methicillin-Resistant Staphylococcus aureus,Kanamycin,Ongoing,34
+2240,Female,84,ICU-3,Drug-resistant TB,Kanamycin,Recovered,58
+2241,Male,56,ICU-2,Drug-resistant TB,None,Ongoing,25
+2242,Male,56,Med-Surg,Infection - Pseudomonas aeruginosa,None,Recovered,37
+2243,Female,44,PCU,Infection - Methicillin-Resistant Staphylococcus aureus,None,Recovered,44
+2244,Male,61,Med-Surg,Drug-resistant TB,None,Deceased,25
+2245,Male,52,ED,Infection - Klebsiella pneumoniae,Isoniazid,Recovered,14
+2246,Female,81,ICU-1,Drug-resistant TB,Kanamycin,Deceased,30
+2247,Female,19,PCU,Infection - Escherichia coli,Rifampicin,Recovered,32
+2248,Male,34,ICU-1,Drug-resistant TB,Ethambutol,Recovered,28
+2249,Female,84,ED,Drug-resistant TB,Kanamycin,Deceased,43
+2250,Female,56,ED,Drug-resistant TB,Ethambutol,Deceased,28
+2251,Female,51,CCU,Drug-resistant TB,Isoniazid,Recovered,51
+2252,Male,32,ICU-2,Drug-resistant TB,Ethambutol,Deceased,33
+2253,Male,84,ICU-2,Drug-resistant TB,Streptomycin,Deceased,47
+2254,Female,42,ICU-2,Drug-resistant TB,Ethambutol,Deceased,40
+2255,Female,33,Med-Surg,Drug-resistant TB,Ethambutol,Deceased,30
+2256,Male,43,PCU,Infection - Escherichia coli,None,Recovered,40
+2257,Male,35,ICU-1,Infection - Pseudomonas aeruginosa,None,Recovered,31
+2258,Male,71,PCU,Drug-resistant TB,Streptomycin,Recovered,7
+2259,Male,60,ICU-3,Drug-resistant TB,Kanamycin,Deceased,46
+2260,Female,41,ICU-1,Infection - Methicillin-Resistant Staphylococcus aureus,Ethambutol,Recovered,55
+2261,Male,18,ICU-3,Drug-resistant TB,Streptomycin,Deceased,20
+2262,Male,77,ICU-3,Drug-resistant TB,None,Ongoing,30
+2263,Male,79,ICU-2,Drug-resistant TB,Kanamycin,Deceased,52
+2264,Male,85,ED,Drug-resistant TB,Kanamycin,Deceased,9
+2265,Female,32,CCU,Infection - Methicillin-Resistant Staphylococcus aureus,Kanamycin,Recovered,50
+2266,Male,72,ICU-3,Drug-resistant TB,Isoniazid,Ongoing,39
+2267,Female,66,ED,Drug-resistant TB,Isoniazid,Deceased,29
+2268,Male,46,PCU,Infection - Klebsiella pneumoniae,Isoniazid,Deceased,53
+2269,Female,20,ICU-2,Drug-resistant TB,Isoniazid,Recovered,9
+2270,Male,45,PCU,Drug-resistant TB,Kanamycin,Deceased,13
+2271,Male,84,ICU-2,Drug-resistant TB,Ethambutol,Deceased,24
+2272,Female,66,PCU,Drug-resistant TB,Streptomycin,Deceased,49
+2273,Female,25,Med-Surg,Drug-resistant TB,Kanamycin,Recovered,31
+2274,Male,42,ICU-1,Drug-resistant TB,None,Deceased,29
+2275,Female,44,PCU,Drug-resistant TB,Isoniazid,Deceased,24
+2276,Female,48,Med-Surg,Drug-resistant TB,Ethambutol,Deceased,54
+2277,Female,58,ICU-2,Drug-resistant TB,Streptomycin,Deceased,25
+2278,Female,37,ICU-2,Infection - Pseudomonas aeruginosa,Streptomycin,Recovered,19
+2279,Female,41,Med-Surg,Drug-resistant TB,Isoniazid,Recovered,38
+2280,Male,45,Med-Surg,Drug-resistant TB,Isoniazid,Recovered,28
+2281,Female,19,ICU-1,Infection - Klebsiella pneumoniae,Ethambutol,Recovered,39
+2282,Female,68,ICU-1,Drug-resistant TB,Streptomycin,Ongoing,30
+2283,Male,69,ED,Drug-resistant TB,Streptomycin,Ongoing,40
+2284,Male,85,ICU-1,Drug-resistant TB,None,Deceased,18
+2285,Male,58,ICU-1,Drug-resistant TB,Rifampicin,Deceased,42
+2286,Female,67,PCU,Infection - Methicillin-Resistant Staphylococcus aureus,None,Recovered,55
+2287,Female,66,ED,Drug-resistant TB,Kanamycin,Recovered,48
+2288,Female,37,CCU,Infection - Pseudomonas aeruginosa,Ethambutol,Recovered,25
+2289,Male,21,ICU-1,Drug-resistant TB,Isoniazid,Recovered,40
+2290,Male,84,ICU-2,Drug-resistant TB,Rifampicin,Deceased,15
+2291,Female,50,ICU-2,Drug-resistant TB,Kanamycin,Ongoing,43
+2292,Female,60,ED,Drug-resistant TB,Ethambutol,Deceased,24
+2293,Female,49,ICU-3,Drug-resistant TB,Streptomycin,Deceased,22
+2294,Male,74,PCU,Drug-resistant TB,None,Deceased,58
+2295,Female,27,ED,Drug-resistant TB,Streptomycin,Ongoing,42
+2296,Male,31,PCU,Infection - Methicillin-Resistant Staphylococcus aureus,None,Recovered,47
+2297,Male,75,ICU-3,Drug-resistant TB,None,Deceased,34
+2298,Male,36,ICU-3,Infection - Methicillin-Resistant Staphylococcus aureus,Streptomycin,Recovered,26
+2299,Male,49,Med-Surg,Infection - Klebsiella pneumoniae,Rifampicin,Recovered,40
+2300,Male,44,ICU-3,Infection - Methicillin-Resistant Staphylococcus aureus,Isoniazid,Recovered,41
+2301,Male,35,ICU-3,Drug-resistant TB,Ethambutol,Deceased,20
+2302,Male,80,CCU,Drug-resistant TB,Rifampicin,Recovered,40
+2303,Female,35,ICU-2,Infection - Methicillin-Resistant Staphylococcus aureus,Kanamycin,Recovered,40
+2304,Female,39,PCU,Infection - Pseudomonas aeruginosa,None,Ongoing,41
+2305,Male,56,PCU,Drug-resistant TB,Ethambutol,Ongoing,33
+2306,Female,72,ICU-2,Infection - Klebsiella pneumoniae,Rifampicin,Recovered,55
+2307,Male,70,ICU-1,Drug-resistant TB,None,Ongoing,60
+2308,Female,36,Med-Surg,Infection - Methicillin-Resistant Staphylococcus aureus,Streptomycin,Deceased,45
+2309,Female,63,PCU,Infection - Pseudomonas aeruginosa,Kanamycin,Ongoing,55
+2310,Male,30,CCU,Infection - Klebsiella pneumoniae,Isoniazid,Ongoing,6
+2311,Male,68,CCU,Drug-resistant TB,None,Recovered,51
+2312,Female,19,ICU-1,Drug-resistant TB,Isoniazid,Recovered,57
+2313,Female,56,ICU-2,Drug-resistant TB,Rifampicin,Deceased,54
+2314,Male,70,Med-Surg,Infection - Pseudomonas aeruginosa,Rifampicin,Recovered,60
+2315,Female,21,PCU,Drug-resistant TB,Kanamycin,Deceased,18
+2316,Female,67,ICU-1,Drug-resistant TB,None,Recovered,36
+2317,Female,64,Med-Surg,Drug-resistant TB,Streptomycin,Ongoing,53
+2318,Female,82,PCU,Drug-resistant TB,None,Recovered,32
+2319,Male,59,ED,Drug-resistant TB,None,Ongoing,24
+2320,Female,40,ICU-1,Drug-resistant TB,Rifampicin,Deceased,50
+2321,Female,34,CCU,Drug-resistant TB,Isoniazid,Deceased,51
+2322,Female,83,ICU-3,Drug-resistant TB,Kanamycin,Recovered,36
+2323,Male,23,PCU,Drug-resistant TB,Isoniazid,Deceased,20
+2324,Male,59,ICU-2,Drug-resistant TB,Ethambutol,Recovered,51
+2325,Male,69,ICU-1,Drug-resistant TB,Ethambutol,Ongoing,60
+2326,Male,77,ICU-3,Infection - Klebsiella pneumoniae,Rifampicin,Recovered,54
+2327,Male,44,Med-Surg,Drug-resistant TB,Streptomycin,Deceased,31
+2328,Female,28,Med-Surg,Drug-resistant TB,Rifampicin,Deceased,37
+2329,Female,68,CCU,Drug-resistant TB,Streptomycin,Recovered,25
+2330,Female,77,ICU-3,Drug-resistant TB,Kanamycin,Ongoing,12
+2331,Male,45,PCU,Drug-resistant TB,Isoniazid,Ongoing,14
+2332,Female,75,Med-Surg,Infection - Klebsiella pneumoniae,Streptomycin,Ongoing,11
+2333,Male,43,CCU,Infection - Methicillin-Resistant Staphylococcus aureus,Rifampicin,Recovered,56
+2334,Female,53,ED,Drug-resistant TB,Kanamycin,Recovered,7
+2335,Female,35,ED,Drug-resistant TB,Kanamycin,Deceased,46
+2336,Female,82,ICU-3,Infection - Pseudomonas aeruginosa,Rifampicin,Recovered,22
+2337,Male,67,ICU-3,Infection - Pseudomonas aeruginosa,Rifampicin,Recovered,16
+2338,Male,25,ICU-2,Drug-resistant TB,Kanamycin,Deceased,6
+2339,Male,20,ICU-2,Drug-resistant TB,Isoniazid,Deceased,54
+2340,Male,38,CCU,Drug-resistant TB,None,Deceased,55
+2341,Male,40,ED,Drug-resistant TB,None,Deceased,51
+2342,Male,41,Med-Surg,Infection - Escherichia coli,Kanamycin,Recovered,56
+2343,Male,62,ICU-3,Drug-resistant TB,Isoniazid,Ongoing,51
+2344,Female,30,PCU,Drug-resistant TB,Kanamycin,Recovered,55
+2345,Male,27,ICU-3,Drug-resistant TB,Rifampicin,Deceased,29
+2346,Male,73,CCU,Drug-resistant TB,Streptomycin,Deceased,43
+2347,Female,54,ICU-3,Drug-resistant TB,Isoniazid,Recovered,11
+2348,Female,43,ICU-1,Drug-resistant TB,Rifampicin,Deceased,18
+2349,Male,67,ICU-2,Infection - Pseudomonas aeruginosa,Ethambutol,Ongoing,29
+2350,Male,25,PCU,Drug-resistant TB,Kanamycin,Deceased,57
+2351,Male,82,Med-Surg,Drug-resistant TB,Streptomycin,Recovered,12
+2352,Male,51,ICU-3,Drug-resistant TB,Streptomycin,Recovered,10
+2353,Female,32,ED,Drug-resistant TB,Kanamycin,Deceased,14
+2354,Female,51,ED,Drug-resistant TB,Kanamycin,Deceased,41
+2355,Female,48,ICU-1,Drug-resistant TB,Ethambutol,Recovered,22
+2356,Male,56,CCU,Infection - Klebsiella pneumoniae,Ethambutol,Recovered,54
+2357,Male,40,ICU-2,Drug-resistant TB,Isoniazid,Ongoing,58
+2358,Female,33,CCU,Drug-resistant TB,Ethambutol,Deceased,20
+2359,Male,54,ICU-1,Infection - Methicillin-Resistant Staphylococcus aureus,Rifampicin,Ongoing,8
+2360,Male,46,ICU-3,Drug-resistant TB,None,Deceased,50
+2361,Female,31,ICU-1,Infection - Pseudomonas aeruginosa,None,Ongoing,40
+2362,Female,58,CCU,Drug-resistant TB,Isoniazid,Deceased,51
+2363,Male,61,CCU,Drug-resistant TB,Kanamycin,Deceased,48
+2364,Female,30,ED,Drug-resistant TB,Ethambutol,Recovered,52
+2365,Female,60,ICU-3,Drug-resistant TB,Ethambutol,Recovered,42
+2366,Male,66,Med-Surg,Drug-resistant TB,Isoniazid,Deceased,31
+2367,Male,28,ED,Drug-resistant TB,Rifampicin,Deceased,45
+2368,Female,29,ICU-2,Drug-resistant TB,Streptomycin,Ongoing,45
+2369,Male,20,CCU,Drug-resistant TB,None,Ongoing,45
+2370,Male,23,ICU-3,Infection - Klebsiella pneumoniae,None,Ongoing,34
+2371,Male,47,ICU-2,Infection - Escherichia coli,None,Ongoing,18
+2372,Male,24,CCU,Infection - Escherichia coli,Streptomycin,Deceased,31
+2373,Male,83,CCU,Drug-resistant TB,Isoniazid,Deceased,23
+2374,Female,38,ICU-1,Infection - Escherichia coli,None,Deceased,18
+2375,Female,47,ED,Drug-resistant TB,Streptomycin,Deceased,21
+2376,Male,23,ICU-1,Drug-resistant TB,None,Recovered,47
+2377,Male,32,ED,Drug-resistant TB,Ethambutol,Deceased,34
+2378,Male,31,ED,Infection - Escherichia coli,Kanamycin,Deceased,56
+2379,Female,23,ICU-1,Drug-resistant TB,Ethambutol,Ongoing,46
+2380,Male,73,CCU,Drug-resistant TB,Ethambutol,Deceased,35
+2381,Male,82,PCU,Infection - Escherichia coli,Streptomycin,Recovered,59
+2382,Female,58,ICU-1,Infection - Escherichia coli,None,Deceased,52
+2383,Male,76,ICU-3,Drug-resistant TB,None,Recovered,50
+2384,Female,84,ICU-3,Infection - Klebsiella pneumoniae,Rifampicin,Recovered,7
+2385,Male,33,PCU,Drug-resistant TB,None,Ongoing,34
+2386,Female,83,PCU,Drug-resistant TB,Kanamycin,Deceased,49
+2387,Female,49,ICU-3,Drug-resistant TB,Ethambutol,Deceased,26
+2388,Female,45,ICU-2,Drug-resistant TB,None,Ongoing,44
+2389,Female,32,PCU,Drug-resistant TB,Streptomycin,Deceased,40
+2390,Male,84,ICU-1,Drug-resistant TB,Rifampicin,Deceased,29
+2391,Male,55,ICU-2,Drug-resistant TB,Streptomycin,Deceased,27
+2392,Female,24,ED,Drug-resistant TB,None,Deceased,31
+2393,Male,65,PCU,Drug-resistant TB,None,Deceased,54
+2394,Female,23,ED,Drug-resistant TB,Ethambutol,Recovered,40
+2395,Female,24,PCU,Drug-resistant TB,Kanamycin,Deceased,36
+2396,Male,71,Med-Surg,Drug-resistant TB,Ethambutol,Deceased,10
+2397,Male,32,CCU,Drug-resistant TB,Rifampicin,Ongoing,33
+2398,Female,50,Med-Surg,Drug-resistant TB,Kanamycin,Deceased,6
+2399,Male,39,PCU,Infection - Escherichia coli,Isoniazid,Recovered,45
+2400,Male,40,PCU,Infection - Methicillin-Resistant Staphylococcus aureus,Isoniazid,Recovered,40
+2401,Male,27,ICU-3,Drug-resistant TB,None,Ongoing,23
+2402,Male,46,ICU-2,Drug-resistant TB,Kanamycin,Deceased,55
+2403,Male,36,ICU-1,Drug-resistant TB,Kanamycin,Ongoing,5
+2404,Male,70,CCU,Infection - Escherichia coli,Rifampicin,Recovered,15
+2405,Female,60,ICU-3,Infection - Methicillin-Resistant Staphylococcus aureus,None,Ongoing,47
+2406,Male,58,ICU-2,Infection - Pseudomonas aeruginosa,None,Ongoing,50
+2407,Male,51,CCU,Infection - Klebsiella pneumoniae,Isoniazid,Recovered,51
+2408,Male,77,Med-Surg,Drug-resistant TB,Ethambutol,Recovered,30
+2409,Male,75,ICU-2,Drug-resistant TB,Kanamycin,Deceased,41
+2410,Female,65,ICU-2,Drug-resistant TB,Rifampicin,Recovered,47
+2411,Female,51,Med-Surg,Infection - Pseudomonas aeruginosa,None,Recovered,29
+2412,Male,82,ICU-2,Drug-resistant TB,Rifampicin,Ongoing,15
+2413,Male,71,PCU,Infection - Methicillin-Resistant Staphylococcus aureus,Isoniazid,Recovered,51
+2414,Male,25,ICU-2,Drug-resistant TB,Kanamycin,Deceased,16
+2415,Male,75,Med-Surg,Infection - Klebsiella pneumoniae,Streptomycin,Recovered,60
+2416,Male,47,ED,Drug-resistant TB,Isoniazid,Deceased,13
+2417,Female,22,PCU,Drug-resistant TB,Streptomycin,Deceased,10
+2418,Female,65,PCU,Infection - Escherichia coli,Kanamycin,Ongoing,49
+2419,Female,50,ICU-2,Infection - Klebsiella pneumoniae,None,Recovered,50
+2420,Female,64,Med-Surg,Drug-resistant TB,Streptomycin,Deceased,48
+2421,Female,68,CCU,Drug-resistant TB,None,Deceased,59
+2422,Male,38,ED,Drug-resistant TB,Isoniazid,Ongoing,56
+2423,Female,84,ICU-3,Infection - Pseudomonas aeruginosa,Rifampicin,Recovered,54
+2424,Male,29,ICU-3,Infection - Escherichia coli,None,Recovered,27
+2425,Male,51,ICU-2,Drug-resistant TB,Isoniazid,Deceased,37
+2426,Female,74,ED,Drug-resistant TB,Rifampicin,Deceased,54
+2427,Male,47,PCU,Drug-resistant TB,Ethambutol,Ongoing,31
+2428,Male,40,ED,Infection - Klebsiella pneumoniae,Rifampicin,Recovered,27
+2429,Female,37,PCU,Infection - Escherichia coli,Isoniazid,Deceased,12
+2430,Male,24,Med-Surg,Drug-resistant TB,Kanamycin,Recovered,35
+2431,Female,58,CCU,Drug-resistant TB,None,Deceased,5
+2432,Female,78,Med-Surg,Drug-resistant TB,Rifampicin,Deceased,28
+2433,Male,47,PCU,Drug-resistant TB,Ethambutol,Recovered,51
+2434,Male,71,ED,Drug-resistant TB,None,Deceased,59
+2435,Male,38,ICU-1,Drug-resistant TB,Ethambutol,Ongoing,57
+2436,Female,20,ED,Drug-resistant TB,None,Deceased,27
+2437,Female,75,ICU-1,Drug-resistant TB,Ethambutol,Ongoing,44
+2438,Female,27,ICU-1,Drug-resistant TB,Rifampicin,Ongoing,26
+2439,Female,70,ICU-2,Drug-resistant TB,Isoniazid,Deceased,59
+2440,Male,30,ICU-1,Drug-resistant TB,Isoniazid,Recovered,40
+2441,Female,47,ICU-2,Drug-resistant TB,None,Ongoing,33
+2442,Female,52,Med-Surg,Drug-resistant TB,None,Deceased,13
+2443,Female,62,ED,Infection - Escherichia coli,Isoniazid,Recovered,56
+2444,Female,19,PCU,Drug-resistant TB,Ethambutol,Deceased,56
+2445,Female,66,ICU-2,Drug-resistant TB,Streptomycin,Deceased,10
+2446,Female,70,ICU-2,Drug-resistant TB,Rifampicin,Recovered,16
+2447,Male,24,Med-Surg,Drug-resistant TB,Isoniazid,Recovered,16
+2448,Female,71,ICU-3,Infection - Escherichia coli,Streptomycin,Ongoing,28
+2449,Male,33,PCU,Drug-resistant TB,Streptomycin,Ongoing,29
+2450,Female,57,ICU-3,Drug-resistant TB,None,Deceased,45
+2451,Male,32,ICU-2,Drug-resistant TB,Isoniazid,Deceased,25
+2452,Male,65,PCU,Drug-resistant TB,Rifampicin,Recovered,20
+2453,Male,31,ICU-2,Drug-resistant TB,Ethambutol,Recovered,19
+2454,Female,23,ED,Drug-resistant TB,Ethambutol,Deceased,40
+2455,Male,26,Med-Surg,Infection - Methicillin-Resistant Staphylococcus aureus,Ethambutol,Deceased,33
+2456,Female,26,CCU,Drug-resistant TB,Kanamycin,Recovered,17
+2457,Male,23,PCU,Drug-resistant TB,Isoniazid,Deceased,16
+2458,Female,24,ICU-3,Drug-resistant TB,None,Ongoing,43
+2459,Female,71,PCU,Infection - Pseudomonas aeruginosa,None,Recovered,55
+2460,Male,85,CCU,Infection - Pseudomonas aeruginosa,None,Recovered,41
+2461,Female,38,Med-Surg,Infection - Pseudomonas aeruginosa,Ethambutol,Recovered,27
+2462,Female,20,Med-Surg,Infection - Pseudomonas aeruginosa,Isoniazid,Recovered,24
+2463,Female,64,Med-Surg,Drug-resistant TB,Ethambutol,Recovered,19
+2464,Male,80,PCU,Infection - Escherichia coli,None,Recovered,43
+2465,Male,66,ICU-1,Infection - Klebsiella pneumoniae,Isoniazid,Recovered,38
+2466,Male,78,Med-Surg,Drug-resistant TB,Streptomycin,Deceased,40
+2467,Female,68,CCU,Infection - Pseudomonas aeruginosa,Kanamycin,Recovered,40
+2468,Female,21,PCU,Infection - Klebsiella pneumoniae,Ethambutol,Deceased,15
+2469,Male,54,ICU-1,Drug-resistant TB,Isoniazid,Deceased,49
+2470,Female,36,CCU,Drug-resistant TB,Kanamycin,Deceased,29
+2471,Female,19,ICU-1,Drug-resistant TB,Ethambutol,Deceased,47
+2472,Male,58,ED,Drug-resistant TB,Rifampicin,Deceased,16
+2473,Female,38,ICU-1,Drug-resistant TB,Ethambutol,Recovered,48
+2474,Female,21,Med-Surg,Drug-resistant TB,Rifampicin,Deceased,19
+2475,Male,71,ICU-2,Drug-resistant TB,Ethambutol,Deceased,32
+2476,Male,57,CCU,Drug-resistant TB,Rifampicin,Recovered,32
+2477,Male,58,ED,Drug-resistant TB,Streptomycin,Recovered,24
+2478,Female,47,Med-Surg,Drug-resistant TB,None,Deceased,19
+2479,Male,67,ED,Drug-resistant TB,Rifampicin,Deceased,13
+2480,Male,26,ICU-2,Drug-resistant TB,Kanamycin,Recovered,60
+2481,Female,68,Med-Surg,Drug-resistant TB,Isoniazid,Ongoing,38
+2482,Female,84,PCU,Drug-resistant TB,Ethambutol,Ongoing,17
+2483,Male,77,PCU,Drug-resistant TB,None,Deceased,10
+2484,Female,21,ICU-2,Drug-resistant TB,None,Recovered,42
+2485,Male,32,CCU,Drug-resistant TB,Ethambutol,Recovered,45
+2486,Female,23,PCU,Infection - Escherichia coli,Kanamycin,Recovered,26
+2487,Female,19,ED,Drug-resistant TB,Streptomycin,Deceased,59
+2488,Male,18,ICU-2,Infection - Escherichia coli,None,Recovered,44
+2489,Male,76,CCU,Drug-resistant TB,Isoniazid,Ongoing,7
+2490,Female,35,ICU-1,Infection - Escherichia coli,Kanamycin,Recovered,26
+2491,Female,84,CCU,Drug-resistant TB,Rifampicin,Recovered,36
+2492,Male,71,ED,Drug-resistant TB,Ethambutol,Recovered,26
+2493,Female,18,ICU-1,Infection - Pseudomonas aeruginosa,Streptomycin,Ongoing,26
+2494,Female,77,PCU,Drug-resistant TB,Isoniazid,Recovered,52
+2495,Female,26,ICU-2,Drug-resistant TB,Isoniazid,Ongoing,58
+2496,Female,22,ICU-3,Drug-resistant TB,Streptomycin,Deceased,10
+2497,Male,29,ED,Drug-resistant TB,Streptomycin,Deceased,56
+2498,Male,84,CCU,Drug-resistant TB,None,Recovered,18
+2499,Male,60,ED,Drug-resistant TB,Kanamycin,Deceased,11
+2500,Female,53,Med-Surg,Drug-resistant TB,Streptomycin,Deceased,54
+2501,Male,62,Med-Surg,Drug-resistant TB,Rifampicin,Deceased,22
+2502,Male,21,ED,Drug-resistant TB,Streptomycin,Deceased,11
+2503,Female,57,ICU-3,Drug-resistant TB,None,Deceased,50
+2504,Female,77,ED,Drug-resistant TB,Rifampicin,Ongoing,19
+2505,Female,80,ICU-1,Drug-resistant TB,Isoniazid,Recovered,35
+2506,Female,31,ICU-3,Infection - Klebsiella pneumoniae,Ethambutol,Recovered,55
+2507,Female,32,Med-Surg,Infection - Escherichia coli,Kanamycin,Recovered,25
+2508,Male,36,CCU,Infection - Pseudomonas aeruginosa,Kanamycin,Recovered,33
+2509,Female,34,PCU,Drug-resistant TB,Ethambutol,Deceased,8
+2510,Male,73,CCU,Drug-resistant TB,Ethambutol,Deceased,45
+2511,Female,64,PCU,Drug-resistant TB,Ethambutol,Deceased,14
+2512,Male,28,ICU-2,Drug-resistant TB,Streptomycin,Deceased,60
+2513,Male,41,ED,Drug-resistant TB,Streptomycin,Recovered,41
+2514,Female,65,ICU-1,Drug-resistant TB,Isoniazid,Deceased,49
+2515,Male,49,ED,Infection - Escherichia coli,None,Deceased,48
+2516,Female,51,ICU-1,Drug-resistant TB,Rifampicin,Recovered,42
+2517,Male,53,ICU-3,Drug-resistant TB,Ethambutol,Recovered,44
+2518,Female,40,ICU-3,Drug-resistant TB,Rifampicin,Deceased,36
+2519,Female,48,CCU,Drug-resistant TB,None,Ongoing,51
+2520,Male,77,ED,Drug-resistant TB,Streptomycin,Deceased,24
+2521,Male,54,PCU,Drug-resistant TB,None,Ongoing,29
+2522,Female,60,ICU-3,Drug-resistant TB,Isoniazid,Ongoing,56
+2523,Female,41,ICU-3,Drug-resistant TB,Isoniazid,Ongoing,48
+2524,Male,22,ICU-1,Drug-resistant TB,Kanamycin,Recovered,8
+2525,Male,32,CCU,Drug-resistant TB,Ethambutol,Deceased,21
+2526,Female,38,PCU,Drug-resistant TB,Isoniazid,Recovered,22
+2527,Female,40,CCU,Drug-resistant TB,Rifampicin,Recovered,11
+2528,Male,50,PCU,Drug-resistant TB,Streptomycin,Ongoing,6
+2529,Male,83,CCU,Drug-resistant TB,Streptomycin,Deceased,35
+2530,Female,60,CCU,Drug-resistant TB,Isoniazid,Recovered,30
+2531,Male,40,Med-Surg,Drug-resistant TB,None,Recovered,29
+2532,Female,42,ICU-2,Drug-resistant TB,Isoniazid,Deceased,17
+2533,Male,22,ICU-3,Drug-resistant TB,None,Deceased,26
+2534,Male,47,ICU-1,Infection - Klebsiella pneumoniae,Rifampicin,Ongoing,52
+2535,Female,39,PCU,Drug-resistant TB,Isoniazid,Deceased,57
+2536,Female,33,CCU,Infection - Methicillin-Resistant Staphylococcus aureus,Rifampicin,Recovered,25
+2537,Male,20,ED,Drug-resistant TB,Isoniazid,Deceased,5
+2538,Male,44,ICU-2,Drug-resistant TB,Streptomycin,Deceased,38
+2539,Female,62,ED,Drug-resistant TB,Rifampicin,Deceased,40
+2540,Male,53,ICU-1,Drug-resistant TB,Rifampicin,Recovered,12
+2541,Female,50,ICU-3,Drug-resistant TB,Isoniazid,Recovered,7
+2542,Female,59,ED,Infection - Methicillin-Resistant Staphylococcus aureus,None,Ongoing,52
+2543,Male,76,ICU-2,Drug-resistant TB,Rifampicin,Recovered,28
+2544,Male,53,ICU-2,Infection - Klebsiella pneumoniae,Streptomycin,Recovered,59
+2545,Female,77,ICU-3,Drug-resistant TB,Streptomycin,Ongoing,51
+2546,Male,71,ICU-1,Drug-resistant TB,None,Recovered,35
+2547,Male,28,Med-Surg,Infection - Escherichia coli,None,Deceased,49
+2548,Female,77,CCU,Drug-resistant TB,None,Deceased,60
+2549,Male,28,Med-Surg,Drug-resistant TB,Isoniazid,Recovered,52
+2550,Male,26,Med-Surg,Drug-resistant TB,Ethambutol,Ongoing,13
+2551,Male,59,ICU-3,Drug-resistant TB,None,Deceased,37
+2552,Female,75,Med-Surg,Drug-resistant TB,None,Deceased,56
+2553,Male,39,ICU-3,Drug-resistant TB,Rifampicin,Ongoing,49
+2554,Female,62,ED,Drug-resistant TB,None,Deceased,52
+2555,Female,61,CCU,Drug-resistant TB,Kanamycin,Deceased,36
+2556,Male,51,ICU-2,Drug-resistant TB,Ethambutol,Deceased,28
+2557,Male,40,PCU,Infection - Klebsiella pneumoniae,Rifampicin,Recovered,15
+2558,Male,56,ICU-1,Drug-resistant TB,Streptomycin,Deceased,30
+2559,Female,55,PCU,Drug-resistant TB,Kanamycin,Recovered,56
+2560,Female,21,ED,Drug-resistant TB,Ethambutol,Ongoing,33
+2561,Male,20,ICU-1,Drug-resistant TB,None,Recovered,48
+2562,Female,36,CCU,Drug-resistant TB,Streptomycin,Recovered,28
+2563,Female,74,ICU-3,Drug-resistant TB,None,Deceased,56
+2564,Female,26,Med-Surg,Drug-resistant TB,Isoniazid,Ongoing,10
+2565,Male,66,ICU-3,Infection - Escherichia coli,Ethambutol,Recovered,7
+2566,Male,33,PCU,Drug-resistant TB,Isoniazid,Ongoing,36
+2567,Female,83,CCU,Drug-resistant TB,Ethambutol,Deceased,59
+2568,Female,71,CCU,Infection - Klebsiella pneumoniae,Ethambutol,Ongoing,8
+2569,Female,64,ICU-1,Drug-resistant TB,Rifampicin,Ongoing,57
+2570,Male,37,Med-Surg,Drug-resistant TB,Rifampicin,Deceased,58
+2571,Female,76,ICU-1,Infection - Methicillin-Resistant Staphylococcus aureus,Rifampicin,Ongoing,57
+2572,Male,36,CCU,Drug-resistant TB,Rifampicin,Deceased,24
+2573,Male,43,ICU-1,Drug-resistant TB,None,Recovered,55
+2574,Male,44,Med-Surg,Drug-resistant TB,None,Deceased,16
+2575,Male,82,Med-Surg,Drug-resistant TB,Kanamycin,Deceased,11
+2576,Male,82,PCU,Drug-resistant TB,None,Deceased,28
+2577,Male,70,ICU-1,Drug-resistant TB,Streptomycin,Recovered,12
+2578,Female,32,ED,Drug-resistant TB,Kanamycin,Ongoing,34
+2579,Male,78,CCU,Infection - Escherichia coli,Isoniazid,Recovered,16
+2580,Female,33,ICU-2,Infection - Methicillin-Resistant Staphylococcus aureus,Streptomycin,Recovered,51
+2581,Female,47,CCU,Drug-resistant TB,Isoniazid,Ongoing,6
+2582,Female,30,PCU,Drug-resistant TB,Kanamycin,Deceased,47
+2583,Male,22,ED,Drug-resistant TB,Streptomycin,Deceased,29
+2584,Female,73,ICU-2,Infection - Methicillin-Resistant Staphylococcus aureus,Streptomycin,Recovered,50
+2585,Female,54,ICU-3,Drug-resistant TB,Kanamycin,Deceased,6
+2586,Male,72,ICU-3,Drug-resistant TB,Ethambutol,Recovered,31
+2587,Male,61,ICU-2,Infection - Methicillin-Resistant Staphylococcus aureus,Ethambutol,Recovered,39
+2588,Female,59,Med-Surg,Drug-resistant TB,Streptomycin,Deceased,56
+2589,Female,64,ED,Drug-resistant TB,None,Deceased,36
+2590,Male,30,Med-Surg,Infection - Pseudomonas aeruginosa,Isoniazid,Recovered,22
+2591,Male,20,CCU,Infection - Methicillin-Resistant Staphylococcus aureus,Streptomycin,Recovered,41
+2592,Female,70,ICU-3,Drug-resistant TB,Rifampicin,Deceased,45
+2593,Male,21,ICU-2,Drug-resistant TB,Streptomycin,Recovered,34
+2594,Male,23,CCU,Drug-resistant TB,Isoniazid,Deceased,55
+2595,Female,35,ICU-2,Infection - Pseudomonas aeruginosa,None,Recovered,41
+2596,Female,48,ED,Infection - Escherichia coli,Isoniazid,Recovered,14
+2597,Female,36,ICU-3,Drug-resistant TB,Ethambutol,Deceased,50
+2598,Male,50,Med-Surg,Infection - Methicillin-Resistant Staphylococcus aureus,None,Recovered,24
+2599,Male,74,CCU,Drug-resistant TB,None,Deceased,56
+2600,Female,30,PCU,Drug-resistant TB,Ethambutol,Deceased,49
+2601,Male,41,CCU,Infection - Escherichia coli,None,Recovered,55
+2602,Male,51,ICU-2,Drug-resistant TB,Ethambutol,Deceased,56
+2603,Male,20,Med-Surg,Drug-resistant TB,Streptomycin,Deceased,10
+2604,Female,39,Med-Surg,Infection - Klebsiella pneumoniae,None,Recovered,5
+2605,Female,42,ED,Drug-resistant TB,Rifampicin,Ongoing,31
+2606,Male,19,ED,Drug-resistant TB,Ethambutol,Deceased,60
+2607,Male,24,ICU-3,Drug-resistant TB,Ethambutol,Ongoing,35
+2608,Female,65,ICU-2,Infection - Klebsiella pneumoniae,Rifampicin,Recovered,42
+2609,Female,53,CCU,Infection - Pseudomonas aeruginosa,Ethambutol,Recovered,32
+2610,Male,22,ED,Drug-resistant TB,None,Ongoing,15
+2611,Female,81,ICU-1,Drug-resistant TB,Ethambutol,Deceased,12
+2612,Male,18,Med-Surg,Drug-resistant TB,Isoniazid,Deceased,31
+2613,Female,31,PCU,Drug-resistant TB,Isoniazid,Ongoing,14
+2614,Male,75,ICU-3,Drug-resistant TB,Isoniazid,Deceased,18
+2615,Female,40,ICU-2,Drug-resistant TB,Isoniazid,Recovered,10
+2616,Female,73,CCU,Drug-resistant TB,Kanamycin,Deceased,48
+2617,Female,72,ICU-1,Drug-resistant TB,Ethambutol,Deceased,56
+2618,Male,81,Med-Surg,Drug-resistant TB,Streptomycin,Deceased,23
+2619,Female,55,Med-Surg,Drug-resistant TB,Isoniazid,Deceased,40
+2620,Female,50,Med-Surg,Drug-resistant TB,Kanamycin,Recovered,54
+2621,Female,58,Med-Surg,Drug-resistant TB,None,Deceased,53
+2622,Female,31,ED,Infection - Methicillin-Resistant Staphylococcus aureus,Streptomycin,Recovered,5
+2623,Male,21,ICU-2,Drug-resistant TB,Rifampicin,Deceased,46
+2624,Male,78,ED,Drug-resistant TB,Rifampicin,Deceased,12
+2625,Female,68,ICU-1,Drug-resistant TB,Isoniazid,Deceased,5
+2626,Male,80,ED,Drug-resistant TB,Kanamycin,Deceased,37
+2627,Female,26,ICU-3,Drug-resistant TB,Isoniazid,Ongoing,35
+2628,Female,74,ICU-2,Drug-resistant TB,None,Deceased,42
+2629,Female,78,PCU,Infection - Klebsiella pneumoniae,Rifampicin,Recovered,44
+2630,Male,20,ICU-3,Infection - Escherichia coli,None,Deceased,27
+2631,Female,37,PCU,Infection - Escherichia coli,Isoniazid,Ongoing,50
+2632,Male,55,CCU,Drug-resistant TB,Kanamycin,Ongoing,53
+2633,Female,18,ICU-2,Drug-resistant TB,Ethambutol,Ongoing,26
+2634,Female,47,ICU-2,Drug-resistant TB,Streptomycin,Deceased,31
+2635,Male,28,ICU-3,Drug-resistant TB,Rifampicin,Ongoing,30
+2636,Female,71,ED,Drug-resistant TB,None,Deceased,51
+2637,Male,74,CCU,Drug-resistant TB,None,Deceased,56
+2638,Female,45,ICU-1,Drug-resistant TB,Ethambutol,Ongoing,38
+2639,Female,82,ICU-1,Drug-resistant TB,Ethambutol,Deceased,58
+2640,Male,76,ICU-3,Infection - Klebsiella pneumoniae,None,Recovered,56
+2641,Male,64,ED,Drug-resistant TB,None,Deceased,14
+2642,Female,84,PCU,Drug-resistant TB,Ethambutol,Deceased,60
+2643,Male,36,Med-Surg,Drug-resistant TB,None,Deceased,36
+2644,Female,33,Med-Surg,Infection - Pseudomonas aeruginosa,Isoniazid,Recovered,12
+2645,Female,45,ICU-2,Drug-resistant TB,Isoniazid,Deceased,5
+2646,Female,78,PCU,Drug-resistant TB,Rifampicin,Deceased,53
+2647,Female,67,ICU-2,Drug-resistant TB,Kanamycin,Recovered,26
+2648,Female,33,CCU,Drug-resistant TB,Kanamycin,Deceased,17
+2649,Male,20,ICU-3,Drug-resistant TB,None,Deceased,20
+2650,Female,73,ICU-2,Drug-resistant TB,Kanamycin,Deceased,6
+2651,Male,37,ICU-3,Drug-resistant TB,Rifampicin,Deceased,48
+2652,Female,51,ED,Drug-resistant TB,Rifampicin,Deceased,8
+2653,Female,77,Med-Surg,Drug-resistant TB,Streptomycin,Deceased,9
+2654,Male,34,ICU-3,Infection - Klebsiella pneumoniae,Isoniazid,Ongoing,33
+2655,Male,25,ED,Drug-resistant TB,Ethambutol,Recovered,43
+2656,Male,56,ICU-1,Drug-resistant TB,Isoniazid,Deceased,49
+2657,Female,75,ICU-3,Drug-resistant TB,Ethambutol,Deceased,47
+2658,Female,18,ICU-1,Drug-resistant TB,Kanamycin,Deceased,31
+2659,Male,74,CCU,Infection - Escherichia coli,Streptomycin,Recovered,27
+2660,Male,29,PCU,Drug-resistant TB,None,Deceased,56
+2661,Male,43,PCU,Drug-resistant TB,Ethambutol,Deceased,12
+2662,Male,26,Med-Surg,Infection - Pseudomonas aeruginosa,Isoniazid,Recovered,52
+2663,Female,18,ED,Drug-resistant TB,Ethambutol,Ongoing,59
+2664,Male,53,ED,Drug-resistant TB,Isoniazid,Deceased,25
+2665,Male,49,ICU-2,Drug-resistant TB,Ethambutol,Deceased,26
+2666,Female,49,ICU-1,Drug-resistant TB,Ethambutol,Deceased,20
+2667,Female,33,ICU-1,Drug-resistant TB,Streptomycin,Deceased,7
+2668,Female,26,ICU-1,Drug-resistant TB,Isoniazid,Deceased,40
+2669,Male,76,ED,Drug-resistant TB,Streptomycin,Recovered,55
+2670,Male,31,ICU-1,Infection - Pseudomonas aeruginosa,None,Recovered,43
+2671,Female,83,CCU,Infection - Pseudomonas aeruginosa,Kanamycin,Ongoing,24
+2672,Male,72,ICU-3,Drug-resistant TB,None,Deceased,17
+2673,Female,56,ED,Drug-resistant TB,Isoniazid,Deceased,15
+2674,Male,79,CCU,Drug-resistant TB,None,Recovered,56
+2675,Male,36,ICU-3,Drug-resistant TB,None,Deceased,17
+2676,Female,49,ICU-2,Drug-resistant TB,Rifampicin,Recovered,6
+2677,Female,76,ICU-2,Infection - Escherichia coli,Ethambutol,Recovered,56
+2678,Female,72,CCU,Drug-resistant TB,Kanamycin,Deceased,7
+2679,Female,44,CCU,Drug-resistant TB,Streptomycin,Deceased,55
+2680,Female,40,ICU-3,Drug-resistant TB,None,Deceased,38
+2681,Male,46,ICU-2,Drug-resistant TB,Rifampicin,Deceased,60
+2682,Male,35,PCU,Drug-resistant TB,Streptomycin,Deceased,23
+2683,Female,65,PCU,Drug-resistant TB,Ethambutol,Recovered,25
+2684,Male,53,ICU-2,Drug-resistant TB,Isoniazid,Ongoing,12
+2685,Male,35,PCU,Drug-resistant TB,Ethambutol,Deceased,5
+2686,Male,68,ICU-2,Infection - Methicillin-Resistant Staphylococcus aureus,None,Deceased,51
+2687,Male,74,ED,Drug-resistant TB,Rifampicin,Deceased,28
+2688,Female,72,CCU,Drug-resistant TB,None,Recovered,53
+2689,Female,66,ICU-2,Drug-resistant TB,Kanamycin,Deceased,9
+2690,Male,40,ICU-1,Drug-resistant TB,Rifampicin,Deceased,6
+2691,Male,39,ICU-3,Infection - Klebsiella pneumoniae,Rifampicin,Recovered,30
+2692,Male,18,ICU-2,Infection - Methicillin-Resistant Staphylococcus aureus,Streptomycin,Recovered,9
+2693,Male,71,ICU-2,Drug-resistant TB,None,Ongoing,44
+2694,Male,38,ICU-3,Drug-resistant TB,Isoniazid,Deceased,47
+2695,Male,31,Med-Surg,Drug-resistant TB,Streptomycin,Deceased,31
+2696,Female,61,CCU,Drug-resistant TB,Rifampicin,Ongoing,59
+2697,Female,26,ICU-1,Drug-resistant TB,Streptomycin,Recovered,50
+2698,Female,39,ICU-1,Infection - Klebsiella pneumoniae,Ethambutol,Recovered,48
+2699,Male,24,PCU,Infection - Escherichia coli,Rifampicin,Recovered,54
+2700,Male,23,ED,Drug-resistant TB,Ethambutol,Deceased,57
+2701,Male,31,ICU-3,Drug-resistant TB,Isoniazid,Ongoing,16
+2702,Female,23,ICU-1,Drug-resistant TB,Ethambutol,Recovered,31
+2703,Female,67,CCU,Drug-resistant TB,Rifampicin,Ongoing,26
+2704,Female,83,CCU,Infection - Pseudomonas aeruginosa,Kanamycin,Recovered,37
+2705,Male,66,ICU-2,Drug-resistant TB,None,Deceased,20
+2706,Female,54,PCU,Infection - Klebsiella pneumoniae,None,Recovered,19
+2707,Male,26,PCU,Drug-resistant TB,Rifampicin,Deceased,9
+2708,Male,82,ICU-1,Drug-resistant TB,Streptomycin,Deceased,51
+2709,Male,52,PCU,Drug-resistant TB,Ethambutol,Deceased,10
+2710,Male,66,ED,Drug-resistant TB,Ethambutol,Deceased,53
+2711,Female,27,ICU-3,Drug-resistant TB,Streptomycin,Deceased,50
+2712,Female,65,ED,Drug-resistant TB,None,Ongoing,24
+2713,Female,50,PCU,Drug-resistant TB,None,Deceased,37
+2714,Female,22,PCU,Drug-resistant TB,None,Deceased,45
+2715,Male,38,ICU-1,Infection - Escherichia coli,Isoniazid,Recovered,54
+2716,Female,57,CCU,Drug-resistant TB,None,Ongoing,53
+2717,Female,18,ICU-2,Drug-resistant TB,Isoniazid,Deceased,5
+2718,Male,43,ED,Drug-resistant TB,Isoniazid,Recovered,37
+2719,Female,31,PCU,Drug-resistant TB,Ethambutol,Deceased,10
+2720,Male,25,ICU-3,Drug-resistant TB,Kanamycin,Ongoing,47
+2721,Female,78,PCU,Drug-resistant TB,Streptomycin,Deceased,43
+2722,Female,25,ICU-3,Drug-resistant TB,Isoniazid,Ongoing,56
+2723,Female,49,ICU-3,Drug-resistant TB,None,Ongoing,44
+2724,Male,64,PCU,Infection - Escherichia coli,None,Recovered,56
+2725,Male,34,ED,Drug-resistant TB,None,Deceased,24
+2726,Male,29,ICU-1,Drug-resistant TB,Isoniazid,Ongoing,50
+2727,Male,80,ICU-1,Infection - Methicillin-Resistant Staphylococcus aureus,Rifampicin,Recovered,60
+2728,Male,32,Med-Surg,Infection - Klebsiella pneumoniae,Ethambutol,Ongoing,13
+2729,Male,55,PCU,Infection - Escherichia coli,None,Ongoing,36
+2730,Male,81,ICU-3,Drug-resistant TB,Ethambutol,Recovered,8
+2731,Female,68,ICU-3,Drug-resistant TB,Kanamycin,Recovered,6
+2732,Female,42,CCU,Drug-resistant TB,Rifampicin,Deceased,11
+2733,Female,55,ICU-2,Drug-resistant TB,None,Ongoing,18
+2734,Female,72,CCU,Infection - Pseudomonas aeruginosa,Isoniazid,Recovered,8
+2735,Female,56,CCU,Drug-resistant TB,None,Deceased,46
+2736,Female,65,ICU-1,Drug-resistant TB,Isoniazid,Ongoing,12
+2737,Female,30,PCU,Drug-resistant TB,Streptomycin,Ongoing,29
+2738,Male,69,PCU,Drug-resistant TB,Kanamycin,Deceased,30
+2739,Male,33,ICU-2,Drug-resistant TB,Kanamycin,Ongoing,5
+2740,Male,33,Med-Surg,Drug-resistant TB,Kanamycin,Ongoing,28
+2741,Female,35,Med-Surg,Drug-resistant TB,Ethambutol,Recovered,49
+2742,Male,36,ICU-3,Infection - Methicillin-Resistant Staphylococcus aureus,Kanamycin,Recovered,13
+2743,Female,36,Med-Surg,Drug-resistant TB,None,Deceased,9
+2744,Male,71,PCU,Drug-resistant TB,Streptomycin,Deceased,25
+2745,Female,29,ICU-3,Infection - Klebsiella pneumoniae,Ethambutol,Ongoing,54
+2746,Female,30,Med-Surg,Drug-resistant TB,Kanamycin,Ongoing,49
+2747,Female,69,ED,Drug-resistant TB,Isoniazid,Deceased,21
+2748,Female,49,CCU,Drug-resistant TB,Streptomycin,Deceased,50
+2749,Female,29,ICU-3,Drug-resistant TB,Ethambutol,Recovered,54
+2750,Female,19,ED,Infection - Escherichia coli,Streptomycin,Deceased,35
+2751,Male,75,ICU-2,Infection - Methicillin-Resistant Staphylococcus aureus,Isoniazid,Recovered,16
+2752,Female,56,ED,Drug-resistant TB,Rifampicin,Ongoing,21
+2753,Male,77,Med-Surg,Infection - Pseudomonas aeruginosa,Ethambutol,Recovered,8
+2754,Male,70,ICU-1,Drug-resistant TB,Rifampicin,Deceased,5
+2755,Male,74,CCU,Drug-resistant TB,Rifampicin,Deceased,15
+2756,Male,68,ED,Infection - Methicillin-Resistant Staphylococcus aureus,Rifampicin,Deceased,7
+2757,Female,34,ICU-1,Drug-resistant TB,Isoniazid,Ongoing,55
+2758,Male,73,ED,Infection - Klebsiella pneumoniae,Streptomycin,Deceased,23
+2759,Male,42,PCU,Infection - Methicillin-Resistant Staphylococcus aureus,Isoniazid,Recovered,19
+2760,Male,46,ICU-3,Drug-resistant TB,Isoniazid,Deceased,35
+2761,Male,58,ICU-1,Drug-resistant TB,Isoniazid,Recovered,7
+2762,Female,80,ICU-3,Drug-resistant TB,Isoniazid,Ongoing,24
+2763,Female,48,CCU,Drug-resistant TB,Kanamycin,Ongoing,18
+2764,Male,75,ICU-1,Drug-resistant TB,Kanamycin,Recovered,39
+2765,Female,50,PCU,Drug-resistant TB,Streptomycin,Ongoing,28
+2766,Male,53,CCU,Drug-resistant TB,Isoniazid,Deceased,23
+2767,Male,74,PCU,Drug-resistant TB,Streptomycin,Ongoing,40
+2768,Female,82,CCU,Drug-resistant TB,Rifampicin,Deceased,24
+2769,Male,53,ICU-2,Drug-resistant TB,Isoniazid,Ongoing,60
+2770,Male,51,CCU,Infection - Klebsiella pneumoniae,Kanamycin,Ongoing,31
+2771,Male,66,CCU,Drug-resistant TB,None,Ongoing,60
+2772,Male,75,ICU-2,Drug-resistant TB,Rifampicin,Ongoing,28
+2773,Female,20,ICU-3,Drug-resistant TB,Streptomycin,Deceased,16
+2774,Male,85,ICU-2,Infection - Escherichia coli,Isoniazid,Recovered,43
+2775,Male,61,PCU,Infection - Klebsiella pneumoniae,Rifampicin,Recovered,17
+2776,Male,55,ICU-1,Drug-resistant TB,Isoniazid,Ongoing,14
+2777,Male,80,ICU-2,Drug-resistant TB,Isoniazid,Recovered,19
+2778,Male,40,ED,Drug-resistant TB,Rifampicin,Deceased,43
+2779,Female,81,CCU,Infection - Methicillin-Resistant Staphylococcus aureus,None,Recovered,21
+2780,Female,34,ICU-2,Drug-resistant TB,Ethambutol,Recovered,27
+2781,Female,71,Med-Surg,Infection - Methicillin-Resistant Staphylococcus aureus,Kanamycin,Recovered,39
+2782,Female,78,ICU-2,Drug-resistant TB,Ethambutol,Ongoing,8
+2783,Male,46,ICU-1,Drug-resistant TB,None,Ongoing,12
+2784,Male,79,PCU,Drug-resistant TB,Rifampicin,Recovered,6
+2785,Female,35,CCU,Drug-resistant TB,Streptomycin,Recovered,35
+2786,Male,82,ICU-2,Drug-resistant TB,Streptomycin,Deceased,30
+2787,Male,52,ICU-1,Drug-resistant TB,None,Deceased,13
+2788,Female,79,ICU-3,Drug-resistant TB,Streptomycin,Deceased,57
+2789,Male,48,ICU-3,Drug-resistant TB,Isoniazid,Deceased,39
+2790,Male,52,ICU-1,Drug-resistant TB,Streptomycin,Deceased,41
+2791,Male,58,PCU,Drug-resistant TB,Ethambutol,Deceased,51
+2792,Male,66,ED,Infection - Klebsiella pneumoniae,Rifampicin,Recovered,23
+2793,Female,73,ICU-1,Drug-resistant TB,Rifampicin,Deceased,20
+2794,Female,29,ED,Drug-resistant TB,Ethambutol,Recovered,34
+2795,Female,78,ICU-3,Drug-resistant TB,Rifampicin,Ongoing,46
+2796,Female,64,Med-Surg,Infection - Escherichia coli,Isoniazid,Recovered,28
+2797,Male,55,ED,Drug-resistant TB,Streptomycin,Deceased,41
+2798,Male,28,ICU-2,Infection - Methicillin-Resistant Staphylococcus aureus,Streptomycin,Recovered,30
+2799,Female,22,Med-Surg,Drug-resistant TB,Ethambutol,Deceased,8
+2800,Male,28,ICU-2,Drug-resistant TB,Streptomycin,Deceased,22
+2801,Male,72,ICU-3,Drug-resistant TB,Rifampicin,Deceased,15
+2802,Female,19,Med-Surg,Drug-resistant TB,None,Deceased,9
+2803,Male,37,ED,Drug-resistant TB,Ethambutol,Ongoing,36
+2804,Female,30,ICU-1,Drug-resistant TB,Rifampicin,Ongoing,52
+2805,Male,65,PCU,Drug-resistant TB,Ethambutol,Deceased,6
+2806,Female,84,PCU,Drug-resistant TB,Rifampicin,Deceased,12
+2807,Female,30,ICU-1,Infection - Escherichia coli,None,Deceased,10
+2808,Female,32,ICU-2,Drug-resistant TB,Ethambutol,Deceased,12
+2809,Female,52,CCU,Drug-resistant TB,Streptomycin,Deceased,24
+2810,Female,60,ICU-2,Drug-resistant TB,Kanamycin,Deceased,20
+2811,Female,40,ED,Drug-resistant TB,Rifampicin,Deceased,38
+2812,Female,38,ICU-3,Drug-resistant TB,Isoniazid,Deceased,10
+2813,Female,21,CCU,Infection - Klebsiella pneumoniae,None,Recovered,34
+2814,Male,32,ED,Infection - Klebsiella pneumoniae,Rifampicin,Ongoing,11
+2815,Male,71,ED,Drug-resistant TB,Streptomycin,Deceased,45
+2816,Female,62,ED,Infection - Klebsiella pneumoniae,Kanamycin,Recovered,15
+2817,Female,53,ED,Drug-resistant TB,Ethambutol,Ongoing,10
+2818,Female,40,ICU-2,Drug-resistant TB,Isoniazid,Deceased,30
+2819,Female,58,Med-Surg,Drug-resistant TB,Streptomycin,Recovered,43
+2820,Female,70,ICU-3,Drug-resistant TB,Isoniazid,Recovered,30
+2821,Male,58,ICU-1,Drug-resistant TB,None,Deceased,25
+2822,Female,45,Med-Surg,Drug-resistant TB,Kanamycin,Ongoing,11
+2823,Female,58,PCU,Infection - Escherichia coli,Rifampicin,Recovered,17
+2824,Male,18,ED,Drug-resistant TB,Streptomycin,Deceased,13
+2825,Female,53,ICU-3,Drug-resistant TB,Isoniazid,Deceased,30
+2826,Female,31,ICU-1,Drug-resistant TB,Isoniazid,Deceased,8
+2827,Male,24,ICU-3,Infection - Methicillin-Resistant Staphylococcus aureus,Isoniazid,Recovered,12
+2828,Female,33,Med-Surg,Infection - Escherichia coli,Streptomycin,Recovered,41
+2829,Male,45,ED,Drug-resistant TB,Streptomycin,Deceased,17
+2830,Female,37,PCU,Infection - Methicillin-Resistant Staphylococcus aureus,Rifampicin,Recovered,13
+2831,Male,32,ICU-2,Drug-resistant TB,Rifampicin,Ongoing,34
+2832,Female,45,ICU-2,Infection - Methicillin-Resistant Staphylococcus aureus,Streptomycin,Recovered,37
+2833,Female,84,ED,Drug-resistant TB,Isoniazid,Deceased,48
+2834,Male,53,ICU-2,Drug-resistant TB,Streptomycin,Ongoing,30
+2835,Female,54,CCU,Drug-resistant TB,Rifampicin,Recovered,11
+2836,Male,41,ICU-3,Drug-resistant TB,Isoniazid,Recovered,14
+2837,Female,78,Med-Surg,Infection - Pseudomonas aeruginosa,Rifampicin,Recovered,36
+2838,Female,80,CCU,Drug-resistant TB,Ethambutol,Deceased,39
+2839,Female,32,ICU-3,Infection - Methicillin-Resistant Staphylococcus aureus,Streptomycin,Recovered,14
+2840,Female,85,ICU-2,Drug-resistant TB,Ethambutol,Ongoing,48
+2841,Male,73,PCU,Infection - Klebsiella pneumoniae,Ethambutol,Recovered,41
+2842,Male,76,ICU-1,Infection - Escherichia coli,Kanamycin,Deceased,23
+2843,Male,55,ICU-2,Drug-resistant TB,Ethambutol,Deceased,35
+2844,Female,40,Med-Surg,Drug-resistant TB,Ethambutol,Deceased,48
+2845,Female,77,Med-Surg,Infection - Pseudomonas aeruginosa,Streptomycin,Deceased,29
+2846,Male,56,PCU,Drug-resistant TB,Kanamycin,Ongoing,42
+2847,Female,18,ED,Drug-resistant TB,Isoniazid,Deceased,58
+2848,Female,60,PCU,Drug-resistant TB,None,Deceased,12
+2849,Male,46,CCU,Drug-resistant TB,None,Recovered,24
+2850,Male,84,ICU-1,Drug-resistant TB,Isoniazid,Deceased,18
+2851,Male,51,PCU,Infection - Klebsiella pneumoniae,None,Recovered,59
+2852,Female,65,CCU,Drug-resistant TB,Streptomycin,Deceased,30
+2853,Male,56,ICU-1,Drug-resistant TB,Ethambutol,Ongoing,7
+2854,Male,62,CCU,Drug-resistant TB,Isoniazid,Deceased,37
+2855,Female,56,ED,Drug-resistant TB,None,Deceased,58
+2856,Female,34,CCU,Drug-resistant TB,Kanamycin,Recovered,42
+2857,Male,81,CCU,Drug-resistant TB,Rifampicin,Ongoing,25
+2858,Male,50,ICU-1,Drug-resistant TB,None,Deceased,59
+2859,Female,35,CCU,Drug-resistant TB,Ethambutol,Deceased,17
+2860,Male,21,CCU,Drug-resistant TB,Isoniazid,Recovered,18
+2861,Female,42,PCU,Drug-resistant TB,Streptomycin,Deceased,41
+2862,Female,27,Med-Surg,Drug-resistant TB,Kanamycin,Deceased,13
+2863,Female,67,CCU,Drug-resistant TB,Rifampicin,Deceased,9
+2864,Male,32,Med-Surg,Drug-resistant TB,None,Recovered,21
+2865,Female,25,ICU-2,Infection - Escherichia coli,Kanamycin,Recovered,9
+2866,Female,73,ED,Infection - Methicillin-Resistant Staphylococcus aureus,Rifampicin,Recovered,55
+2867,Female,72,Med-Surg,Drug-resistant TB,Streptomycin,Recovered,12
+2868,Male,47,ED,Infection - Pseudomonas aeruginosa,Isoniazid,Recovered,56
+2869,Male,27,ICU-3,Drug-resistant TB,None,Deceased,36
+2870,Female,58,CCU,Drug-resistant TB,Ethambutol,Ongoing,8
+2871,Female,44,ICU-1,Infection - Escherichia coli,Rifampicin,Ongoing,51
+2872,Male,53,PCU,Drug-resistant TB,Isoniazid,Deceased,36
+2873,Male,62,ICU-1,Infection - Methicillin-Resistant Staphylococcus aureus,Ethambutol,Ongoing,58
+2874,Female,72,Med-Surg,Drug-resistant TB,Streptomycin,Deceased,15
+2875,Female,61,Med-Surg,Drug-resistant TB,Kanamycin,Recovered,7
+2876,Female,51,PCU,Drug-resistant TB,Streptomycin,Deceased,33
+2877,Male,28,ICU-3,Drug-resistant TB,Streptomycin,Recovered,9
+2878,Male,47,ICU-1,Drug-resistant TB,None,Deceased,16
+2879,Female,20,CCU,Drug-resistant TB,None,Recovered,39
+2880,Female,65,PCU,Drug-resistant TB,None,Deceased,9
+2881,Female,55,Med-Surg,Drug-resistant TB,Ethambutol,Deceased,15
+2882,Female,45,ED,Drug-resistant TB,None,Deceased,47
+2883,Female,33,PCU,Drug-resistant TB,Streptomycin,Ongoing,43
+2884,Male,64,ICU-2,Infection - Pseudomonas aeruginosa,None,Recovered,25
+2885,Male,70,CCU,Drug-resistant TB,Ethambutol,Deceased,43
+2886,Male,41,ED,Drug-resistant TB,Isoniazid,Recovered,15
+2887,Male,39,ICU-1,Drug-resistant TB,Kanamycin,Recovered,37
+2888,Male,23,ICU-1,Infection - Klebsiella pneumoniae,Streptomycin,Ongoing,33
+2889,Female,66,ICU-3,Infection - Methicillin-Resistant Staphylococcus aureus,Kanamycin,Ongoing,16
+2890,Male,73,Med-Surg,Drug-resistant TB,Kanamycin,Deceased,41
+2891,Female,51,Med-Surg,Drug-resistant TB,None,Ongoing,19
+2892,Male,18,ED,Infection - Methicillin-Resistant Staphylococcus aureus,Rifampicin,Deceased,28
+2893,Male,53,CCU,Drug-resistant TB,Isoniazid,Ongoing,27
+2894,Male,58,ICU-1,Drug-resistant TB,None,Ongoing,11
+2895,Male,49,ICU-2,Drug-resistant TB,Rifampicin,Deceased,60
+2896,Male,84,PCU,Drug-resistant TB,Streptomycin,Deceased,5
+2897,Male,62,ED,Drug-resistant TB,Rifampicin,Deceased,24
+2898,Male,32,PCU,Drug-resistant TB,Streptomycin,Deceased,31
+2899,Male,79,PCU,Infection - Methicillin-Resistant Staphylococcus aureus,Streptomycin,Recovered,43
+2900,Female,80,CCU,Drug-resistant TB,None,Deceased,26
+2901,Female,34,Med-Surg,Drug-resistant TB,Isoniazid,Deceased,51
+2902,Male,64,Med-Surg,Drug-resistant TB,Kanamycin,Deceased,15
+2903,Male,22,PCU,Drug-resistant TB,Kanamycin,Deceased,53
+2904,Male,52,CCU,Drug-resistant TB,Streptomycin,Recovered,57
+2905,Male,19,CCU,Drug-resistant TB,None,Deceased,11
+2906,Female,53,ED,Drug-resistant TB,Ethambutol,Deceased,11
+2907,Female,82,ICU-2,Drug-resistant TB,Streptomycin,Ongoing,6
+2908,Male,75,ICU-3,Drug-resistant TB,Isoniazid,Deceased,41
+2909,Male,28,ICU-2,Infection - Pseudomonas aeruginosa,Streptomycin,Recovered,44
+2910,Male,52,CCU,Drug-resistant TB,Kanamycin,Deceased,53
+2911,Male,31,ED,Drug-resistant TB,Rifampicin,Recovered,29
+2912,Female,39,CCU,Drug-resistant TB,None,Ongoing,13
+2913,Female,65,Med-Surg,Drug-resistant TB,Ethambutol,Deceased,14
+2914,Male,60,CCU,Drug-resistant TB,Kanamycin,Ongoing,15
+2915,Male,43,CCU,Drug-resistant TB,Streptomycin,Ongoing,39
+2916,Female,19,ICU-2,Infection - Pseudomonas aeruginosa,Streptomycin,Recovered,23
+2917,Female,31,ICU-2,Infection - Methicillin-Resistant Staphylococcus aureus,Kanamycin,Ongoing,26
+2918,Male,39,ED,Drug-resistant TB,Isoniazid,Deceased,25
+2919,Male,68,ED,Drug-resistant TB,Streptomycin,Ongoing,50
+2920,Female,36,PCU,Infection - Pseudomonas aeruginosa,Streptomycin,Recovered,40
+2921,Female,65,ICU-2,Drug-resistant TB,Streptomycin,Ongoing,17
+2922,Male,52,ICU-1,Infection - Escherichia coli,Streptomycin,Deceased,46
+2923,Male,65,ICU-1,Infection - Methicillin-Resistant Staphylococcus aureus,None,Ongoing,50
+2924,Female,84,ICU-1,Drug-resistant TB,None,Recovered,31
+2925,Male,53,Med-Surg,Drug-resistant TB,Kanamycin,Ongoing,49
+2926,Female,77,Med-Surg,Drug-resistant TB,Streptomycin,Ongoing,41
+2927,Male,45,CCU,Infection - Klebsiella pneumoniae,Isoniazid,Recovered,34
+2928,Female,70,ICU-2,Drug-resistant TB,Rifampicin,Deceased,22
+2929,Female,39,ICU-1,Drug-resistant TB,Kanamycin,Deceased,14
+2930,Female,29,Med-Surg,Drug-resistant TB,Rifampicin,Deceased,21
+2931,Female,65,Med-Surg,Infection - Escherichia coli,Kanamycin,Deceased,47
+2932,Male,20,ED,Drug-resistant TB,Kanamycin,Deceased,42
+2933,Female,56,ICU-1,Drug-resistant TB,Kanamycin,Recovered,53
+2934,Female,85,ICU-2,Infection - Pseudomonas aeruginosa,None,Deceased,13
+2935,Male,48,PCU,Drug-resistant TB,Isoniazid,Recovered,32
+2936,Female,68,CCU,Infection - Klebsiella pneumoniae,None,Ongoing,35
+2937,Female,27,ICU-3,Drug-resistant TB,None,Deceased,47
+2938,Female,27,CCU,Drug-resistant TB,Streptomycin,Deceased,13
+2939,Female,67,CCU,Drug-resistant TB,Ethambutol,Recovered,7
+2940,Female,19,ICU-2,Infection - Methicillin-Resistant Staphylococcus aureus,Kanamycin,Deceased,13
+2941,Female,32,PCU,Drug-resistant TB,Kanamycin,Deceased,32
+2942,Female,73,ICU-1,Drug-resistant TB,Isoniazid,Deceased,23
+2943,Male,52,ICU-2,Drug-resistant TB,Streptomycin,Recovered,27
+2944,Male,40,ICU-1,Infection - Methicillin-Resistant Staphylococcus aureus,None,Recovered,13
+2945,Male,66,Med-Surg,Drug-resistant TB,None,Ongoing,26
+2946,Female,32,PCU,Drug-resistant TB,Ethambutol,Deceased,41
+2947,Male,73,ICU-3,Drug-resistant TB,Kanamycin,Deceased,22
+2948,Female,34,ICU-3,Infection - Klebsiella pneumoniae,Kanamycin,Recovered,34
+2949,Female,58,ICU-3,Drug-resistant TB,Streptomycin,Recovered,14
+2950,Male,80,Med-Surg,Infection - Methicillin-Resistant Staphylococcus aureus,Rifampicin,Recovered,10
+2951,Female,80,ICU-2,Drug-resistant TB,Rifampicin,Deceased,39
+2952,Female,70,ICU-3,Drug-resistant TB,Kanamycin,Deceased,31
+2953,Female,46,PCU,Infection - Escherichia coli,Streptomycin,Recovered,36
+2954,Female,42,CCU,Drug-resistant TB,Rifampicin,Ongoing,44
+2955,Male,39,Med-Surg,Infection - Klebsiella pneumoniae,Isoniazid,Deceased,48
+2956,Female,34,ICU-3,Drug-resistant TB,Rifampicin,Deceased,6
+2957,Male,60,PCU,Drug-resistant TB,Streptomycin,Ongoing,20
+2958,Male,71,ICU-3,Drug-resistant TB,Kanamycin,Ongoing,50
+2959,Female,69,CCU,Drug-resistant TB,Isoniazid,Deceased,32
+2960,Female,36,ICU-2,Drug-resistant TB,Ethambutol,Deceased,18
+2961,Female,55,CCU,Drug-resistant TB,Streptomycin,Deceased,26
+2962,Female,64,CCU,Infection - Pseudomonas aeruginosa,None,Deceased,24
+2963,Male,45,Med-Surg,Drug-resistant TB,Kanamycin,Deceased,14
+2964,Female,37,Med-Surg,Drug-resistant TB,Ethambutol,Deceased,38
+2965,Female,46,ICU-3,Infection - Methicillin-Resistant Staphylococcus aureus,Rifampicin,Recovered,19
+2966,Female,30,ICU-3,Drug-resistant TB,Kanamycin,Deceased,22
+2967,Female,41,CCU,Drug-resistant TB,None,Ongoing,19
+2968,Male,84,ICU-3,Drug-resistant TB,Rifampicin,Deceased,18
+2969,Male,43,ED,Drug-resistant TB,Isoniazid,Recovered,33
+2970,Male,74,PCU,Drug-resistant TB,None,Recovered,42
+2971,Female,83,ICU-3,Drug-resistant TB,Kanamycin,Ongoing,21
+2972,Female,18,ICU-3,Drug-resistant TB,Rifampicin,Ongoing,36
+2973,Male,42,PCU,Drug-resistant TB,Rifampicin,Deceased,53
+2974,Male,37,ICU-3,Drug-resistant TB,Streptomycin,Deceased,17
+2975,Female,47,ICU-3,Drug-resistant TB,Ethambutol,Deceased,59
+2976,Female,71,ICU-1,Drug-resistant TB,Streptomycin,Deceased,8
+2977,Female,65,ICU-1,Infection - Methicillin-Resistant Staphylococcus aureus,Streptomycin,Recovered,32
+2978,Female,23,PCU,Drug-resistant TB,None,Recovered,49
+2979,Female,74,ICU-3,Drug-resistant TB,Rifampicin,Deceased,35
+2980,Male,29,ED,Drug-resistant TB,Kanamycin,Deceased,25
+2981,Female,64,PCU,Infection - Pseudomonas aeruginosa,Rifampicin,Recovered,52
+2982,Male,85,ICU-1,Drug-resistant TB,Kanamycin,Deceased,6
+2983,Male,27,Med-Surg,Infection - Methicillin-Resistant Staphylococcus aureus,Isoniazid,Ongoing,40
+2984,Female,37,CCU,Drug-resistant TB,Rifampicin,Deceased,9
+2985,Female,55,ICU-1,Drug-resistant TB,Isoniazid,Deceased,6
+2986,Male,63,CCU,Drug-resistant TB,Rifampicin,Deceased,17
+2987,Female,26,ICU-3,Drug-resistant TB,None,Deceased,19
+2988,Male,35,ED,Infection - Methicillin-Resistant Staphylococcus aureus,Streptomycin,Recovered,58
+2989,Male,38,PCU,Drug-resistant TB,Streptomycin,Recovered,12
+2990,Female,79,ICU-3,Infection - Pseudomonas aeruginosa,Isoniazid,Ongoing,34
+2991,Female,59,ICU-1,Drug-resistant TB,Rifampicin,Recovered,59
+2992,Male,55,ICU-3,Drug-resistant TB,Rifampicin,Deceased,57
+2993,Male,38,ICU-1,Drug-resistant TB,Ethambutol,Recovered,18
+2994,Female,22,CCU,Infection - Escherichia coli,Isoniazid,Recovered,31
+2995,Female,35,PCU,Drug-resistant TB,Streptomycin,Deceased,24
+2996,Female,43,ICU-2,Infection - Pseudomonas aeruginosa,Rifampicin,Recovered,37
+2997,Female,84,Med-Surg,Drug-resistant TB,Rifampicin,Deceased,53
+2998,Male,43,ICU-2,Drug-resistant TB,None,Deceased,14
+2999,Female,75,ICU-2,Drug-resistant TB,Ethambutol,Deceased,44

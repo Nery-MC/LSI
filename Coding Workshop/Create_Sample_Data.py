@@ -159,12 +159,16 @@ for i in tqdm(range(NUM_PATIENTS)):
         if Cluster_Genes:
             Genes = Cluster_Genes
         else:
-            Num_Genes = random.randint(1, len(Available_Genes))
-            Genes = random.sample(Available_Genes, Num_Genes)
+            Num_Genes = 0
+            Genes = []
         
         Expression_Levels = {gene: round(random.uniform(10.0, 300.00), 2) for gene in Genes}
 
-    Avg_Expression = sum(Expression_Levels.values()) / len(Expression_Levels)
+    if Num_Genes == 0: 
+        Avg_Expression = 0
+    else: 
+        Avg_Expression = sum(Expression_Levels.values()) / len(Expression_Levels)
+        
     if Avg_Expression > 700:
         Outcome = random.choices(OUTCOMES, weights=[0.2, 0.7, 0.1])[0]
     elif Avg_Expression > 500:
